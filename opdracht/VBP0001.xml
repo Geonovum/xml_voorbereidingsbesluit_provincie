@@ -65,7 +65,7 @@
                   <Label>Artikel</Label>
                   <Nummer>II</Nummer>
                </Kop>
-               <Wat>Voor het omgevingsplan van de gemeente A gelden de voorbeschermingsregels die zijn vastgelegd in bijlage I.</Wat>
+               <Wat>Voor het omgevingsplan van de gemeente A gelden de voorbeschermingsregels die zijn vastgelegd in <IntRef ref="cmp_I">bijlage I</IntRef>.</Wat>
             </WijzigArtikel>
             <Artikel eId="art_III" wId="pv22_1__art_III">
                <Kop>
