@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" schemaversie="1.0.3">
+   <BesluitVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/akn/nl/bill/pv25/2020/VBP0001</FRBRWork>
+         <FRBRExpression>/akn/nl/bill/pv25/2020/VBP0001/nld@2020-11-27</FRBRExpression>
+         <soortWork>/join/id/stop/work_003</soortWork>
+      </ExpressionIdentificatie>
+      <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/provincie/pv25</eindverantwoordelijke>
+         <maker>/tooi/id/provincie/pv25</maker>
+         <officieleTitel>Voorbereidingsbesluit voor alle gemeenten in Provincieland</officieleTitel>
+         <onderwerpen>
+            <onderwerp>/tooi/def/concept/c_9af4b880</onderwerp><!-- ruimtelijke ordening -->
+         </onderwerpen>
+         <rechtsgebieden>
+            <rechtsgebied>ruimtelijke ordening</rechtsgebied><!-- agrarisch recht -->
+         </rechtsgebieden>
+         <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
+         <informatieobjectRefs>
+            <informatieobjectRef></informatieobjectRef>
+         </informatieobjectRefs>
+      </BesluitMetadata>
+      <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <bekendOp>2020-11-30</bekendOp>
+         <ontvangenOp>2020-11-30</ontvangenOp>
+         <procedurestappen>
+            <Procedurestap>
+               <soortStap>/join/id/stop/procedure/stap_002</soortStap>
+               <voltooidOp>2020-11-27</voltooidOp>
+            </Procedurestap>
+            <Procedurestap>
+               <soortStap>/join/id/stop/procedure/stap_003</soortStap>
+               <voltooidOp>2020-11-30</voltooidOp>
+            </Procedurestap>
+         </procedurestappen>
+      </Procedureverloop>
+      <ConsolidatieInformatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <BeoogdeRegelgeving>
+            <BeoogdeRegeling>
+               <doelen>
+                  <doel>/join/id/proces/pv25/2020/Instelling</doel>
+               </doelen>
+               <instrumentVersie>/akn/nl/act/pv25/2020/VBP0001/nld@2020-11-30</instrumentVersie>
+               <eId>art_I</eId>
+            </BeoogdeRegeling>
+         </BeoogdeRegelgeving>
+         <Tijdstempels>
+            <Tijdstempel>
+               <doel>/join/id/proces/pv25/2020/Instelling</doel>
+               <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
+               <datum>2020-06-01</datum>
+               <eId>art_IV</eId>
+            </Tijdstempel>
+         </Tijdstempels>
+      </ConsolidatieInformatie>
+      <BesluitCompact xmlns="https://standaarden.overheid.nl/stop/imop/tekst/">
+         <RegelingOpschrift eId="longTitle" wId="longTitle">
+            <Al>Voorbereidingsbesluit voor alle gemeenten in Provincieland</Al>
+         </RegelingOpschrift>
+         <Aanhef eId="formula_1" wId="formula_1">
+            <Al>Provinciale staten van de provincie Provincieland,</Al>
+            <Al>gelezen het statenvoorstel d.d. 27 november 2020, nr 83-2020,</Al>
+            <Al>overwegende dat het wenselijk is om te voorkomen dat de locaties die tot dit voorbereidingsbesluit behoren, minder geschikt worden voor de verwezenlijking van het doel van de in het omgevingsplan te stellen regels;</Al>
+            <Al>besluiten:</Al>
+         </Aanhef>
+         <Lichaam eId="body" wId="body">
+            <WijzigArtikel eId="art_I" wId="pv25_1.0__art_I">
+               <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>I</Nummer>
+               </Kop>
+               <Wat>Met het oog op in de omgevingsplannen van alle gemeenten in de provincie Provincieland te stellen regels wordt een wijziging van de omgevingsverordening voorbereid.</Wat>
+            </WijzigArtikel>
+            <Artikel eId="art_II" wId="pv25_1.0__art_II">
+               <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>II</Nummer>
+               </Kop>
+               <Inhoud>
+                  <Al>Voor het omgevingsplan van de gemeente Gemeentestad gelden de voorbeschermingsregels die zijn vastgelegd in bijlage I.</Al>
+               </Inhoud>
+            </Artikel>
+            <Artikel eId="art_III" wId="pv25_1.0__art_III">
+               <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>III</Nummer>
+               </Kop>
+               <Inhoud>
+                  <Al>Voor het omgevingsplan van de gemeente Buurgemeentestad gelden de voorbeschermingsregels die zijn vastgelegd in bijlage I.</Al>
+               </Inhoud>
+            </Artikel>
+            <Artikel eId="art_IV" wId="pv25_1.0__art_IV">
+               <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>IV</Nummer>
+               </Kop>
+               <Inhoud>
+                  <Al>Dit voorbereidingsbesluit treedt in werking op de dag waarop het bekend wordt gemaakt.</Al>
+               </Inhoud>
+            </Artikel>
+         </Lichaam>
+         <Sluiting eId="formula_2" wId="formula_2">
+            <Al>Aldus besloten in de vergadering d.d. 30 november 2020</Al>
+            <Ondertekening>
+               <Al>B.Y. Twaalf</Al>
+               <Al>De voorzitter</Al>
+               <Al>S.E. Cretaris</Al>
+               <Al>De griffier</Al>
+            </Ondertekening>
+         </Sluiting>
+         <WijzigBijlage eId="cmp_I" wId="pv25_1.0__cmp_I">
+            <Kop>
+               <Label>Bijlage</Label>
+               <Nummer>I</Nummer>
+            </Kop>
+            <RegelingTijdelijkdeel componentnaam="initieel_reg" wordt="/akn/nl/act/pv25/2020/VBP0001/nld@2020-11-30">
+               <RegelingOpschrift eId="longTitle" wId="longTitle">
+                  <Al>Voorbereidingsbesluit voor alle gemeenten in Provincieland</Al>
+               </RegelingOpschrift>
+               <Lichaam eId="body" wId="body">
+                  <Conditie>
+                     <Artikel eId="art_o_1" wId="gm0297_1__art_o_1">
+                        <Kop>
+                           <Opschrift>Voorrangsbepaling</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>In aanvulling op en/of in afwijking van de bepalingen in het omgevingsplan gelden de navolgende voorbeschermingsregels. Voor zover deze voorbeschermingsregels afwijken van de regels van het omgevingsplan gelden alleen de voorbeschermingsregels. </Al>
+                        </Inhoud>
+                     </Artikel>
+                  </Conditie>
+                  <Hoofdstuk eId="chp_1" wId="pv25_1.0__chp_1">
+                     <Kop>
+                        <Label>Hoofdstuk</Label>
+                        <Nummer>1</Nummer>
+                        <Opschrift>Voorbeschermingsregels</Opschrift>
+                     </Kop>
+                     <Artikel eId="chp_1__art_1.1" wId="pv25_1.0__chp_1__art_1.1">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>1.1</Nummer>
+                           <Opschrift>Begrippen</Opschrift>
+                        </Kop>
+                        <Lid eId="chp_1__art_1.1__para_1" wId="pv25_1.0__chp_1__art_1.1__para_1">
+                           <LidNummer>1.</LidNummer>
+                           <Inhoud>
+                              <Al>Bestaande oppervlakte dierenverblijf geiten</Al>
+                              <Lijst eId="chp_1__art_1.1__para_1__list_o_1"
+                                     wId="pv25_1.0__chp_1__art_1.1__para_1__list_o_1"
+                                     type="expliciet">
+                                 <Lijstaanhef>Als bestaande oppervlakte dierenverblijf voor geiten geldt de oppervlakte die:</Lijstaanhef>
+                                 <Li eId="chp_1__art_1.1__para_1__list_o_1__item_a"
+                                     wId="pv25_1.0__chp_1__art_1.1__para_1__list_o_1__item_a">
+                                    <LiNummer>a.</LiNummer>
+                                    <Al>als dierenverblijf mag worden gebruikt krachtens een omgevingsvergunning die is verleend op grond van de Wet algemene bepalingen omgevingsrecht; en</Al>
+                                 </Li>
+                                 <Li eId="chp_1__art_1.1__para_1__list_o_1__item_b"
+                                     wId="pv25_1.0__chp_1__art_1.1__para_1__list_o_1__item_b">
+                                    <LiNummer>b.</LiNummer>
+                                    <Al>op 7 juli 2017 legaal aanwezig was; of</Al>
+                                 </Li>
+                                 <Li eId="chp_1__art_1.1__para_1__list_o_1__item_c"
+                                     wId="pv25_1.0__chp_1__art_1.1__para_1__list_o_1__item_c">
+                                    <LiNummer>c.</LiNummer>
+                                    <Al>mag worden gebouwd krachtens een vóór 7 juli 2017 verleende omgevingsvergunning.</Al>
+                                 </Li>
+                              </Lijst>
+                           </Inhoud>
+                        </Lid>
+                        <Lid eId="chp_1__art_1.1__para_2" wId="pv25_1.0__chp_1__art_1.1__para_2">
+                           <LidNummer>2.</LidNummer>
+                           <Inhoud>
+                              <Al>Bestaande oppervlakte gebouwen</Al>
+                              <Lijst eId="chp_1__art_1.1__para_2__list_o_1"
+                                     wId="pv25_1.0__chp_1__art_1.1__para_2__list_o_1"
+                                     type="expliciet">
+                                 <Lijstaanhef>Als bestaande oppervlakte van gebouwen geldt de oppervlakte die:</Lijstaanhef>
+                                 <Li eId="chp_1__art_1.1__para_2__list_o_1__item_a"
+                                     wId="pv25_1.0__chp_1__art_1.1__para_2__list_o_1__item_a">
+                                    <LiNummer>a.</LiNummer>
+                                    <Al>op 21 september 2013 legaal aanwezig of in uitvoering was; of</Al>
+                                 </Li>
+                                 <Li eId="chp_1__art_1.1__para_2__list_o_1__item_b"
+                                     wId="pv25_1.0__chp_1__art_1.1__para_2__list_o_1__item_b">
+                                    <LiNummer>b.</LiNummer>
+                                    <Al>mag worden gebouwd krachtens een vóór 21 september 2013 verleende vergunning.</Al>
+                                 </Li>
+                              </Lijst>
+                           </Inhoud>
+                        </Lid>
+                        <Lid eId="chp_1__art_1.1__para_3" wId="pv25_1.0__chp_1__art_1.1__para_3">
+                           <LidNummer>3.</LidNummer>
+                           <Inhoud>
+                              <Al>Bestaande oppervlakte van bouwwerken, geen gebouwen zijnde</Al>
+                              <Lijst eId="chp_1__art_1.1__para_3__list_o_1"
+                                     wId="pv25_1.0__chp_1__art_1.1__para_3__list_o_1"
+                                     type="expliciet">
+                                 <Lijstaanhef>Als bestaande oppervlakte van bouwwerken, geen gebouwen zijnde, geldt de oppervlakte die:</Lijstaanhef>
+                                 <Li eId="chp_1__art_1.1__para_3__list_o_1__item_a"
+                                     wId="pv25_1.0__chp_1__art_1.1__para_3__list_o_1__item_a">
+                                    <LiNummer>a.</LiNummer>
+                                    <Al>op 21 september 2013 legaal aanwezig of in uitvoering was; of</Al>
+                                 </Li>
+                                 <Li eId="chp_1__art_1.1__para_3__list_o_1__item_b"
+                                     wId="pv25_1.0__chp_1__art_1.1__para_3__list_o_1__item_b">
+                                    <LiNummer>b.</LiNummer>
+                                    <Al>mag worden gebouwd krachtens een vóór 21 september 2013 verleende omgevingsvergunning.</Al>
+                                 </Li>
+                              </Lijst>
+                           </Inhoud>
+                        </Lid>
+                        <Lid eId="chp_1__art_1.1__para_4" wId="pv25_1.0__chp_1__art_1.1__para_4">
+                           <LidNummer>4.</LidNummer>
+                           <Inhoud>
+                              <Al>Bestaande oppervlakte dierenverblijf, niet zijnde dierenverblijf geiten</Al>
+                              <Lijst eId="chp_1__art_1.1__para_4__list_o_1"
+                                     wId="pv25_1.0__chp_1__art_1.1__para_4__list_o_1"
+                                     type="expliciet">
+                                 <Lijstaanhef>Als bestaande oppervlakte dierenverblijf, niet zijnde dierenverblijf geiten, geldt de oppervlakte die:</Lijstaanhef>
+                                 <Li eId="chp_1__art_1.1__para_4__list_o_1__item_a"
+                                     wId="pv25_1.0__chp_1__art_1.1__para_4__list_o_1__item_a">
+                                    <LiNummer>a.</LiNummer>
+                                    <Al>als dierenverblijf mag worden gebruikt krachtens een omgevingsvergunning die is verleend op grond van de Wet algemene bepalingen omgevingsrecht; en</Al>
+                                 </Li>
+                                 <Li eId="chp_1__art_1.1__para_4__list_o_1__item_b"
+                                     wId="pv25_1.0__chp_1__art_1.1__para_4__list_o_1__item_b">
+                                    <LiNummer>b.</LiNummer>
+                                    <Al>op 17 maart 2017 legaal aanwezig was, of</Al>
+                                 </Li>
+                                 <Li eId="chp_1__art_1.1__para_4__list_o_1__item_c"
+                                     wId="pv25_1.0__chp_1__art_1.1__para_4__list_o_1__item_c">
+                                    <LiNummer>c.</LiNummer>
+                                    <Al>mag worden gebouwd krachtens een vóór 17 maart 2017 verleende omgevingsvergunning.</Al>
+                                 </Li>
+                              </Lijst>
+                           </Inhoud>
+                        </Lid>
+                     </Artikel>
+                     <Artikel eId="chp_1__art_1.2" wId="pv25_1.0__chp_1__art_1.2">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>1.2</Nummer>
+                           <Opschrift>Geitenhouderijen</Opschrift>
+                        </Kop>
+                        <Lid eId="chp_1__art_1.2__para_1" wId="pv25_1.0__chp_1__art_1.2__para_1">
+                           <LidNummer>1.</LidNummer>
+                           <Inhoud>
+                              <Al>Vergunningplicht toename oppervlakte dierenverblijf</Al>
+                              <Al>In het werkingsgebied ‘<IntIoRef eId="chp_1__art_1.2__para_1__ref_o_1" wId="pv25_1.0__chp_1__art_1.2__para_1__ref_o_1" ref="TODO">Landelijk gebied</IntIoRef>’ is het verboden om zonder omgevingsvergunning de oppervlakte dierenverblijf voor geiten bij geitenhouderijen uit te breiden tot een oppervlakte die groter is dan de bestaande oppervlakte.</Al>
+                           </Inhoud>
+                        </Lid>
+                        <Lid eId="chp_1__art_1.2__para_2" wId="pv25_1.0__chp_1__art_1.2__para_2">
+                           <LidNummer>2.</LidNummer>
+                           <Inhoud>
+                              <Al>Beoordelingsregels</Al>
+                              <Lijst eId="chp_1__art_1.2__para_2__list_o_1"
+                                     wId="pv25_1.0__chp_1__art_1.2__para_2__list_o_1"
+                                     type="expliciet">
+                                 <Lijstaanhef>De in dit artikel bedoelde omgevingsvergunning wordt alleen verleend in de volgende gevallen:</Lijstaanhef>
+                                 <Li eId="chp_1__art_1.2__para_2__list_o_1__item_a"
+                                     wId="pv25_1.0__chp_1__art_1.2__para_2__list_o_1__item_a">
+                                    <LiNummer>a.</LiNummer>
+                                    <Al>het betreft een vestiging of omschakeling vanwege de verplaatsing van een bestaande geitenhouderij vanwege een aantoonbaar belang voor de bescherming van de gezondheid onder een gelijkblijvende omvang van deze geitenhouderij; of</Al>
+                                 </Li>
+                                 <Li eId="chp_1__art_1.2__para_2__list_o_1__item_b"
+                                     wId="pv25_1.0__chp_1__art_1.2__para_2__list_o_1__item_b">
+                                    <LiNummer>b.</LiNummer>
+                                    <Al>de toename van de oppervlakte dierenverblijf voor de geitenhouderij is ingegeven vanuit een dierenwelzijnsconcept zonder toename van het aantal geiten dat de geitenhouderij mag houden op grond van een omgevingsvergunning die is verleend op grond van de Wet algemene bepalingen omgevingsrecht en de oppervlakte aan dierenverblijf ten minste 1,30 m² per aanwezige melkgeit bedraagt.</Al>
+                                 </Li>
+                              </Lijst>
+                           </Inhoud>
+                        </Lid>
+                     </Artikel>
+                     <Artikel eId="chp_1__art_1.3" wId="pv25_1.0__chp_1__art_1.3">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>1.3</Nummer>
+                           <Opschrift>Uitbreiding veehouderij</Opschrift>
+                        </Kop>
+                        <Lid eId="chp_1__art_1.3__para_1" wId="pv25_1.0__chp_1__art_1.3__para_1">
+                           <LidNummer>1.</LidNummer>
+                           <Inhoud>
+                              <Al>Verbod</Al>
+                              <Lijst eId="chp_1__art_1.3__para_1__list_o_1"
+                                     wId="pv25_1.0__chp_1__art_1.3__para_1__list_o_1"
+                                     type="expliciet">
+                                 <Lijstaanhef>In het werkingsgebied ‘<IntIoRef eId="chp_1__art_1.3__para_1__list_o_1__ref_o_1" wId="pv25_1.0__chp_1__art_1.3__para_1__list_o_1__ref_o_1" ref="TODO">Stedelijk gebied</IntIoRef>’ en het werkingsgebied ‘<IntIoRef eId="chp_1__art_1.3__para_1__list_o_1__ref_o_2" wId="pv25_1.0__chp_1__art_1.3__para_1__list_o_1__ref_o_2" ref="TODO">Beperkingen Veehouderij</IntIoRef>’ is het voor een veehouderij verboden om:</Lijstaanhef>
+                                 <Li eId="chp_1__art_1.3__para_1__list_o_1__item_a"
+                                     wId="pv25_1.0__chp_1__art_1.3__para_1__list_o_1__item_a">
+                                    <LiNummer>a.</LiNummer>
+                                    <Al>de oppervlakte van gebouwen, met uitzondering van de bestaande bedrijfswoning, uit te breiden tot een oppervlakte die groter is dan de bestaande oppervlakte van gebouwen;</Al>
+                                 </Li>
+                                 <Li eId="chp_1__art_1.3__para_1__list_o_1__item_b"
+                                     wId="pv25_1.0__chp_1__art_1.3__para_1__list_o_1__item_b">
+                                    <LiNummer>b.</LiNummer>
+                                    <Al>de oppervlakte van gebouwen, geen gebouwen zijnde uit te breiden tot een oppervlakte die groter is dan de bestaande oppervlakte van gebouwen, geen gebouwen zijnde;</Al>
+                                 </Li>
+                                 <Li eId="chp_1__art_1.3__para_1__list_o_1__item_c"
+                                     wId="pv25_1.0__chp_1__art_1.3__para_1__list_o_1__item_c">
+                                    <LiNummer>c.</LiNummer>
+                                    <Al>binnen gebouwen dieren -al dan niet in hokken- anders dan op de grond te houden, ongeacht voorzieningen voor dierenwelzijn, met uitzondering van volière- en scharrelstallen voor legkippen waar ten hoogste twee bouwlagen gebruikt mogen worden.</Al>
+                                 </Li>
+                              </Lijst>
+                           </Inhoud>
+                        </Lid>
+                        <Lid eId="chp_1__art_1.3__para_2" wId="pv25_1.0__chp_1__art_1.3__para_2">
+                           <LidNummer>2.</LidNummer>
+                           <Inhoud>
+                              <Al>Uitzonderingen verbod</Al>
+                              <Al>De verboden als bedoeld in het eerste lid onder a en b gelden niet voor een veehouderij die is gevestigd in het werkingsgebied ‘<IntIoRef eId="chp_1__art_1.3__para_2__ref_o_1" wId="pv25_1.0__chp_1__art_1.3__para_2__ref_o_1" ref="TODO">Beperkingen veehouderij</IntIoRef>’, mits de veehouderij voldoet aan de voorwaarden van een grondgebonden veehouderij als opgenomen in de Nadere regels Brabantse zorgvuldigheidsscore veehouderij.</Al>
+                           </Inhoud>
+                        </Lid>
+                     </Artikel>
+                     <Artikel eId="chp_1__art_1.4" wId="pv25_1.0__chp_1__art_1.4">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>1.4</Nummer>
+                           <Opschrift>Zorgvuldige veehouderij</Opschrift>
+                        </Kop>
+                        <Lid eId="chp_1__art_1.4__para_1" wId="pv25_1.0__chp_1__art_1.4__para_1">
+                           <LidNummer>1.</LidNummer>
+                           <Inhoud>
+                              <Al>Vergunningplicht toename oppervlakte dierenverblijf, niet zijnde dierenverblijf geiten</Al>
+                              <Al>In het werkingsgebied ‘<IntIoRef eId="chp_1__art_1.4__para_1__ref_o_1" wId="pv25_1.0__chp_1__art_1.4__para_1__ref_o_1" ref="TODO">Landelijk gebied</IntIoRef>’ is het verboden om zonder omgevingsvergunning de oppervlakte dierenverblijf, niet zijnde dierenverblijf geiten, voor een veehouderij uit te breiden tot een oppervlakte die groter is dan de bestaande oppervlakte dierenverblijf, niet zijnde dierenverblijf geiten.</Al>
+                           </Inhoud>
+                        </Lid>
+                        <Lid eId="chp_1__art_1.4__para_2" wId="pv25_1.0__chp_1__art_1.4__para_2">
+                           <LidNummer>2.</LidNummer>
+                           <Inhoud>
+                              <Al> Beoordelingsregels</Al>
+                              <Lijst eId="chp_1__art_1.4__para_2__list_o_1"
+                                     wId="pv25_1.0__chp_1__art_1.4__para_2__list_o_1"
+                                     type="expliciet">
+                                 <Lijstaanhef>De in dit artikel bedoelde omgevingsvergunning wordt alleen verleend in de volgende gevallen:</Lijstaanhef>
+                                 <Li eId="chp_1__art_1.4__para_2__list_o_1__item_a"
+                                     wId="pv25_1.0__chp_1__art_1.4__para_2__list_o_1__item_a">
+                                    <LiNummer>a.</LiNummer>
+                                    <Al>er worden maatregelen getroffen en in stand gehouden die invulling geven aan een zorgvuldige veehouderij;</Al>
+                                 </Li>
+                                 <Li eId="chp_1__art_1.4__para_2__list_o_1__item_b"
+                                     wId="pv25_1.0__chp_1__art_1.4__para_2__list_o_1__item_b">
+                                    <LiNummer>b.</LiNummer>
+                                    <Al>de maatregelen als bedoeld onder a. voldoen aan de criteria als opgenomen in de Nadere regels zorgvuldige veehouderij;</Al>
+                                 </Li>
+                                 <Li eId="chp_1__art_1.4__para_2__list_o_1__item_c"
+                                     wId="pv25_1.0__chp_1__art_1.4__para_2__list_o_1__item_c">
+                                    <LiNummer>c.</LiNummer>
+                                    <Al>de ontwikkeling is vanuit een goede omgevingskwaliteit met een veilige, gezonde leefomgeving, inpasbaar in de omgeving;</Al>
+                                 </Li>
+                                 <Li eId="chp_1__art_1.4__para_2__list_o_1__item_d"
+                                     wId="pv25_1.0__chp_1__art_1.4__para_2__list_o_1__item_d">
+                                    <LiNummer>d.</LiNummer>
+                                    <Al>er is aangetoond dat de kans op cumulatieve geurhinder (achtergrondbelasting) op geurgevoelige objecten in het werkingsgebied ‘<IntIoRef eId="chp_1__art_1.4__para_2__list_o_1__item_d__ref_o_1" wId="pv25_1.0__chp_1__art_1.4__para_2__list_o_1__item_d__ref_o_1" ref="TODO">Bebouwde kom</IntIoRef>’ niet hoger is dan 12% en in het werkingsgebied ‘<IntIoRef eId="chp_1__art_1.4__para_2__list_o_1__item_d__ref_o_2" wId="pv25_1.0__chp_1__art_1.4__para_2__list_o_1__item_d__ref_o_2" ref="TODO">Buitengebied</IntIoRef>’ niet hoger is dan 20%, tenzij er -als blijkt dat de achtergrondbelasting hoger is dan voornoemde percentages- maatregelen worden getroffen door de veehouderij die tot een daling leiden van de achtergrondbelasting, die ten minste de eigen bijdrage aan de overschrijding van de achtergrondbelasting compenseert;</Al>
+                                 </Li>
+                                 <Li eId="chp_1__art_1.4__para_2__list_o_1__item_e"
+                                     wId="pv25_1.0__chp_1__art_1.4__para_2__list_o_1__item_e">
+                                    <LiNummer>e.</LiNummer>
+                                    <Al>er is aangetoond dat de achtergrondconcentratie, vermeerderd met de bijdrage van het initiatief, een jaargemiddelde fijnstofconcentratie (PM10) op gevoelige objecten veroorzaakt van ten hoogste 31,2 µg/m<sup>3</sup>;</Al>
+                                 </Li>
+                                 <Li eId="chp_1__art_1.4__para_2__list_o_1__item_f"
+                                     wId="pv25_1.0__chp_1__art_1.4__para_2__list_o_1__item_f">
+                                    <LiNummer>f.</LiNummer>
+                                    <Al>er is een zorgvuldige dialoog gevoerd, gericht op het betrekken van de belangen van de omgeving bij het initiatief;</Al>
+                                 </Li>
+                                 <Li eId="chp_1__art_1.4__para_2__list_o_1__item_g"
+                                     wId="pv25_1.0__chp_1__art_1.4__para_2__list_o_1__item_g">
+                                    <LiNummer>g.</LiNummer>
+                                    <Al>binnen gebouwen worden dieren -al dan niet in hokken- alleen op de grond gehouden, ongeacht voorzieningen voor dierenwelzijn, met uitzondering van volière- en scharrelstallen voor legkippen waar een tweede bouwlaag gebruikt mag worden.</Al>
+                                 </Li>
+                              </Lijst>
+                           </Inhoud>
+                        </Lid>
+                     </Artikel>
+                  </Hoofdstuk>
+               </Lichaam>
+               <Bijlage eId="cmp_A" wId="pv25__cmp_A">
+                  <Kop>
+                     <Label>Bijlage</Label>
+                     <Nummer>A</Nummer>
+                  </Kop>
+                  <Divisietekst eId="cmp_A__content_o_1" wId="pv25_1__cmp_A__content_o_1">
+                     <Inhoud>
+                        <Begrippenlijst eId="cmp_A__content_o_1__list_o_1" wId="pv25_1__cmp_A__content_o_1__list_o_1">
+                           <Begrip eId="cmp_A__content_o_1__list_o_1__item_o_1" wId="pv25_1__cmp_A__content_o_1__list_o_1__item_o_1">
+                              <Term>Bebouwde kom</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_A__content_o_1__list_o_1__item_o_1__ref_o_1" wId="pv25_1__cmp_A__content_o_1__list_o_1__item_o_1__ref_o_1" ref="/join/id/regdata/pv25/2020/bebouwde_kom/nld@2022-11-27;VBP0001">/join/id/regdata/pv25/2020/bebouwde_kom/nld@2022-11-27;VBP0001</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_A__content_o_1__list_o_1__item_o_2" wId="pv25_1__cmp_A__content_o_1__list_o_1__item_o_2">
+                              <Term>Beperkingen Veehouderij</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_A__content_o_1__list_o_1__item_o_2__ref_o_1" wId="pv25_1__cmp_A__content_o_1__list_o_1__item_o_2__ref_o_1" ref="/join/id/regdata/pv25/2020/beperkingen-veehouderij/nld@2022-11-27;VBP0001">/join/id/regdata/pv25/2020/beperkingen-veehouderij/nld@2022-11-27;VBP0001</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip wId="cmp_A__content_o_1__list_o_1__item_o_3" eId="pv25_1__cmp_A__content_o_1__list_o_1__item_o_3">
+                              <Term>Buitengebied</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_A__content_o_1__list_o_1__item_o_3__ref_o_1" wId="pv25_1__cmp_A__content_o_1__list_o_1__item_o_3__ref_o_1" ref="/join/id/regdata/pv25/2020/buitengebied/nld@2022-11-27;VBP0001">/join/id/regdata/pv25/2020/buitengebied/nld@2022-11-27;VBP0001</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           
+                           <Begrip eId="cmp_A__content_o_1__list_o_1__item_o_4" wId="pv25_1__cmp_A__content_o_1__list_o_1__item_o_4">
+                              <Term>Landelijk gebied</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_A__content_o_1__list_o_1__item_o_4__ref_o_1" wId="pv25_1__cmp_A__content_o_1__list_o_1__item_o_4__ref_o_1" ref="/join/id/regdata/pv25/2020/landelijk_gebied/nld@2022-11-27;VBP0001">/join/id/regdata/pv25/2020/landelijk_gebied/nld@2022-11-27;VBP0001</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           
+                           <Begrip eId="cmp_A__content_o_1__list_o_1__item_o_5" wId="pv25_1__cmp_A__content_o_1__list_o_1__item_o_5">
+                              <Term>Stedelijk gebied</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_A__content_o_1__list_o_1__item_o_5__ref_o_1" wId="pv25_1__cmp_A__content_o_1__list_o_1__item_o_5__ref_o_1" ref="/join/id/regdata/pv25/2020/stedelijk_gebied/nld@2022-11-27;VBP0001">/join/id/regdata/pv25/2020/stedelijk_gebied/nld@2022-11-27;VBP0001</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                        </Begrippenlijst>
+                     </Inhoud>
+                  </Divisietekst>
+               </Bijlage>
+            </RegelingTijdelijkdeel>
+         </WijzigBijlage>
+      </BesluitCompact>
+   </BesluitVersie>
+   <RegelingVersieInformatie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/akn/nl/act/pv25/2020/VBP0001</FRBRWork>
+         <FRBRExpression>/akn/nl/act/pv25/2020/VBP0001/nld@2020-11-30</FRBRExpression>
+         <soortWork>/join/id/stop/work_019</soortWork>
+      </ExpressionIdentificatie>
+      <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <versienummer>1.0</versienummer>
+      </RegelingVersieMetadata>
+      <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <soortRegeling>geen</soortRegeling>
+         <eindverantwoordelijke>/tooi/id/provincie/pv25</eindverantwoordelijke>
+         <maker>/tooi/id/provincie/pv25</maker>
+         <officieleTitel>Voorbereidingsbesluit voor alle gemeenten in Provincieland</officieleTitel>
+         <alternatieveTitels>
+            <alternatieveTitel>Voorbereidingsbesluit voor alle gemeenten in Provincieland</alternatieveTitel>
+         </alternatieveTitels>
+         <overheidsdomeinen>
+            <overheidsdomein>/tooi/def/concept/c_bed49b60</overheidsdomein>
+         </overheidsdomeinen>
+         <onderwerpen>
+            <onderwerp>geen</onderwerp>
+         </onderwerpen>
+         <rechtsgebieden>
+            <rechtsgebied>geen</rechtsgebied>
+         </rechtsgebieden>
+      </RegelingMetadata>
+   </RegelingVersieInformatie>
+</AanleveringBesluit>
