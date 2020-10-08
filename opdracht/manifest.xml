@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lvbb:manifest xmlns:lvbb="http://www.overheid.nl/2017/lvbb">
+   <!-- OP-bestanden -->
+   <lvbb:bestand>
+      <lvbb:bestandsnaam>opdracht.xml</lvbb:bestandsnaam>
+      <lvbb:contentType>application/xml</lvbb:contentType>
+   </lvbb:bestand>
+   <lvbb:bestand>
+      <lvbb:bestandsnaam>VBG0001.xml</lvbb:bestandsnaam>
+      <lvbb:contentType>application/xml</lvbb:contentType>
+   </lvbb:bestand>
+   <lvbb:bestand>
+      <lvbb:bestandsnaam>manifest.xml</lvbb:bestandsnaam>
+      <lvbb:contentType>application/xml</lvbb:contentType>
+   </lvbb:bestand>
+</lvbb:manifest>
