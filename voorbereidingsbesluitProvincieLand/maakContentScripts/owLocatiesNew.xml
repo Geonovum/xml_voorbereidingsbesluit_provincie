@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ow-dc:owBestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing"
+                 xmlns:gml="http://www.opengis.net/gml/3.2"
+                 xmlns:l="http://www.geostandaarden.nl/imow/locatie"
+                 xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen"
+                 xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek"
+                 xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand"
+                 xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie"
+                 xmlns:r="http://www.geostandaarden.nl/imow/regels"
+                 xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
+                 xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v1.0.4/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+   <sl:standBestand>
+      <sl:dataset>ProvincieLand</sl:dataset>
+      <sl:inhoud>
+         <sl:gebied>ProvincieLand</sl:gebied>
+         <sl:leveringsId>abc-20190221-0801</sl:leveringsId>
+         <sl:objectTypen>
+            <sl:objectType>@@XX@@</sl:objectType>
+            <!-- per Gebied(engroep) -->
+         </sl:objectTypen>
+      </sl:inhoud>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>@@XX@@</l:identificatie>
+               <!-- nl.imow-pv25.gebiedengroep.2019000001 -->
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="@@XX@@"/>
+                  <!-- nl.imow-pv25.gebied.2019000001 -->
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>@@XX@@</l:identificatie>
+               <!--nl.imow-pv25.gebied.2019000001-->
+               <l:noemer>@@XX@@</l:noemer>
+               <!-- Bedrijf categorie 2 -->
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="@@XX@@"/>
+                  <!--50EA019E-3C96-4631-A76C-35BCF4D7AB6D-->
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+   </sl:standBestand>
+</ow-dc:owBestand>
