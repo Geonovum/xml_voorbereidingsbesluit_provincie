@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<AanleveringInformatieObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" schemaversie="1.0.4-rc"	
-  xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering/
-  https://standaarden.overheid.nl/lvbb/1.0.4-rc/lvbb-stop-aanlevering.xsd">
+<AanleveringInformatieObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   
   <InformatieObjectVersie>
     <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">

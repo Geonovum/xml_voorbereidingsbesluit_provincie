@@ -1,4 +1,6 @@
 Deze set is in bewerking
+Controle:
+doorzoek de set op '@@XX@@'. Dit is een 'tripwire' waarde die ingevuld had moeten worden volgens de scripts. Er is dus iets mis gegaan.
 
 
 ./kasper = nieuw gemaakte poslists gemaakt door Kasper
