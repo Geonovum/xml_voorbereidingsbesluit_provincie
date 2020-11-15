@@ -17,3 +17,5 @@
         initial-value="0">
         <xsl:accumulator-rule match="//stop:Artikel/stop:Lid | //stop:Artikel[count(stop:Lid)=0]" select="$value + 1"/>
     </xsl:accumulator>
+
+    

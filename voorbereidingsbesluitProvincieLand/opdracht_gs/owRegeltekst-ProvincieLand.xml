@@ -38,11 +38,11 @@
 					<r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
 					<r:artikelOfLid>
 						<r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.2019000001"/>
-					</r:artikelOfLid>
+					</r:artikelOfLid>                    
 					<r:locatieaanduiding>
 						<l:LocatieRef xlink:href="nl.imow-gm0297.gebiedengroep.2019000001"/>
 					</r:locatieaanduiding>
-					<r:gebiedsaanwijzing>
+                    <r:gebiedsaanwijzing>
 					    <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm0297.gebiedsaanwijzing.2019000001"/> 
 					</r:gebiedsaanwijzing>
 				</r:RegelVoorIedereen>
@@ -67,7 +67,8 @@
 					<r:locatieaanduiding>
 						<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000001"/>
 					</r:locatieaanduiding>
-					<r:activiteitaanduiding>
+
+                    <r:activiteitaanduiding>
 					    <rol:ActiviteitRef xlink:href="nl.imow-gm0297.activiteit.2019000241"/> <!--uitoefenen van bedrijfstypen van categorie 2-->
 						<r:ActiviteitLocatieaanduiding>
 							<r:identificatie>nl.imow-gm0297.activiteitlocatieaanduiding.2019000001</r:identificatie>

@@ -13,11 +13,13 @@
     xmlns:r="http://www.geostandaarden.nl/imow/regels" 
     xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
     xmlns:stop="https://standaarden.overheid.nl/stop/imop/data/"
-    xmlns:imop="https://standaarden.overheid.nl/stop/imop/data/"
-    
+    xmlns:imop="https://standaarden.overheid.nl/stop/imop/data/"    
     exclude-result-prefixes="xs"
 version="3.0">
-    
+
+
+<!--input GIOs.xml (alle gio objecten in 1 file)
+maakt owLocatiesNew.xml-->
     
 <xsl:output method="xml" indent="yes"/>
     
@@ -38,14 +40,13 @@ version="3.0">
   
   
 <xsl:template match="/">
- <xsl:variable name="gios" select="document('GIOs.xml')"/>
   <ow-dc:owBestand>
    <xsl:attribute name="xsi:schemaLocation">http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v1.0.3-RC/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd</xsl:attribute>
     <sl:standBestand>
 <!-- handmatig -->
     <sl:dataset>ProvincieLand</sl:dataset>
     <sl:inhoud>
-      <sl:gebied>Gemeentestad</sl:gebied>
+    	<sl:gebied>ProvincieLand</sl:gebied>
       <sl:leveringsId>abc-20190221-0802</sl:leveringsId>
       <sl:objectTypen>
         <sl:objectType>Gebied</sl:objectType>
@@ -62,14 +63,14 @@ version="3.0">
         </l:Gebiedengroep>
       </ow-dc:owObject>
     </sl:stand>    
-<!-- handmatig -->
+<!-- /handmatig -->
      <xsl:apply-templates select="//InformatieObjectVersie"></xsl:apply-templates>
 
     </sl:standBestand>
   </ow-dc:owBestand>
 </xsl:template>  
   
-<xsl:template match="//InformatieObjectVersie"> <!--maak een gebiedsobject-->
+<xsl:template match="InformatieObjectVersie"> <!--maak een gebiedsobject-->
   <sl:stand>
     <ow-dc:owObject>
       <l:Gebied>
@@ -89,6 +90,8 @@ version="3.0">
   
   
 <!--
+     <xsl:variable name="gios" select="document('GIOs.xml')"/>
+
     
   <xsl:for-each select="$gios//InformatieObjectVersie"> 
     <xsl:message>OK1</xsl:message>

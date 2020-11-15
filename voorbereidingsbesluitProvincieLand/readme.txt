@@ -20,3 +20,4 @@ komt uit (main) aanlevering elelement
 tip: overzicht schema voorbereidingsbesluit
 p61 https://geonovum.github.io/TPOD/TPOD%20Voorbereidingsbesluit/TPOD%20Voorbereidingsbesluit%20v1.0.0.pdf
 
+Invalid content was found starting with element '{"http://www.geostandaarden.nl/imow/bestanden/deelbestand":owBestand}'. One of '{"http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek":dataset}' is expected.
