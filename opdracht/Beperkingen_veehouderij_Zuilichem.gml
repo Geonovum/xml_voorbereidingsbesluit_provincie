@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<geo:GeoInformatieObjectVaststelling xmlns:basisgeo="http://www.geostandaarden.nl/basisgeometrie/1.0" xmlns:data="https://standaarden.overheid.nl/stop/imop/data/" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:gio="https://standaarden.overheid.nl/stop/imop/gio/" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:rsc="https://standaarden.overheid.nl/stop/imop/resources/" schemaversie="1.0.3">
+<geo:GeoInformatieObjectVaststelling xmlns:basisgeo="http://www.geostandaarden.nl/basisgeometrie/1.0"
+    xmlns:gio="https://standaarden.overheid.nl/stop/imop/gio/"
+    xmlns:gml="http://www.opengis.net/gml/3.2"
+    xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://standaarden.overheid.nl/stop/imop/geo/ https://standaarden.overheid.nl/stop/1.0.4-rc/imop-geo.xsd"
+    schemaversie="1.0.4-rc">
     <geo:context>
         <gio:GeografischeContext>
             <gio:achtergrondVerwijzing>top10nl</gio:achtergrondVerwijzing>
@@ -8,15 +14,16 @@
     </geo:context>
     <geo:vastgesteldeVersie>
         <geo:GeoInformatieObjectVersie>
-            <geo:FRBRWork>/join/id/regdata/gm0297/2019/Dierlijkebijproducten</geo:FRBRWork>
-            <geo:FRBRExpression>/join/id/regdata/gm0297/2019/Dierlijkebijproducten/nld@2019-06-18;3520</geo:FRBRExpression>
+            <geo:FRBRWork>/join/id/regdata/gm0297/2019/Beperkingen_veehouderij_Zuilichem</geo:FRBRWork>
+            <geo:FRBRExpression>/join/id/regdata/gm0297/2019/Beperkingen_veehouderij_Zuilichem/nld@2019-06-18;3520</geo:FRBRExpression>
             <geo:locaties>
                 <geo:Locatie>
+                    <geo:naam>Beperkingen veehouderij Zuilichem</geo:naam>
                     <geo:geometrie>
-                        <basisgeo:Geometrie gml:id="id-e5d1d2fd-059d-4a49-b19d-ee4b934eb288-xx">
-                            <basisgeo:id>e5d1d2fd-059d-4a49-b19d-ee4b934eb288</basisgeo:id>
+                        <basisgeo:Geometrie gml:id="id-470B817F-DB1B-46B6-9798-25DAB5D7135F-xx">
+                            <basisgeo:id>470B817F-DB1B-46B6-9798-25DAB5D7135F</basisgeo:id>
                             <basisgeo:geometrie>
-                                <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="id-e5d1d2fd-059d-4a49-b19d-ee4b934eb288">
+                                <gml:MultiSurface gml:id="id-470B817F-DB1B-46B6-9798-25DAB5D7135F" srsName="urn:ogc:def:crs:EPSG::28992">
                                     <gml:surfaceMember>
                                         <gml:Polygon>
                                             <gml:exterior>
