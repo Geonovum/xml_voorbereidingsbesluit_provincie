@@ -1,0 +1,132 @@
+<records bgId="pv25">
+    <!-- opRegel@type: regelVoorIedereen Instructieregel Omgevingswaarderegel 
+   locatieaanduidingLocRef: (meerdere) locatie identificatie's   
+    ow objecten:
+       locatieaanduidingLocRef @locatieaanduidingLocRef
+       gebiedsaanwijzing @gebiedsaanwijzing ( gebiedslocaties), 
+       kaartaanduiding @kaartaanduiding
+       activiteitaanduiding @activiteitaanduiding
+       omgevingsnormaanduiding @omgevingsnormaanduiding
+    
+    <opRegel 
+       type="regelVoorIedereen" 
+       idealisatie="http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact"
+       wId="" 
+       locatieaanduidingLocRef=""
+       gebiedsaanwijzing=""
+       kaartaanduiding=""
+       omgevingsnormaanduiding="">
+       <activiteitaanduiding 
+         ActiviteitRef=""
+         activiteitregelkwalificatie=""
+         LocatieRef=""/>
+     </opRegel>
+    -->
+    
+   <opRegel 
+       type="regelVoorIedereen" 
+       idealisatie="http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact"
+       wId="pv25_1__chp_1__art_1.2__para_1" 
+       locatieaanduidingLocRef="nl.imow-pv25.gebied.2019000007"
+       gebiedsaanwijzing="nl.imow-pv25.gebiedsaanwijzing.2019000001">       
+<!--uitbreiden oppervlakte dierenverbijf geiten-->
+       <activiteitaanduiding 
+         ActiviteitRef="nl.imow-pv25.activiteit.2019000002" 
+         activiteitregelkwalificatie="http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht"
+         LocatieRef=""/>
+   </opRegel> 
+   <opRegel 
+       type="regelVoorIedereen" 
+       idealisatie="http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact"
+       wId="pv25_1__chp_1__art_1.2__para_2" 
+       locatieaanduidingLocRef="nl.imow-pv25.gebied.2019000007"
+       gebiedsaanwijzing=""
+       kaartaanduiding=""
+       omgevingsnormaanduiding="">
+<!--Regel voor iedereen, geen activiteit-annotatie
+Zelfde locatie als vorig artikel-->
+    </opRegel>
+    <opRegel 
+       type="regelVoorIedereen"
+       idealisatie="http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact"
+       wId="pv25_1__chp_1__art_1.3__para_1" 
+       locatieaanduidingLocRef="nl.imow-pv25.gebied.2019000009 nl.imow-pv25.gebied.2019000003"
+       gebiedsaanwijzing="nl.imow-pv25.gebiedsaanwijzing.2019000002 nl.imow-pv25.gebiedsaanwijzing.2019000003">
+<!--Gebiedsaanwijzing type Functie, naam Stedelijk gebied, groep stedelijk gebied
+Gebiedsaanwijzing type Functie, naam Beperkingen veehouderij, groep veehouderij -->      
+    </opRegel> 
+   <opRegel 
+       type="regelVoorIedereen" 
+       idealisatie="http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact"
+       wId="pv25_1__chp_1__art_1.3__para_1">
+<!--uitbreiden oppervlakte gebouwen veehouderij-->
+       <activiteitaanduiding 
+         ActiviteitRef="nl.imow-pv25.activiteit.2019000004"
+         activiteitregelkwalificatie="http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/verbod"
+         LocatieRef=""/>
+    </opRegel>
+    <opRegel 
+       type="regelVoorIedereen" 
+       idealisatie="http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact"
+       wId="pv25_1__chp_1__art_1.3__para_1">
+<!--houden van dieren-->
+       <activiteitaanduiding 
+         ActiviteitRef="nl.imow-pv25.activiteit.2019000005"
+         activiteitregelkwalificatie="http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/verbod"
+         LocatieRef=""/>
+     </opRegel>
+     <opRegel 
+       type="regelVoorIedereen" 
+       idealisatie="http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact"
+       wId="pv25_1__chp_1__art_1.3__para_1" 
+       locatieaanduidingLocRef=""
+       gebiedsaanwijzing="nl.imow-pv25.gebiedsaanwijzing.2019000003">
+<!--Gebiedsaanwijzing type Functie, naam Beperkingen veehouderij
+uitbreiden oppervlakte gebouwen veehouderij
+houden van dieren-->
+       <activiteitaanduiding 
+         ActiviteitRef="nl.imow-pv25.activiteit.2019000003"
+         activiteitregelkwalificatie="http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/toegestaan"
+         LocatieRef=""/>
+       <activiteitaanduiding 
+         ActiviteitRef="nl.imow-pv25.activiteit.2019000006"
+         activiteitregelkwalificatie="http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/toegestaan"
+         LocatieRef=""/>
+      </opRegel>
+      <opRegel 
+       type="regelVoorIedereen" 
+       idealisatie="http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact"
+       wId="pv25_1__chp_1__art_1.4__para_1" 
+       locatieaanduidingLocRef=""
+       gebiedsaanwijzing="nl.imow-pv25.gebiedsaanwijzing.2019000001">
+<!--Gebiedsaanwijzing type Functie, naam Landelijk gebied,
+Activiteit 
+Naam: uitbreiden oppervlakte dierenverbijf anders dan geiten
+Groep: agrarische activiteit
+Activiteitregelkwalificatie: vergunningplicht-->
+       <activiteitaanduiding 
+         ActiviteitRef="nl.imow-pv25.activiteit.2019000001"
+         activiteitregelkwalificatie="http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/vergunningplicht"
+         LocatieRef=""/>
+      </opRegel>
+      <opRegel 
+       type="regelVoorIedereen" 
+       idealisatie="http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact"
+       wId="pv25_1__chp_1__art_1.4__para_1" 
+       locatieaanduidingLocRef="">
+<!--Regel voor iedereen, geen activiteit-annotatie
+Zelfde locatie als vorig artikel-->
+      </opRegel>
+</records>
+     
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
