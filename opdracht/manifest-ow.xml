@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<Aanleveringen 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://www.geostandaarden.nl/bestanden-ow/manifest-ow">
+	<domein>omgevingswet</domein>
+	<domein>omgevingswet</domein>
+	<Aanlevering>
+		<WorkIDRegeling>/akn/nl/act/pv25/2019/reg456</WorkIDRegeling>
+		<DoelID>/join/id/proces/pv25/2019/Instelling</DoelID>
+		<Bestand>
+			<naam>owActiviteitenNew.xml</naam>
+			<objecttype>Activiteit</objecttype>
+		</Bestand>
+		<Bestand>
+			<naam>owGebiedsaanwijzingenNew.xml</naam>
+			<objecttype>Gebiedsaanwijzing</objecttype>
+		</Bestand>
+		<Bestand>
+			<naam>owLocatiesNew.xml</naam>
+			<objecttype>Gebiedengroep</objecttype>
+			<objecttype>Gebied</objecttype>
+		</Bestand>
+		<Bestand>
+			<naam>regeltekstNew.xml</naam>
+			<objecttype>Regeltekst</objecttype>
+			<objecttype>RegelVoorIedereen</objecttype>
+			<objecttype>Omgevingswaarderegel</objecttype>
+		</Bestand>
+	</Aanlevering>
+</Aanleveringen>

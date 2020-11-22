@@ -1,0 +1,31 @@
+<?xml version="1.0" ?><AanleveringInformatieObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" schemaversie="1.0.4" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering/  https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
+  <InformatieObjectVersie>
+    <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <FRBRWork>/join/id/regdata/pv25/2019/Amerzoden</FRBRWork>
+      <FRBRExpression>/join/id/regdata/pv25/2019/Amerzoden/nld@2019-06-18;3529</FRBRExpression>
+      <soortWork>/join/id/stop/work_010</soortWork>
+    </ExpressionIdentificatie>
+    <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <heeftBestanden>
+        <heeftBestand>
+          <Bestand>
+            <bestandsnaam>Stedelijk_gebied_Amerzoden.gml</bestandsnaam>
+            <hash>52574d6a469fd5800fbf8d5ad45d739ca1257f18c2b8d1f041b591fa8e36ae26ca3deec2f299302d2be2b70d95c08797496e60f808e5db22e8f427ca3e1dc60c</hash>
+          </Bestand>
+        </heeftBestand>
+      </heeftBestanden>
+      <heeftGeboorteregeling>/akn/nl/act/pv25/2020/VBP0001</heeftGeboorteregeling>
+    </InformatieObjectVersieMetadata>
+    <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <eindverantwoordelijke>/tooi/id/provincie/pv25</eindverantwoordelijke>
+      <maker>/tooi/id/provincie/pv25</maker>
+      <alternatieveTitels>
+        <alternatieveTitel>Stedelijk gebied Amerzoden</alternatieveTitel>
+      </alternatieveTitels>
+      <officieleTitel>/join/id/regdata/pv25/2019/Amerzoden</officieleTitel>
+      <publicatieinstructie>TeConsolideren</publicatieinstructie>
+      <formaatInformatieobject>/join/id/stop/informatieobject/gio_009</formaatInformatieobject>
+      <naamInformatieObject>/join/id/stop/informatieobject/gio_009</naamInformatieObject>
+    </InformatieObjectMetadata>
+  </InformatieObjectVersie>
+</AanleveringInformatieObject>

@@ -1,0 +1,31 @@
+<?xml version="1.0" ?><AanleveringInformatieObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" schemaversie="1.0.4" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering/  https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
+  <InformatieObjectVersie>
+    <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <FRBRWork>/join/id/regdata/pv25/2019/Zuilichem</FRBRWork>
+      <FRBRExpression>/join/id/regdata/pv25/2019/Zuilichem/nld@2019-06-18;3524</FRBRExpression>
+      <soortWork>/join/id/stop/work_010</soortWork>
+    </ExpressionIdentificatie>
+    <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <heeftBestanden>
+        <heeftBestand>
+          <Bestand>
+            <bestandsnaam>Beperkingen_veehouderij_Zuilichem.gml</bestandsnaam>
+            <hash>bb2d86d64c151838d34ec49cf2e251f2b95406306df9dca1c0d2ad93ab97225f5d61a871dacea7bbf1bd84d3ee6da0dbce26993dca3e89d1864c051887ac7975</hash>
+          </Bestand>
+        </heeftBestand>
+      </heeftBestanden>
+      <heeftGeboorteregeling>/akn/nl/act/pv25/2020/VBP0001</heeftGeboorteregeling>
+    </InformatieObjectVersieMetadata>
+    <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <eindverantwoordelijke>/tooi/id/provincie/pv25</eindverantwoordelijke>
+      <maker>/tooi/id/provincie/pv25</maker>
+      <alternatieveTitels>
+        <alternatieveTitel>Beperkingen veehouderij Zuilichem</alternatieveTitel>
+      </alternatieveTitels>
+      <officieleTitel>/join/id/regdata/pv25/2019/Zuilichem</officieleTitel>
+      <publicatieinstructie>TeConsolideren</publicatieinstructie>
+      <formaatInformatieobject>/join/id/stop/informatieobject/gio_004</formaatInformatieobject>
+      <naamInformatieObject>/join/id/stop/informatieobject/gio_004</naamInformatieObject>
+    </InformatieObjectMetadata>
+  </InformatieObjectVersie>
+</AanleveringInformatieObject>
