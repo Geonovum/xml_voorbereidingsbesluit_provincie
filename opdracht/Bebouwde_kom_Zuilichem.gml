@@ -1,11 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<geo:GeoInformatieObjectVaststelling xmlns:basisgeo="http://www.geostandaarden.nl/basisgeometrie/1.0"
-  xmlns:gio="https://standaarden.overheid.nl/stop/imop/gio/"
-  xmlns:gml="http://www.opengis.net/gml/3.2"
-  xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="https://standaarden.overheid.nl/stop/imop/geo/ https://standaarden.overheid.nl/stop/1.0.4/imop-geo.xsd"
-  schemaversie="1.0.4">
+<?xml version="1.0" ?><geo:GeoInformatieObjectVaststelling xmlns:basisgeo="http://www.geostandaarden.nl/basisgeometrie/1.0" xmlns:gio="https://standaarden.overheid.nl/stop/imop/gio/" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="1.0.4">
   <geo:context>
     <gio:GeografischeContext>
       <gio:achtergrondVerwijzing>top10nl</gio:achtergrondVerwijzing>
@@ -14,8 +7,8 @@
   </geo:context>
   <geo:vastgesteldeVersie>
     <geo:GeoInformatieObjectVersie>
-      <geo:FRBRWork>/join/id/regdata/gm0297/2019/Bebouwde_kom_Zuilichem</geo:FRBRWork>
-      <geo:FRBRExpression>/join/id/regdata/gm0297/2019/Bebouwde_kom_Zuilichem/nld@2019-06-18;3520</geo:FRBRExpression>
+      <geo:FRBRWork>/join/id/regdata/pv25/2019/Zuilichem</geo:FRBRWork>
+      <geo:FRBRExpression>/join/id/regdata/pv25/2019/Zuilichem/nld@2019-06-18;3522</geo:FRBRExpression>
       <geo:locaties>
         <geo:Locatie>
           <geo:naam>Bebouwde kom Zuilichem</geo:naam>
