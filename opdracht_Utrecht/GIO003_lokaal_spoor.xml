@@ -2,8 +2,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
   xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  schemaversie="1.0.4"
-  xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
+  schemaversie="1.1.0"
+  xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
   <InformatieObjectVersie>
     <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
       <FRBRWork>/join/id/regdata/pv26/2021/lokale_spoorwegen_gm0344</FRBRWork>
@@ -16,7 +16,7 @@
         <heeftBestand>
           <Bestand>
             <bestandsnaam>003_lokaal_spoor.gml</bestandsnaam>
-            <hash>143ea591dd70e51c96b05dead1e18ed1286841a6848e7ea43d03afb9de6618a269a59276ed646299289aaee5e443bf864c7a7764b8713d102aa0f6fb091cb771</hash>
+            <hash>60ab136daad5589ba5ac200c66495f1dfdd9576e5181819e530fd9ec41ede4831307010f68950a9590307c3aca8aa3e5d9967867060bd44068e2704497ad9ead</hash>
           </Bestand>
         </heeftBestand>
       </heeftBestanden>
