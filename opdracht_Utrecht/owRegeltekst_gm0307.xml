@@ -39,7 +39,7 @@
             <r:RegeltekstRef xlink:href="nl.imow-pv26.regeltekst.202106020001"/>
           </r:artikelOfLid>
           <r:locatieaanduiding>
-            <l:LocatieRef xlink:href="GM0307"/>
+             <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.GM0307"/>
           </r:locatieaanduiding>
         </r:RegelVoorIedereen>
       </ow-dc:owObject>
