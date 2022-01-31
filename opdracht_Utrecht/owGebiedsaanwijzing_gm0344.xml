@@ -25,12 +25,12 @@
     <sl:stand>
       <ow-dc:owObject>
         <ga:Gebiedsaanwijzing>
-          <ga:identificatie>nl.imow-pv26.gebiedsaanwijzing.202106020001</ga:identificatie>
+          <ga:identificatie>nl.imow-pv26.gebiedsaanwijzing.utrcht0001</ga:identificatie>
           <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/WaterEnWatersysteem</ga:type>
           <ga:naam>grondwaterbeschermingsgebied</ga:naam>
           <ga:groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/Watersysteem</ga:groep>
           <ga:locatieaanduiding>
-            <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.202106020001"/>
+            <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.utrcht0001"/>
           </ga:locatieaanduiding>
         </ga:Gebiedsaanwijzing>
       </ow-dc:owObject>
@@ -38,12 +38,12 @@
     <sl:stand>
       <ow-dc:owObject>
         <ga:Gebiedsaanwijzing>
-          <ga:identificatie>nl.imow-pv26.gebiedsaanwijzing.202106020002</ga:identificatie>
+          <ga:identificatie>nl.imow-pv26.gebiedsaanwijzing.utrcht0002</ga:identificatie>
           <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Beperkingengebied</ga:type>
           <ga:naam>beperkingengebied bouwwerken provinciale wegen</ga:naam>
           <ga:groep>http://standaarden.omgevingswet.overheid.nl/beperkingengebied/id/concept/Weg</ga:groep>
           <ga:locatieaanduiding>
-            <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.202106020002"/>
+            <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.utrcht0002"/>
           </ga:locatieaanduiding>
         </ga:Gebiedsaanwijzing>
       </ow-dc:owObject>
@@ -51,12 +51,12 @@
     <sl:stand>
       <ow-dc:owObject>
         <ga:Gebiedsaanwijzing>
-          <ga:identificatie>nl.imow-pv26.gebiedsaanwijzing.202106020003</ga:identificatie>
+          <ga:identificatie>nl.imow-pv26.gebiedsaanwijzing.utrcht0003</ga:identificatie>
           <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Beperkingengebied</ga:type>
           <ga:naam>beperkingengebied lokale spoorwegen</ga:naam>
           <ga:groep>http://standaarden.omgevingswet.overheid.nl/beperkingengebied/id/concept/Spoorweg</ga:groep>
           <ga:locatieaanduiding>
-            <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.202106020003"/>
+            <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.utrcht0003"/>
           </ga:locatieaanduiding>
         </ga:Gebiedsaanwijzing>
       </ow-dc:owObject>
