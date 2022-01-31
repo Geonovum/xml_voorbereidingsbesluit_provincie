@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <publicatieOpdracht xmlns="http://www.overheid.nl/2017/lvbb">
-   <idLevering>Publicatie-ID-Uniek-utrecht-002</idLevering>
+   <idLevering>RdG_20220131_US144170_InitieelUtrecht_001</idLevering>
    <idBevoegdGezag>00000001003214345000</idBevoegdGezag>
    <idAanleveraar>00000003560458830000</idAanleveraar>
    <publicatie>akn_nl_bill_gm0344_1.xml</publicatie>
-   <datumBekendmaking>2022-01-29</datumBekendmaking>
+   <datumBekendmaking>2022-02-01</datumBekendmaking>
 </publicatieOpdracht>
