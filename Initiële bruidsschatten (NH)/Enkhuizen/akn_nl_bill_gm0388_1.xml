@@ -42,18 +42,25 @@
          <BeoogdeRegelgeving>
             <BeoogdeRegeling>
                <doelen>
-                  <doel>/join/id/proces/gm0388/2021/omgevingsplanEnkhuizen_geonovum</doel>
+                  <doel>/join/id/proces/gm0388/2021/omgevingsplanEnkhuizen</doel>
                </doelen>
                <instrumentVersie>/akn/nl/act/gm0388/2021/omgevingsplanEnkhuizen/nld@1</instrumentVersie>
                <eId>art_I</eId>
             </BeoogdeRegeling>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm1979/2021/omgevingsplanEnkhuizen</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0388/2021/Enkhuizenbuurt/nld@2022-01-01;1</instrumentVersie>
+               <eId>!initieel_reg#cmp_II__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
+            </BeoogdInformatieobject>
             <!-- regelinggebied -->
          </BeoogdeRegelgeving>
          <Tijdstempels>
             <Tijdstempel>
                <doel>/join/id/proces/gm0388/2021/omgevingsplanEnkhuizen_geonovum</doel>
                <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
-               <datum>2021-04-05</datum>
+               <datum>2021-05-05</datum>
                <eId>art_II</eId>
             </Tijdstempel>
          </Tijdstempels>
@@ -15849,6 +15856,31 @@
                               <Term>warmteplan:</Term>
                               <Definitie>
                                  <Al>besluit over de aanleg van een distributienet voor warmte in een bepaald gebied, waarin voor een periode van ten hoogste 10 jaar, uitgaande van het voor die periode geplande aantal aansluitingen op dat distributienet, de mate van energiezuinigheid en bescherming van het milieu, gebaseerd op de energiezuinigheid van dat distributienet en het opwekkingsrendement van de over dat distributienet getransporteerde warmte, bij aansluiting op dat distributienet is opgenomen.</Al>
+                              </Definitie>
+                           </Begrip>
+                        </Begrippenlijst>
+                     </Inhoud>
+                  </Divisietekst>
+               </Bijlage>
+               <Bijlage eId="cmp_II" wId="gm0388_1__cmp_II">
+                  <Kop>
+                     <Label>Bijlage</Label>
+                     <Nummer>II</Nummer>
+                     <Opschrift>Overzicht Informatieobjecten</Opschrift>
+                  </Kop>
+                  <Divisietekst eId="cmp_II__content_o_1" wId="gm0388_1__cmp_II__content_o_1">
+                     <Inhoud>
+                        <Begrippenlijst eId="cmp_II__content_o_1__list_o_1"
+                           wId="gm0388_1__cmp_II__content_o_1__list_o_1">
+                           <Begrip eId="cmp_II__content_o_1__list_o_1__item_o_1"
+                              wId="gm0388_1__cmp_II__content_o_1__list_o_1__item_o_1">
+                              <Term>Enkhuizenbuurt</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_II__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                       wId="gm0388_1__cmp_II__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                       ref="/join/id/regdata/gm0388/2021/Enkhuizenbuurt/nld@2022-01-01;1">/join/id/regdata/gm0388/2021/Enkhuizenbuurt/nld@2022-01-01;1</ExtIoRef>
+                                 </Al>
                               </Definitie>
                            </Begrip>
                         </Begrippenlijst>

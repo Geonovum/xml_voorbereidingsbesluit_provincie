@@ -35,4 +35,12 @@
       <bestandsnaam>gm0388Locaties_Geonovum.xml</bestandsnaam>
       <contentType>application/xml</contentType>
    </bestand>
+   <bestand>
+      <bestandsnaam>enkhuizenbuurt.xml</bestandsnaam>
+      <contentType>application/xml</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>enkhuizenbuurt.gml</bestandsnaam>
+      <contentType>application/gml+xml</contentType>
+   </bestand>
 </manifest>
