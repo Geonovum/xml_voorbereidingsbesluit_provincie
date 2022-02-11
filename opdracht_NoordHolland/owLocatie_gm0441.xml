@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ow-dc:owBestand xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand"
+                 xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
+                 xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen"
+                 xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek"
+                 xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing"
+                 xmlns:k="http://www.geostandaarden.nl/imow/kaart"
+                 xmlns:l="http://www.geostandaarden.nl/imow/locatie"
+                 xmlns:p="http://www.geostandaarden.nl/imow/pons"
+                 xmlns:r="http://www.geostandaarden.nl/imow/regels"
+                 xmlns:rg="http://www.geostandaarden.nl/imow/regelingsgebied"
+                 xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie"
+                 xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
+                 xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+   <sl:standBestand>
+      <sl:dataset>Voorbereidingsbesluit OVNH2022</sl:dataset>
+      <sl:inhoud>
+         <sl:gebied>Provincie Noord-Holland</sl:gebied>
+         <sl:leveringsId>OVNH2022-001</sl:leveringsId>
+         <sl:objectTypen>
+            <sl:objectType>Ambtsgebied</sl:objectType>
+            <sl:objectType>Gebied</sl:objectType>
+         </sl:objectTypen>
+      </sl:inhoud>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Ambtsgebied>
+               <l:identificatie>nl.imow-pv27.ambtsgebied.00000001001003124000</l:identificatie>
+               <l:noemer>Provincie Noord-Holland</l:noemer>
+               <l:bestuurlijkeGrenzenVerwijzing>
+                  <l:BestuurlijkeGrenzenVerwijzing>
+                     <l:bestuurlijkeGrenzenID>PV27</l:bestuurlijkeGrenzenID>
+                     <l:domein>NL.BI.BestuurlijkGebied</l:domein>
+                     <l:geldigOp>2021-01-01</l:geldigOp>
+                  </l:BestuurlijkeGrenzenVerwijzing>
+               </l:bestuurlijkeGrenzenVerwijzing>
+            </l:Ambtsgebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--Provinciale monumenten.gml-->
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv27.gebied.20210622000001</l:identificatie>
+               <l:noemer>voorbeschermd provinciaal monument</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="89d1df69-2804-4fb1-867f-e8c9db358c5b"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+   </sl:standBestand>
+</ow-dc:owBestand>
