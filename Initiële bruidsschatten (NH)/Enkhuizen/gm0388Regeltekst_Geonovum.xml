@@ -40,7 +40,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0388.regeltekst.2021000001"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-gm0388.ambtsgebied.Enkhuizen"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0388.gebiedengroep.enkhuizenbuurt"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0388.activiteit.ActInOmgevingsplanGemNw"/>
@@ -48,7 +48,7 @@
                      <r:identificatie>nl.imow-gm0388.activiteitlocatieaanduiding.2020000001</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-gm0388.ambtsgebied.Enkhuizen"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0388.gebiedengroep.enkhuizenbuurt"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
