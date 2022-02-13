@@ -4,8 +4,8 @@
                xsi:schemaLocation="http://www.geostandaarden.nl/bestanden-ow/manifest-ow https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/generiek/manifest-ow.xsd">
    <domein>omgevingswet</domein>
    <Aanlevering>
-      <WorkIDRegeling>/akn/nl/act/gm0388/2021/omgevingsplanEnkhuizen</WorkIDRegeling>
-      <DoelID>/join/id/proces/gm0388/2021/omgevingsplanEnkhuizen_geonovum</DoelID>
+      <WorkIDRegeling>/akn/nl/act/gm0388/2021/omgevingsplan3Enkhuizen</WorkIDRegeling>
+      <DoelID>/join/id/proces/gm0388/2021/omgevingsplan3Enkhuizen</DoelID>
       <Bestand>
          <naam>gm0388Regeltekst_Geonovum.xml</naam>
          <objecttype>Regeltekst</objecttype>
@@ -22,6 +22,8 @@
       <Bestand>
          <naam>gm0388Locaties_Geonovum.xml</naam>
          <objecttype>Ambtsgebied</objecttype>
+         <objecttype>Gebied</objecttype>
+         <objecttype>Gebiedengroep</objecttype>
       </Bestand>
    </Aanlevering>
 </Aanleveringen>

@@ -35,4 +35,12 @@
       <bestandsnaam>gm0441Locaties_Geonovum.xml</bestandsnaam>
       <contentType>application/xml</contentType>
    </bestand>
+   <bestand>
+      <bestandsnaam>Schagenbuurt.xml</bestandsnaam>
+      <contentType>application/xml</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>Schagenbuurt.gml</bestandsnaam>
+      <contentType>application/gml+xml</contentType>
+   </bestand>
 </manifest>

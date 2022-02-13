@@ -35,4 +35,12 @@
       <bestandsnaam>gm0373Locaties_Geonovum.xml</bestandsnaam>
       <contentType>application/xml</contentType>
    </bestand>
+   <bestand>
+      <bestandsnaam>Bergenbuurt.xml</bestandsnaam>
+      <contentType>application/xml</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>Bergenbuurt.gml</bestandsnaam>
+      <contentType>application/gml+xml</contentType>
+   </bestand>
 </manifest>

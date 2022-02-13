@@ -3,13 +3,13 @@
   <geo:context>
     <gio:GeografischeContext>
       <gio:achtergrondVerwijzing>brt</gio:achtergrondVerwijzing>
-      <gio:achtergrondActualiteit>11-2-2022</gio:achtergrondActualiteit>
+      <gio:achtergrondActualiteit>2022-02-11</gio:achtergrondActualiteit>
     </gio:GeografischeContext>
   </geo:context>
   <geo:vastgesteldeVersie>
     <geo:GeoInformatieObjectVersie>
-      <geo:FRBRWork>/join/id/regdata/gm0388/2021/Enkhuizenbuurt</geo:FRBRWork>
-      <geo:FRBRExpression>/join/id/regdata/gm0388/2021/Enkhuizenbuurt/nld@2022-01-01;1</geo:FRBRExpression>
+      <geo:FRBRWork>/join/id/regdata/gm0388/2021/Enkhuizenbuurt3</geo:FRBRWork>
+      <geo:FRBRExpression>/join/id/regdata/gm0388/2021/Enkhuizenbuurt3/nld@2022-01-01;1</geo:FRBRExpression>
       <geo:locaties>
         <geo:Locatie>
           <geo:naam>enkhuizenbuurt</geo:naam>

@@ -22,6 +22,8 @@
       <Bestand>
          <naam>gm0373Locaties_Geonovum.xml</naam>
          <objecttype>Ambtsgebied</objecttype>
+         <objecttype>Gebied</objecttype>
+         <objecttype>Gebiedengroep</objecttype>
       </Bestand>
    </Aanlevering>
 </Aanleveringen>

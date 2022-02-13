@@ -20,6 +20,8 @@
          <sl:leveringsId>gm0441_2021-03-23</sl:leveringsId>
          <sl:objectTypen>
             <sl:objectType>Ambtsgebied</sl:objectType>
+            <sl:objectType>Gebied</sl:objectType>
+            <sl:objectType>Gebiedengroep</sl:objectType>
          </sl:objectTypen>
       </sl:inhoud>
       <sl:stand>
@@ -29,12 +31,32 @@
                <l:noemer>Schagen</l:noemer>
                <l:bestuurlijkeGrenzenVerwijzing>
                   <l:BestuurlijkeGrenzenVerwijzing>
-                     <l:bestuurlijkeGrenzenID>gm0441</l:bestuurlijkeGrenzenID>
+                     <l:bestuurlijkeGrenzenID>GM0441</l:bestuurlijkeGrenzenID>
                      <l:domein>NL.BI.BestuurlijkGebied</l:domein>
                      <l:geldigOp>2021-01-01</l:geldigOp>
                   </l:BestuurlijkeGrenzenVerwijzing>
                </l:bestuurlijkeGrenzenVerwijzing>
             </l:Ambtsgebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-gm0388.gebiedengroep.schagenbuurt</l:identificatie>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-gm0388.gebied.schagenbuurt"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0388.gebied.schagenbuurt</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="c3e86c40-4c61-446f-a40d-fec351510a48"/>
+               </l:geometrie>
+            </l:Gebied>
          </ow-dc:owObject>
       </sl:stand>
    </sl:standBestand>

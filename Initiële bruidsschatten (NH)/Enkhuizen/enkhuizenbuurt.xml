@@ -2,17 +2,17 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="1.2.0" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
   <InformatieObjectVersie>
     <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <FRBRWork>/join/id/regdata/gm0388/2021/Enkhuizenbuurt</FRBRWork>
-      <FRBRExpression>/join/id/regdata/gm0388/2021/Enkhuizenbuurt/nld@2022-01-01;1</FRBRExpression>
+      <FRBRWork>/join/id/regdata/gm0388/2021/Enkhuizenbuurt3</FRBRWork>
+      <FRBRExpression>/join/id/regdata/gm0388/2021/Enkhuizenbuurt3/nld@2022-01-01;1</FRBRExpression>
       <soortWork>/join/id/stop/work_010</soortWork>
     </ExpressionIdentificatie>
     <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <heeftGeboorteregeling>/akn/nl/act/gm0388/2021/omgevingsplanEnkhuizen</heeftGeboorteregeling>
+      <heeftGeboorteregeling>/akn/nl/act/gm0388/2021/omgevingsplan3Enkhuizen</heeftGeboorteregeling>
       <heeftBestanden>
         <heeftBestand>
           <Bestand>
             <bestandsnaam>enkhuizenbuurt.gml</bestandsnaam>
-            <hash>6cf783251723124a72ae8464c750926677e38fa6f6c6865efa74092413827c1c661e8da669cb4cb47a8711432de9e2dec5802a528c8d37bf4965377764738b79</hash>
+             <hash>3c1fc70206112e238dd52b6ff29038d1d13d45c65c909dc11c74d9d781ac897e9bc361cae56d9fa6a85b5803567806e91caa6b62bcacbd6dbca8ce115f1e2f5a</hash>
           </Bestand>
         </heeftBestand>
       </heeftBestanden>
@@ -23,7 +23,7 @@
       <alternatieveTitels>
         <alternatieveTitel/>
       </alternatieveTitels>
-      <officieleTitel>/join/id/regdata/gm0388/2021/Enkhuizenbuurt</officieleTitel>
+      <officieleTitel>/join/id/regdata/gm0388/2021/Enkhuizenbuurt3</officieleTitel>
       <publicatieinstructie>TeConsolideren</publicatieinstructie>
       <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
       <naamInformatieObject>enkhuizenbuurt</naamInformatieObject>
