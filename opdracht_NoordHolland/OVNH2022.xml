@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="1.1.0" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+<AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    schemaversie="1.1.0"
+                    xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
    <BesluitVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/akn/nl/bill/pv27/2021/OVNH2022</FRBRWork>
@@ -79,14 +82,16 @@
                   <doel>/join/id/proces/pv26/2021/Instelling_gm0441</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv27/2021/voorbeschermd_provinciaal_monument_gm0441/nld@2021-06-21;1</instrumentVersie>
-               <eId> !initieel_schagen#cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
+               <eId>
+!initieel_schagen#cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2021/Instelling_gm0388</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv27/2021/voorbeschermd_provinciaal_monument_gm0388/nld@2021-06-21;1</instrumentVersie>
-               <eId> !initieel_enkhuizen#cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
+               <eId>
+!initieel_enkhuizen#cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
             </BeoogdInformatieobject>
          </BeoogdeRegelgeving>
          <Tijdstempels>
@@ -108,12 +113,16 @@
             <Al>Gelezen de voordracht van gedeputeerde staten van Noord-Holland van &lt;datum&gt;;</Al>
             <Al>Gelet op artikel 4.16, eerste lid, van de Omgevingswet;</Al>
             <Al>Overwegende dat</Al>
-            <Lijst eId="formula_1__list_o_1" wId="pv27_1__formula_1__list_o_1" type="expliciet">
-               <Li eId="formula_1__list_o_1__item_o_1" wId="pv27_1__formula_1__list_o_1__item_o_1">
+            <Lijst eId="formula_1__list_o_1"
+                   wId="pv27_1__formula_1__list_o_1"
+                   type="expliciet">
+               <Li eId="formula_1__list_o_1__item_o_1"
+                   wId="pv27_1__formula_1__list_o_1__item_o_1">
                   <LiNummer>•</LiNummer>
                   <Al>de Omgevingsverordening NH2022 instructieregels voor een omgevingsplan bevat ter behartiging van provinciale belangen, deels ter vervanging van bestaande rechtstreeks werkende regels in de huidige Omgevingsverordening NH2020; en</Al>
                </Li>
-               <Li eId="formula_1__list_o_1__item_o_2" wId="pv27_1__formula_1__list_o_1__item_o_2">
+               <Li eId="formula_1__list_o_1__item_o_2"
+                   wId="pv27_1__formula_1__list_o_1__item_o_2">
                   <LiNummer>•</LiNummer>
                   <Al>het wenselijk is om daarbij voorbeschermingsregels te stellen voor de periode dat de genoemde instructieregels nog niet door de gemeenten zijn verwerkt in het omgevingsplan.</Al>
                </Li>
@@ -173,7 +182,8 @@
                <Nummer>I</Nummer>
                <Opschrift>Voorbeschermingsregels omgevingsplan Bergen</Opschrift>
             </Kop>
-            <RegelingTijdelijkdeel componentnaam="initieel_bergen" wordt="/akn/nl/act/pv27/2021/OVNH2022_gm0373/nld@2021-06-21;1">
+            <RegelingTijdelijkdeel componentnaam="initieel_bergen"
+                                   wordt="/akn/nl/act/pv27/2021/OVNH2022_gm0373/nld@2021-06-21;1">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
                   <Al>Voorbereidingsbesluit OVNH2022 - gemeente Bergen</Al>
                </RegelingOpschrift>
@@ -200,42 +210,54 @@
                            <Nummer>1.1</Nummer>
                            <Opschrift>Geitenhouderij</Opschrift>
                         </Kop>
-                        <Artikel eId="chp_1__subchp_1.1__art_1.1" wId="pv27_1__chp_1__subchp_1.1__art_1.1">
+                        <Artikel eId="chp_1__subchp_1.1__art_1.1"
+                                 wId="pv27_1__chp_1__subchp_1.1__art_1.1">
                            <Kop>
                               <Label>Artikel</Label>
                               <Nummer>1.1</Nummer>
                               <Opschrift>Verbod geitenhouderij</Opschrift>
                            </Kop>
-                           <Lid eId="chp_1__subchp_1.1__art_1.1__para_1" wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_1">
+                           <Lid eId="chp_1__subchp_1.1__art_1.1__para_1"
+                                wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_1">
                               <LidNummer>1.</LidNummer>
                               <Inhoud>
-                                 <Lijst eId="chp_1__subchp_1.1__art_1.1__para_1__list_o_1" wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_1__list_o_1" type="expliciet">
+                                 <Lijst eId="chp_1__subchp_1.1__art_1.1__para_1__list_o_1"
+                                        wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_1__list_o_1"
+                                        type="expliciet">
                                     <Lijstaanhef>Het is verboden om:</Lijstaanhef>
-                                    <Li eId="chp_1__subchp_1.1__art_1.1__para_1__list_o_1__item_a" wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_1__list_o_1__item_a">
+                                    <Li eId="chp_1__subchp_1.1__art_1.1__para_1__list_o_1__item_a"
+                                        wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_1__list_o_1__item_a">
                                        <LiNummer>a.</LiNummer>
                                        <Al>een geitenhouderij, al dan niet als neventak, nieuw te vestigen;</Al>
                                     </Li>
-                                    <Li eId="chp_1__subchp_1.1__art_1.1__para_1__list_o_1__item_b" wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_1__list_o_1__item_b">
+                                    <Li eId="chp_1__subchp_1.1__art_1.1__para_1__list_o_1__item_b"
+                                        wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_1__list_o_1__item_b">
                                        <LiNummer>b.</LiNummer>
                                        <Al>een agrarisch bedrijf geheel of gedeeltelijk te wijzigen naar geitenhouderij, of;</Al>
                                     </Li>
-                                    <Li eId="chp_1__subchp_1.1__art_1.1__para_1__list_o_1__item_c" wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_1__list_o_1__item_c">
+                                    <Li eId="chp_1__subchp_1.1__art_1.1__para_1__list_o_1__item_c"
+                                        wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_1__list_o_1__item_c">
                                        <LiNummer>c.</LiNummer>
                                        <Al>een geitenhouderij uit te breiden door het aantal geiten dat wordt gehouden te vergroten.</Al>
                                     </Li>
                                  </Lijst>
                               </Inhoud>
                            </Lid>
-                           <Lid eId="chp_1__subchp_1.1__art_1.1__para_2" wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_2">
+                           <Lid eId="chp_1__subchp_1.1__art_1.1__para_2"
+                                wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_2">
                               <LidNummer>2.</LidNummer>
                               <Inhoud>
-                                 <Lijst eId="chp_1__subchp_1.1__art_1.1__para_2__list_o_1" wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_2__list_o_1" type="expliciet">
+                                 <Lijst eId="chp_1__subchp_1.1__art_1.1__para_2__list_o_1"
+                                        wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_2__list_o_1"
+                                        type="expliciet">
                                     <Lijstaanhef>Het verbod is niet van toepassing voor zover voor een van de genoemde activiteiten vóór 12 december 2018:</Lijstaanhef>
-                                    <Li eId="chp_1__subchp_1.1__art_1.1__para_2__list_o_1__item_a" wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_2__list_o_1__item_a">
+                                    <Li eId="chp_1__subchp_1.1__art_1.1__para_2__list_o_1__item_a"
+                                        wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_2__list_o_1__item_a">
                                        <LiNummer>a.</LiNummer>
                                        <Al>een melding voor een milieubelastende activiteit bij het bevoegd gezag is ingediend, of;</Al>
                                     </Li>
-                                    <Li eId="chp_1__subchp_1.1__art_1.1__para_2__list_o_1__item_b" wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_2__list_o_1__item_b">
+                                    <Li eId="chp_1__subchp_1.1__art_1.1__para_2__list_o_1__item_b"
+                                        wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_2__list_o_1__item_b">
                                        <LiNummer>b.</LiNummer>
                                        <Al>een aanvraag voor een omgevingsvergunning bij het bevoegd gezag is ingediend, tenzij de aanvraag ziet op of wordt aangemerkt als een omgevingsvergunning voor een buitenplanse omgevingsplanactiviteit.</Al>
                                     </Li>
@@ -250,35 +272,43 @@
                            <Nummer>1.2</Nummer>
                            <Opschrift>Windturbines</Opschrift>
                         </Kop>
-                        <Artikel eId="chp_1__subchp_1.2__art_1.2" wId="pv27_1__chp_1__subchp_1.2__art_1.2">
+                        <Artikel eId="chp_1__subchp_1.2__art_1.2"
+                                 wId="pv27_1__chp_1__subchp_1.2__art_1.2">
                            <Kop>
                               <Label>Artikel</Label>
                               <Nummer>1.2</Nummer>
                               <Opschrift>Bouwverbod windturbines</Opschrift>
                            </Kop>
-                           <Lid eId="chp_1__subchp_1.2__art_1.2__para_1" wId="pv27_1__chp_1__subchp_1.2__art_1.2__para_1">
+                           <Lid eId="chp_1__subchp_1.2__art_1.2__para_1"
+                                wId="pv27_1__chp_1__subchp_1.2__art_1.2__para_1">
                               <LidNummer>1.</LidNummer>
                               <Inhoud>
                                  <Al>Het is verboden om een of meer windturbines met een rotordiameter van meer dan 5 meter of een ashoogte van meer dan 7 meter te bouwen of op te schalen.</Al>
                               </Inhoud>
                            </Lid>
-                           <Lid eId="chp_1__subchp_1.2__art_1.2__para_2" wId="pv27_1__chp_1__subchp_1.2__art_1.2__para_2">
+                           <Lid eId="chp_1__subchp_1.2__art_1.2__para_2"
+                                wId="pv27_1__chp_1__subchp_1.2__art_1.2__para_2">
                               <LidNummer>2.</LidNummer>
                               <Inhoud>
-                                 <Lijst eId="chp_1__subchp_1.2__art_1.2__para_2__list_o_1" wId="pv27_1__chp_1__subchp_1.2__art_1.2__para_2__list_o_1" type="expliciet">
+                                 <Lijst eId="chp_1__subchp_1.2__art_1.2__para_2__list_o_1"
+                                        wId="pv27_1__chp_1__subchp_1.2__art_1.2__para_2__list_o_1"
+                                        type="expliciet">
                                     <Lijstaanhef>Het verbod bedoeld in het eerste lid geldt niet als sprake is van vervanging van een of meer met vergunning gebouwde windturbines:</Lijstaanhef>
-                                    <Li eId="chp_1__subchp_1.2__art_1.2__para_2__list_o_1__item_a" wId="pv27_1__chp_1__subchp_1.2__art_1.2__para_2__list_o_1__item_a">
+                                    <Li eId="chp_1__subchp_1.2__art_1.2__para_2__list_o_1__item_a"
+                                        wId="pv27_1__chp_1__subchp_1.2__art_1.2__para_2__list_o_1__item_a">
                                        <LiNummer>a.</LiNummer>
                                        <Al>door eenzelfde aantal of minder windturbines met eenzelfde, vergelijkbare of geringere ashoogte, rotordiameter en verschijningsvorm; en</Al>
                                     </Li>
-                                    <Li eId="chp_1__subchp_1.2__art_1.2__para_2__list_o_1__item_b" wId="pv27_1__chp_1__subchp_1.2__art_1.2__para_2__list_o_1__item_b">
+                                    <Li eId="chp_1__subchp_1.2__art_1.2__para_2__list_o_1__item_b"
+                                        wId="pv27_1__chp_1__subchp_1.2__art_1.2__para_2__list_o_1__item_b">
                                        <LiNummer>b.</LiNummer>
                                        <Al>op locaties waarop op de bouw van een of meer windturbines volgens een omgevingsplan is toegestaan.</Al>
                                     </Li>
                                  </Lijst>
                               </Inhoud>
                            </Lid>
-                           <Lid eId="chp_1__subchp_1.2__art_1.2__para_3" wId="pv27_1__chp_1__subchp_1.2__art_1.2__para_3">
+                           <Lid eId="chp_1__subchp_1.2__art_1.2__para_3"
+                                wId="pv27_1__chp_1__subchp_1.2__art_1.2__para_3">
                               <LidNummer>3.</LidNummer>
                               <Inhoud>
                                  <Al>Het verbod bedoeld in het eerste lid is niet van toepassing op een door Gedeputeerde Staten aangewezen windenergiegebied als bedoeld artikel 6.27 van de Omgevingsverordening NH2022.</Al>
@@ -292,69 +322,89 @@
                            <Nummer>1.3</Nummer>
                            <Opschrift>Provinciale monumenten</Opschrift>
                         </Kop>
-                        <Artikel eId="chp_1__subchp_1.3__art_1.3" wId="pv27_1__chp_1__subchp_1.3__art_1.3">
+                        <Artikel eId="chp_1__subchp_1.3__art_1.3"
+                                 wId="pv27_1__chp_1__subchp_1.3__art_1.3">
                            <Kop>
                               <Label>Artikel</Label>
                               <Nummer>1.3</Nummer>
                               <Opschrift>Verbod beschadiging, vernieling en onthouden onderhoud</Opschrift>
                            </Kop>
                            <Inhoud>
-                              <Lijst eId="chp_1__subchp_1.3__art_1.3__list_o_1" wId="pv27_1__chp_1__subchp_1.3__art_1.3__list_o_1" type="expliciet">
-                                 <Lijstaanhef>Op de locatie ‘<IntIoRef eId="chp_1__subchp_1.3__art_1.3__list_o_1__ref_o_1" wId="pv27_1__chp_1__subchp_1.3__art_1.3__list_o_1__ref_o_1" ref="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1">voorbeschermd provinciaal monument</IntIoRef>’ is het verboden:</Lijstaanhef>
-                                 <Li eId="chp_1__subchp_1.3__art_1.3__list_o_1__item_a" wId="pv27_1__chp_1__subchp_1.3__art_1.3__list_o_1__item_a">
+                              <Lijst eId="chp_1__subchp_1.3__art_1.3__list_o_1"
+                                     wId="pv27_1__chp_1__subchp_1.3__art_1.3__list_o_1"
+                                     type="expliciet">
+                                 <Lijstaanhef>Op de locatie ‘<IntIoRef eId="chp_1__subchp_1.3__art_1.3__list_o_1__ref_o_1"
+                                              wId="pv27_1__chp_1__subchp_1.3__art_1.3__list_o_1__ref_o_1"
+                                              ref="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1">voorbeschermd provinciaal monument</IntIoRef>’ is het verboden:</Lijstaanhef>
+                                 <Li eId="chp_1__subchp_1.3__art_1.3__list_o_1__item_a"
+                                     wId="pv27_1__chp_1__subchp_1.3__art_1.3__list_o_1__item_a">
                                     <LiNummer>a.</LiNummer>
                                     <Al>het daar aanwezige monument, zoals omschreven in de bijlage, te beschadigen of te vernielen; of</Al>
                                  </Li>
-                                 <Li eId="chp_1__subchp_1.3__art_1.3__list_o_1__item_b" wId="pv27_1__chp_1__subchp_1.3__art_1.3__list_o_1__item_b">
+                                 <Li eId="chp_1__subchp_1.3__art_1.3__list_o_1__item_b"
+                                     wId="pv27_1__chp_1__subchp_1.3__art_1.3__list_o_1__item_b">
                                     <LiNummer>b.</LiNummer>
                                     <Al>aan het daar aanwezige monument, zoals omschreven in de bijlage, onderhoud te onthouden dat voor de instandhouding daarvan noodzakelijk is.</Al>
                                  </Li>
                               </Lijst>
                            </Inhoud>
                         </Artikel>
-                        <Artikel eId="chp_1__subchp_1.3__art_1.4" wId="pv27_1__chp_1__subchp_1.3__art_1.4">
+                        <Artikel eId="chp_1__subchp_1.3__art_1.4"
+                                 wId="pv27_1__chp_1__subchp_1.3__art_1.4">
                            <Kop>
                               <Label>Artikel</Label>
                               <Nummer>1.4</Nummer>
                               <Opschrift>Vergunningplicht</Opschrift>
                            </Kop>
                            <Inhoud>
-                              <Al>Op de locatie ‘<IntIoRef eId="chp_1__subchp_1.3__art_1.4__ref_o_1" wId="pv27_1__chp_1__subchp_1.3__art_1.4__ref_o_1" ref="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1">voorbeschermd provinciaal monument</IntIoRef>’ is het verboden zonder omgevingsvergunning het daar aanwezige monument, zoals omschreven in de bijlage, te slopen, te verstoren, te verplaatsen of te wijzigen, of te herstellen of te gebruiken waardoor het wordt ontsierd of in gevaar
-                                 gebracht.</Al>
+                              <Al>Op de locatie ‘<IntIoRef eId="chp_1__subchp_1.3__art_1.4__ref_o_1"
+                                           wId="pv27_1__chp_1__subchp_1.3__art_1.4__ref_o_1"
+                                           ref="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1">voorbeschermd provinciaal monument</IntIoRef>’ is het verboden zonder omgevingsvergunning het daar aanwezige monument, zoals omschreven in de bijlage, te slopen, te verstoren, te verplaatsen of te wijzigen, of te herstellen of te gebruiken waardoor het wordt ontsierd of in gevaar gebracht.</Al>
                            </Inhoud>
                         </Artikel>
-                        <Artikel eId="chp_1__subchp_1.3__art_1.5" wId="pv27_1__chp_1__subchp_1.3__art_1.5">
+                        <Artikel eId="chp_1__subchp_1.3__art_1.5"
+                                 wId="pv27_1__chp_1__subchp_1.3__art_1.5">
                            <Kop>
                               <Label>Artikel</Label>
                               <Nummer>1.5</Nummer>
                               <Opschrift>Aanwijzing vergunningvrije gevallen</Opschrift>
                            </Kop>
-                           <Lid eId="chp_1__subchp_1.3__art_1.5__para_1" wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_1">
+                           <Lid eId="chp_1__subchp_1.3__art_1.5__para_1"
+                                wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_1">
                               <LidNummer>1.</LidNummer>
                               <Inhoud>
-                                 <Lijst eId="chp_1__subchp_1.3__art_1.5__para_1__list_o_1" wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_1__list_o_1" type="expliciet">
+                                 <Lijst eId="chp_1__subchp_1.3__art_1.5__para_1__list_o_1"
+                                        wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_1__list_o_1"
+                                        type="expliciet">
                                     <Lijstaanhef>Het verbod, bedoeld in artikel 1.4, geldt niet voor een activiteit met betrekking tot een monument, voor zover het gaat om:</Lijstaanhef>
-                                    <Li eId="chp_1__subchp_1.3__art_1.5__para_1__list_o_1__item_a" wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_1__list_o_1__item_a">
+                                    <Li eId="chp_1__subchp_1.3__art_1.5__para_1__list_o_1__item_a"
+                                        wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_1__list_o_1__item_a">
                                        <LiNummer>a.</LiNummer>
                                        <Al>noodzakelijke reguliere werkzaamheden die zijn gericht op het behoud van de monumentale waarden, als detaillering, profilering, vormgeving, materiaalsoort en kleur niet worden gewijzigd; of</Al>
                                     </Li>
-                                    <Li eId="chp_1__subchp_1.3__art_1.5__para_1__list_o_1__item_b" wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_1__list_o_1__item_b">
+                                    <Li eId="chp_1__subchp_1.3__art_1.5__para_1__list_o_1__item_b"
+                                        wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_1__list_o_1__item_b">
                                        <LiNummer>b.</LiNummer>
                                        <Al>alleen inpandige wijzigingen van een onderdeel van het monument dat uit het oogpunt van monumentenzorg geen waarde heeft.</Al>
                                     </Li>
                                  </Lijst>
                               </Inhoud>
                            </Lid>
-                           <Lid eId="chp_1__subchp_1.3__art_1.5__para_2" wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_2">
+                           <Lid eId="chp_1__subchp_1.3__art_1.5__para_2"
+                                wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_2">
                               <LidNummer>2.</LidNummer>
                               <Inhoud>
-                                 <Lijst eId="chp_1__subchp_1.3__art_1.5__para_2__list_o_1" wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_2__list_o_1" type="expliciet">
+                                 <Lijst eId="chp_1__subchp_1.3__art_1.5__para_2__list_o_1"
+                                        wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_2__list_o_1"
+                                        type="expliciet">
                                     <Lijstaanhef>Het verbod, bedoeld in artikel 1.4, geldt niet voor een activiteit met betrekking tot een monument waarvan met name de archeologische waarden redengevend zijn, voor zover het gaat om:</Lijstaanhef>
-                                    <Li eId="chp_1__subchp_1.3__art_1.5__para_2__list_o_1__item_a" wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_2__list_o_1__item_a">
+                                    <Li eId="chp_1__subchp_1.3__art_1.5__para_2__list_o_1__item_a"
+                                        wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_2__list_o_1__item_a">
                                        <LiNummer>a.</LiNummer>
                                        <Al>een sondering of grondboring met een boordiameter van niet meer dan 10 cm; of</Al>
                                     </Li>
-                                    <Li eId="chp_1__subchp_1.3__art_1.5__para_2__list_o_1__item_b" wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_2__list_o_1__item_b">
+                                    <Li eId="chp_1__subchp_1.3__art_1.5__para_2__list_o_1__item_b"
+                                        wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_2__list_o_1__item_b">
                                        <LiNummer>b.</LiNummer>
                                        <Al>het dichten van een recent verstoringsgat van niet meer dan 1 m<sup>3</sup>.</Al>
                                     </Li>
@@ -362,7 +412,8 @@
                               </Inhoud>
                            </Lid>
                         </Artikel>
-                        <Artikel eId="chp_1__subchp_1.3__art_1.6" wId="pv27_1__chp_1__subchp_1.3__art_1.6">
+                        <Artikel eId="chp_1__subchp_1.3__art_1.6"
+                                 wId="pv27_1__chp_1__subchp_1.3__art_1.6">
                            <Kop>
                               <Label>Artikel</Label>
                               <Nummer>1.6</Nummer>
@@ -372,36 +423,45 @@
                               <Al>De artikelen 22.287 tot en met 22.294 van de bruidsschat omgevingsplan (aanvraagvereisten) zijn van overeenkomstige toepassing op een aanvraag om een omgevingsvergunning voor een activiteit als bedoeld in artikel 1.4.</Al>
                            </Inhoud>
                         </Artikel>
-                        <Artikel eId="chp_1__subchp_1.3__art_1.7" wId="pv27_1__chp_1__subchp_1.3__art_1.7">
+                        <Artikel eId="chp_1__subchp_1.3__art_1.7"
+                                 wId="pv27_1__chp_1__subchp_1.3__art_1.7">
                            <Kop>
                               <Label>Artikel</Label>
                               <Nummer>1.7</Nummer>
                               <Opschrift>Beoordelingsregel</Opschrift>
                            </Kop>
-                           <Lid eId="chp_1__subchp_1.3__art_1.7__para_1" wId="pv27_1__chp_1__subchp_1.3__art_1.7__para_1">
+                           <Lid eId="chp_1__subchp_1.3__art_1.7__para_1"
+                                wId="pv27_1__chp_1__subchp_1.3__art_1.7__para_1">
                               <LidNummer>1.</LidNummer>
                               <Inhoud>
                                  <Al>De omgevingsvergunning wordt alleen verleend als de activiteit in overeenstemming is met het belang van de monumentenzorg.</Al>
                               </Inhoud>
                            </Lid>
-                           <Lid eId="chp_1__subchp_1.3__art_1.7__para_2" wId="pv27_1__chp_1__subchp_1.3__art_1.7__para_2">
+                           <Lid eId="chp_1__subchp_1.3__art_1.7__para_2"
+                                wId="pv27_1__chp_1__subchp_1.3__art_1.7__para_2">
                               <LidNummer>2.</LidNummer>
                               <Inhoud>
-                                 <Lijst eId="chp_1__subchp_1.3__art_1.7__para_2__list_o_1" wId="pv27_1__chp_1__subchp_1.3__art_1.7__para_2__list_o_1" type="expliciet">
+                                 <Lijst eId="chp_1__subchp_1.3__art_1.7__para_2__list_o_1"
+                                        wId="pv27_1__chp_1__subchp_1.3__art_1.7__para_2__list_o_1"
+                                        type="expliciet">
                                     <Lijstaanhef>Bij de beslissing op de aanvraag wordt rekening gehouden met de volgende beginselen:</Lijstaanhef>
-                                    <Li eId="chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_a" wId="pv27_1__chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_a">
+                                    <Li eId="chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_a"
+                                        wId="pv27_1__chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_a">
                                        <LiNummer>a.</LiNummer>
                                        <Al>het voorkomen van ontsiering, beschadiging of sloop van monumenten;</Al>
                                     </Li>
-                                    <Li eId="chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_b" wId="pv27_1__chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_b">
+                                    <Li eId="chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_b"
+                                        wId="pv27_1__chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_b">
                                        <LiNummer>b.</LiNummer>
                                        <Al>het voorkomen van verplaatsing van monumenten of een deel daarvan, tenzij dit dringend vereist is voor het behoud van die monumenten;</Al>
                                     </Li>
-                                    <Li eId="chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_c" wId="pv27_1__chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_c">
+                                    <Li eId="chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_c"
+                                        wId="pv27_1__chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_c">
                                        <LiNummer>c.</LiNummer>
                                        <Al>het bevorderen van het gebruik van monumenten, zo nodig door wijziging van die monumenten, rekening houdend met de monumentale waarden; en</Al>
                                     </Li>
-                                    <Li eId="chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_d" wId="pv27_1__chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_d">
+                                    <Li eId="chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_d"
+                                        wId="pv27_1__chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_d">
                                        <LiNummer>d.</LiNummer>
                                        <Al>het conserveren en in stand houden van monumenten waarvan met name de archeologische waarden redengevend zijn, bij voorkeur in situ.</Al>
                                     </Li>
@@ -409,67 +469,83 @@
                               </Inhoud>
                            </Lid>
                         </Artikel>
-                        <Artikel eId="chp_1__subchp_1.3__art_1.8" wId="pv27_1__chp_1__subchp_1.3__art_1.8">
+                        <Artikel eId="chp_1__subchp_1.3__art_1.8"
+                                 wId="pv27_1__chp_1__subchp_1.3__art_1.8">
                            <Kop>
                               <Label>Artikel</Label>
                               <Nummer>1.8</Nummer>
                               <Opschrift>Voorschriften</Opschrift>
                            </Kop>
                            <Inhoud>
-                              <Lijst eId="chp_1__subchp_1.3__art_1.8__list_o_1" wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1" type="expliciet">
+                              <Lijst eId="chp_1__subchp_1.3__art_1.8__list_o_1"
+                                     wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1"
+                                     type="expliciet">
                                  <Lijstaanhef>Aan een omgevingsvergunning voor een activiteit als bedoeld in artikel 1.4 worden de voorschriften verbonden die nodig zijn voor de regel, bedoeld in artikel 1.7. Daarbij geldt dat:</Lijstaanhef>
-                                 <Li eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_a" wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_a">
+                                 <Li eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_a"
+                                     wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_a">
                                     <LiNummer>a.</LiNummer>
                                     <Al>als het gaat om een omgevingsvergunning die een gedeeltelijke of volledige verplaatsing inhoudt van een monument dat een bouwwerk is, in ieder geval voorschriften aan de omgevingsvergunning worden verbonden over het treffen van voorzorgsmaatregelen voor het demonteren, het overbrengen en de herbouw van dat bouwwerk op de nieuwe locatie;</Al>
                                  </Li>
-                                 <Li eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_b" wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_b">
+                                 <Li eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_b"
+                                     wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_b">
                                     <LiNummer>b.</LiNummer>
-                                    <Lijst eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1" wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1" type="expliciet">
+                                    <Lijst eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1"
+                                           wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1"
+                                           type="expliciet">
                                        <Lijstaanhef>als het gaat om een omgevingsvergunning die betrekking heeft op een monument waarvan met name de archeologische waarden redengevend zijn, in het belang van de archeologische monumentenzorg in ieder geval voorschriften aan de omgevingsvergunning kunnen worden verbonden die inhouden een plicht tot:</Lijstaanhef>
-                                       <Li eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_1" wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_1">
+                                       <Li eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_1"
+                                           wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_1">
                                           <LiNummer>1°.</LiNummer>
                                           <Al>het treffen van technische maatregelen waardoor monumenten in situ kunnen worden behouden;</Al>
                                        </Li>
-                                       <Li eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_2" wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_2">
+                                       <Li eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_2"
+                                           wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_2">
                                           <LiNummer>2°.</LiNummer>
                                           <Al>het verrichten van opgravingen als bedoeld in artikel 1.1 van de Erfgoedwet;</Al>
                                        </Li>
-                                       <Li eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_3" wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_3">
+                                       <Li eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_3"
+                                           wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_3">
                                           <LiNummer>3°.</LiNummer>
                                           <Al>het laten begeleiden van een activiteit die tot bodemverstoring leidt door een deskundige op het terrein van de archeologische monumentenzorg die voldoet aan bij die voorschriften te stellen kwalificaties; en</Al>
                                        </Li>
-                                       <Li eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_4" wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_4">
+                                       <Li eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_4"
+                                           wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_4">
                                           <LiNummer>4°.</LiNummer>
                                           <Al>het verrichten van een opgraving of een archeologische begeleiding op een bepaalde wijze, als die wijze in overeenstemming is met artikel 5.4, eerste en tweede lid, van de Erfgoedwet;</Al>
                                        </Li>
                                     </Lijst>
                                  </Li>
-                                 <Li eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_c" wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_c">
+                                 <Li eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_c"
+                                     wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_c">
                                     <LiNummer>c.</LiNummer>
                                     <Al>als het gaat om een omgevingsvergunning die betrekking heeft op de fundering of riolering van een monument, in ieder geval het voorschrift aan de omgevingsvergunning kan worden verbonden dat voorafgaand aan de werkzaamheden archeologisch onderzoek wordt verricht.</Al>
                                  </Li>
                               </Lijst>
                            </Inhoud>
                         </Artikel>
-                        <Artikel eId="chp_1__subchp_1.3__art_1.9" wId="pv27_1__chp_1__subchp_1.3__art_1.9">
+                        <Artikel eId="chp_1__subchp_1.3__art_1.9"
+                                 wId="pv27_1__chp_1__subchp_1.3__art_1.9">
                            <Kop>
                               <Label>Artikel</Label>
                               <Nummer>1.9</Nummer>
                               <Opschrift>Aanwijzing adviseurs</Opschrift>
                            </Kop>
-                           <Lid eId="chp_1__subchp_1.3__art_1.9__para_1" wId="pv27_1__chp_1__subchp_1.3__art_1.9__para_1">
+                           <Lid eId="chp_1__subchp_1.3__art_1.9__para_1"
+                                wId="pv27_1__chp_1__subchp_1.3__art_1.9__para_1">
                               <LidNummer>1.</LidNummer>
                               <Inhoud>
                                  <Al>Gedeputeerde staten zijn adviseur voor een aanvraag om een omgevingsvergunning voor zover de aanvraag betrekking heeft op een activiteit als bedoeld in artikel 1.4.</Al>
                               </Inhoud>
                            </Lid>
-                           <Lid eId="chp_1__subchp_1.3__art_1.9__para_2" wId="pv27_1__chp_1__subchp_1.3__art_1.9__para_2">
+                           <Lid eId="chp_1__subchp_1.3__art_1.9__para_2"
+                                wId="pv27_1__chp_1__subchp_1.3__art_1.9__para_2">
                               <LidNummer>2.</LidNummer>
                               <Inhoud>
                                  <Al>De commissie, bedoeld in artikel 17.9 van de Omgevingswet, is adviseur voor een aanvraag om een omgevingsvergunning voor zover de aanvraag betrekking heeft op een activiteit als bedoeld in artikel 1.4 en het college van burgemeester en wethouders voor die aanvraag bevoegd gezag is.</Al>
                               </Inhoud>
                            </Lid>
-                           <Lid eId="chp_1__subchp_1.3__art_1.9__para_3" wId="pv27_1__chp_1__subchp_1.3__art_1.9__para_3">
+                           <Lid eId="chp_1__subchp_1.3__art_1.9__para_3"
+                                wId="pv27_1__chp_1__subchp_1.3__art_1.9__para_3">
                               <LidNummer>3.</LidNummer>
                               <Inhoud>
                                  <Al>Als het college van burgemeester en wethouders geen bevoegd gezag is voor de aanvraag om een omgevingsvergunning voor een activiteit als bedoeld in het eerste lid, maar adviseur, is de commissie ook adviseur en richt het advies van de commissie zich tot het college van burgemeester en wethouders in plaats van tot het bevoegd gezag.</Al>
@@ -479,20 +555,26 @@
                      </Afdeling>
                   </Hoofdstuk>
                </Lichaam>
-               <Bijlage xmlns:dso="https://www.dso.nl/" eId="cmp_o_1" wId="pv27_1__cmp_o_1" dso:niveau="1">
+               <Bijlage xmlns:dso="https://www.dso.nl/"
+                        eId="cmp_o_1"
+                        wId="pv27_1__cmp_o_1"
+                        dso:niveau="1">
                   <Kop>
                      <Opschrift>Begrippenlijst</Opschrift>
                   </Kop>
                   <Divisietekst eId="cmp_o_1__content_o_1" wId="pv27_1__cmp_o_1__content_o_1">
                      <Inhoud>
-                        <Begrippenlijst eId="cmp_o_1__content_o_1__list_o_1" wId="pv27_1__cmp_o_1__content_o_1__list_o_1">
-                           <Begrip eId="cmp_o_1__content_o_1__list_o_1__item_o_1" wId="pv27_1__cmp_o_1__content_o_1__list_o_1__item_o_1">
+                        <Begrippenlijst eId="cmp_o_1__content_o_1__list_o_1"
+                                        wId="pv27_1__cmp_o_1__content_o_1__list_o_1">
+                           <Begrip eId="cmp_o_1__content_o_1__list_o_1__item_o_1"
+                                   wId="pv27_1__cmp_o_1__content_o_1__list_o_1__item_o_1">
                               <Term>Geitenhouderij</Term>
                               <Definitie>
                                  <Al>Een bedrijf of een onderdeel daarvan waar geiten worden gehouden.</Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_o_1__content_o_1__list_o_1__item_o_2" wId="pv27_1__cmp_o_1__content_o_1__list_o_1__item_o_2">
+                           <Begrip eId="cmp_o_1__content_o_1__list_o_1__item_o_2"
+                                   wId="pv27_1__cmp_o_1__content_o_1__list_o_1__item_o_2">
                               <Term>Windturbine</Term>
                               <Definitie>
                                  <Al>Een door wind aangedreven bouwwerk waarmee energie wordt opgewekt, inclusief de bij dit bouwwerk behorende infrastructurele voorzieningen, met uitzonderingen van traditionele windmolens of replica’s hiervan.</Al>
@@ -502,11 +584,16 @@
                      </Inhoud>
                   </Divisietekst>
                </Bijlage>
-               <Bijlage xmlns:dso="https://www.dso.nl/" eId="cmp_o_2" wId="pv27_1__cmp_o_2" dso:niveau="1">
+               <Bijlage xmlns:dso="https://www.dso.nl/"
+                        eId="cmp_o_2"
+                        wId="pv27_1__cmp_o_2"
+                        dso:niveau="1">
                   <Kop>
                      <Opschrift>Toelichting</Opschrift>
                   </Kop>
-                  <Divisietekst eId="cmp_o_2__content_o_1" wId="pv27_1__cmp_o_2__content_o_1" dso:niveau="2">
+                  <Divisietekst eId="cmp_o_2__content_o_1"
+                                wId="pv27_1__cmp_o_2__content_o_1"
+                                dso:niveau="2">
                      <Kop>
                         <Opschrift>Geitenhouderij</Opschrift>
                      </Kop>
@@ -516,19 +603,19 @@
                         <Al>Het is niet toegestaan om nieuwvestiging, uitbreiding van geitenhouderijen of (gedeeltelijke) omschakeling van een agrarisch bedrijf naar een geitenhouderij te realiseren. Hierin wordt specifiek verwezen naar uitbreiding als ‘uitbreiding van het aantal dieren’. Vernieuwen of toevoegen van stallen, bijvoorbeeld gericht op het verbeteren van dierenwelzijn, wordt niet door dit verbod geraakt zolang het aantal dieren daarbij niet wordt uitgebreid.</Al>
                      </Inhoud>
                   </Divisietekst>
-                  <Divisietekst eId="cmp_o_2__content_o_2" wId="pv27_1__cmp_o_2__content_o_2" dso:niveau="2">
+                  <Divisietekst eId="cmp_o_2__content_o_2"
+                                wId="pv27_1__cmp_o_2__content_o_2"
+                                dso:niveau="2">
                      <Kop>
                         <Opschrift>Windturbines</Opschrift>
                      </Kop>
                      <Inhoud>
-                        <Al>De Omgevingsverordening NH2022 bevat een instructieregel die ertoe strekt dat in het omgevingsplan een bouw c.q. opschalingsverbod voor windturbines wordt opgenomen. Voor de periode die gemeenten nodig hebben om deze instructieregels uit te voeren, gelden deze voorbeschermingsregels, die een direct werkend verbod op het bouwen van windturbines behelzen. Vervanging van een of meer vergunde en gebouwde windturbines is mogelijk, mits sprake is van vervanging door
-                           eenzelfde aantal of minder windturbines met eenzelfde of vergelijkbare ashoogte, rotordiameter en verschijningsvorm. De rotordiameter ziet op de afstand vanaf het hart van de as tot de tip van het rotorblad. De ashoogte betreft de afstand vanaf maaiveldhoogte ter plaatse tot het hart van de rotor-as. De verschijningsvorm betreft het uiterlijk van de windturbine zoals dat wordt bepaald door de vorm van de mast, het samenstel van de rotorbladen en de vorm van de gondel.
-                           Met vergelijkbare ashoogte wordt bedoeld: de huidige ashoogte met een maximale afwijking van 10%. Met vergelijkbare rotordiameter wordt bedoeld: de huidige rotordiameter met een maximale afwijking van 10%. Ook moet worden voldaan aan het vereiste zoals geformuleerd in artikel 6.27 lid 2 sub e (gulden snede) (vlak voor vaststelling nog checken of verwijzing klopt). Vervanging van windturbines heeft vaak ook een beperkte mate van opschaling tot gevolg omdat innovatievere
-                           windturbines doorgaans een groter vermogen hebben. Daarom dient in het kader van het belang van een goede fysieke leefomgeving bij een iets grotere ashoogte of rotordiameter (van maximaal 10%) te worden aangetoond dat het woon-en leefklimaat van omwonenden niet verslechtert. Bijvoorbeeld op basis van akoestisch onderzoek en overig relevant onderzoek. Voorts zou –indien mogelijk- aan de omgevingsvergunning (onderdeel milieu) een voorschrift verbonden kunnen worden
-                           inhoudende dat ten minste de voor de inrichting in aanmerking komende best beschikbare technieken worden toegepast.</Al>
+                        <Al>De Omgevingsverordening NH2022 bevat een instructieregel die ertoe strekt dat in het omgevingsplan een bouw c.q. opschalingsverbod voor windturbines wordt opgenomen. Voor de periode die gemeenten nodig hebben om deze instructieregels uit te voeren, gelden deze voorbeschermingsregels, die een direct werkend verbod op het bouwen van windturbines behelzen. Vervanging van een of meer vergunde en gebouwde windturbines is mogelijk, mits sprake is van vervanging door eenzelfde aantal of minder windturbines met eenzelfde of vergelijkbare ashoogte, rotordiameter en verschijningsvorm. De rotordiameter ziet op de afstand vanaf het hart van de as tot de tip van het rotorblad. De ashoogte betreft de afstand vanaf maaiveldhoogte ter plaatse tot het hart van de rotor-as. De verschijningsvorm betreft het uiterlijk van de windturbine zoals dat wordt bepaald door de vorm van de mast, het samenstel van de rotorbladen en de vorm van de gondel. Met vergelijkbare ashoogte wordt bedoeld: de huidige ashoogte met een maximale afwijking van 10%. Met vergelijkbare rotordiameter wordt bedoeld: de huidige rotordiameter met een maximale afwijking van 10%. Ook moet worden voldaan aan het vereiste zoals geformuleerd in artikel 6.27 lid 2 sub e (gulden snede) (vlak voor vaststelling nog checken of verwijzing klopt). Vervanging van windturbines heeft vaak ook een beperkte mate van opschaling tot gevolg omdat innovatievere windturbines doorgaans een groter vermogen hebben. Daarom dient in het kader van het belang van een goede fysieke leefomgeving bij een iets grotere ashoogte of rotordiameter (van maximaal 10%) te worden aangetoond dat het woon-en leefklimaat van omwonenden niet verslechtert. Bijvoorbeeld op basis van akoestisch onderzoek en overig relevant onderzoek. Voorts zou –indien mogelijk- aan de omgevingsvergunning (onderdeel milieu) een voorschrift verbonden kunnen worden inhoudende dat ten minste de voor de inrichting in aanmerking komende best beschikbare technieken worden toegepast.</Al>
                      </Inhoud>
                   </Divisietekst>
-                  <Divisietekst eId="cmp_o_2__content_o_3" wId="pv27_1__cmp_o_2__content_o_3" dso:niveau="2">
+                  <Divisietekst eId="cmp_o_2__content_o_3"
+                                wId="pv27_1__cmp_o_2__content_o_3"
+                                dso:niveau="2">
                      <Kop>
                         <Opschrift>Provinciale monumenten</Opschrift>
                      </Kop>
@@ -538,18 +625,25 @@
                      </Inhoud>
                   </Divisietekst>
                </Bijlage>
-               <Bijlage xmlns:dso="https://www.dso.nl/" eId="cmp_o_3" wId="pv27_1__cmp_o_3" dso:niveau="1">
+               <Bijlage xmlns:dso="https://www.dso.nl/"
+                        eId="cmp_o_3"
+                        wId="pv27_1__cmp_o_3"
+                        dso:niveau="1">
                   <Kop>
                      <Opschrift>Overzicht informatieobjecten</Opschrift>
                   </Kop>
                   <Divisietekst eId="cmp_o_3__content_o_1" wId="pv27_1__cmp_o_3__content_o_1">
                      <Inhoud>
-                        <Begrippenlijst eId="cmp_o_3__content_o_1__list_o_1" wId="pv27_1__cmp_o_3__content_o_1__list_o_1">
-                           <Begrip eId="cmp_o_3__content_o_1__list_o_1__item_o_1" wId="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1">
+                        <Begrippenlijst eId="cmp_o_3__content_o_1__list_o_1"
+                                        wId="pv27_1__cmp_o_3__content_o_1__list_o_1">
+                           <Begrip eId="cmp_o_3__content_o_1__list_o_1__item_o_1"
+                                   wId="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1">
                               <Term>voorbeschermd provinciaal monument</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1" wId="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1" ref="/join/id/regdata/pv27/2021/voorbeschermd_provinciaal_monument_gm0373/nld@2021-06-21;1">/join/id/regdata/pv27/2021/voorbeschermd_provinciaal_monument_gm0373/nld@2021-06-21;1</ExtIoRef>
+                                    <ExtIoRef eId="cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                              wId="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                              ref="/join/id/regdata/pv27/2021/voorbeschermd_provinciaal_monument_gm0373/nld@2021-06-21;1">/join/id/regdata/pv27/2021/voorbeschermd_provinciaal_monument_gm0373/nld@2021-06-21;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
@@ -565,7 +659,8 @@
                <Nummer>II</Nummer>
                <Opschrift>Voorbeschermingsregels omgevingsplan Schagen</Opschrift>
             </Kop>
-            <RegelingTijdelijkdeel componentnaam="initieel_schagen" wordt="/akn/nl/act/pv27/2021/OVNH2022_gm0441/nld@2021-06-21;1">
+            <RegelingTijdelijkdeel componentnaam="initieel_schagen"
+                                   wordt="/akn/nl/act/pv27/2021/OVNH2022_gm0441/nld@2021-06-21;1">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
                   <Al>Voorbereidingsbesluit OVNH2022 - gemeente Schagen</Al>
                </RegelingOpschrift>
@@ -592,42 +687,54 @@
                            <Nummer>1.1</Nummer>
                            <Opschrift>Geitenhouderij</Opschrift>
                         </Kop>
-                        <Artikel eId="chp_1__subchp_1.1__art_1.1" wId="pv27_1__chp_1__subchp_1.1__art_1.1">
+                        <Artikel eId="chp_1__subchp_1.1__art_1.1"
+                                 wId="pv27_1__chp_1__subchp_1.1__art_1.1">
                            <Kop>
                               <Label>Artikel</Label>
                               <Nummer>1.1</Nummer>
                               <Opschrift>Verbod geitenhouderij</Opschrift>
                            </Kop>
-                           <Lid eId="chp_1__subchp_1.1__art_1.1__para_1" wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_1">
+                           <Lid eId="chp_1__subchp_1.1__art_1.1__para_1"
+                                wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_1">
                               <LidNummer>1.</LidNummer>
                               <Inhoud>
-                                 <Lijst eId="chp_1__subchp_1.1__art_1.1__para_1__list_o_1" wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_1__list_o_1" type="expliciet">
+                                 <Lijst eId="chp_1__subchp_1.1__art_1.1__para_1__list_o_1"
+                                        wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_1__list_o_1"
+                                        type="expliciet">
                                     <Lijstaanhef>Het is verboden om:</Lijstaanhef>
-                                    <Li eId="chp_1__subchp_1.1__art_1.1__para_1__list_o_1__item_a" wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_1__list_o_1__item_a">
+                                    <Li eId="chp_1__subchp_1.1__art_1.1__para_1__list_o_1__item_a"
+                                        wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_1__list_o_1__item_a">
                                        <LiNummer>a.</LiNummer>
                                        <Al>een geitenhouderij, al dan niet als neventak, nieuw te vestigen;</Al>
                                     </Li>
-                                    <Li eId="chp_1__subchp_1.1__art_1.1__para_1__list_o_1__item_b" wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_1__list_o_1__item_b">
+                                    <Li eId="chp_1__subchp_1.1__art_1.1__para_1__list_o_1__item_b"
+                                        wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_1__list_o_1__item_b">
                                        <LiNummer>b.</LiNummer>
                                        <Al>een agrarisch bedrijf geheel of gedeeltelijk te wijzigen naar geitenhouderij, of;</Al>
                                     </Li>
-                                    <Li eId="chp_1__subchp_1.1__art_1.1__para_1__list_o_1__item_c" wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_1__list_o_1__item_c">
+                                    <Li eId="chp_1__subchp_1.1__art_1.1__para_1__list_o_1__item_c"
+                                        wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_1__list_o_1__item_c">
                                        <LiNummer>c.</LiNummer>
                                        <Al>een geitenhouderij uit te breiden door het aantal geiten dat wordt gehouden te vergroten.</Al>
                                     </Li>
                                  </Lijst>
                               </Inhoud>
                            </Lid>
-                           <Lid eId="chp_1__subchp_1.1__art_1.1__para_2" wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_2">
+                           <Lid eId="chp_1__subchp_1.1__art_1.1__para_2"
+                                wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_2">
                               <LidNummer>2.</LidNummer>
                               <Inhoud>
-                                 <Lijst eId="chp_1__subchp_1.1__art_1.1__para_2__list_o_1" wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_2__list_o_1" type="expliciet">
+                                 <Lijst eId="chp_1__subchp_1.1__art_1.1__para_2__list_o_1"
+                                        wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_2__list_o_1"
+                                        type="expliciet">
                                     <Lijstaanhef>Het verbod is niet van toepassing voor zover voor een van de genoemde activiteiten vóór 12 december 2018:</Lijstaanhef>
-                                    <Li eId="chp_1__subchp_1.1__art_1.1__para_2__list_o_1__item_a" wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_2__list_o_1__item_a">
+                                    <Li eId="chp_1__subchp_1.1__art_1.1__para_2__list_o_1__item_a"
+                                        wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_2__list_o_1__item_a">
                                        <LiNummer>a.</LiNummer>
                                        <Al>een melding voor een milieubelastende activiteit bij het bevoegd gezag is ingediend, of;</Al>
                                     </Li>
-                                    <Li eId="chp_1__subchp_1.1__art_1.1__para_2__list_o_1__item_b" wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_2__list_o_1__item_b">
+                                    <Li eId="chp_1__subchp_1.1__art_1.1__para_2__list_o_1__item_b"
+                                        wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_2__list_o_1__item_b">
                                        <LiNummer>b.</LiNummer>
                                        <Al>een aanvraag voor een omgevingsvergunning bij het bevoegd gezag is ingediend, tenzij de aanvraag ziet op of wordt aangemerkt als een omgevingsvergunning voor een buitenplanse omgevingsplanactiviteit.</Al>
                                     </Li>
@@ -642,35 +749,43 @@
                            <Nummer>1.2</Nummer>
                            <Opschrift>Windturbines</Opschrift>
                         </Kop>
-                        <Artikel eId="chp_1__subchp_1.2__art_1.2" wId="pv27_1__chp_1__subchp_1.2__art_1.2">
+                        <Artikel eId="chp_1__subchp_1.2__art_1.2"
+                                 wId="pv27_1__chp_1__subchp_1.2__art_1.2">
                            <Kop>
                               <Label>Artikel</Label>
                               <Nummer>1.2</Nummer>
                               <Opschrift>Bouwverbod windturbines</Opschrift>
                            </Kop>
-                           <Lid eId="chp_1__subchp_1.2__art_1.2__para_1" wId="pv27_1__chp_1__subchp_1.2__art_1.2__para_1">
+                           <Lid eId="chp_1__subchp_1.2__art_1.2__para_1"
+                                wId="pv27_1__chp_1__subchp_1.2__art_1.2__para_1">
                               <LidNummer>1.</LidNummer>
                               <Inhoud>
                                  <Al>Het is verboden om een of meer windturbines met een rotordiameter van meer dan 5 meter of een ashoogte van meer dan 7 meter te bouwen of op te schalen.</Al>
                               </Inhoud>
                            </Lid>
-                           <Lid eId="chp_1__subchp_1.2__art_1.2__para_2" wId="pv27_1__chp_1__subchp_1.2__art_1.2__para_2">
+                           <Lid eId="chp_1__subchp_1.2__art_1.2__para_2"
+                                wId="pv27_1__chp_1__subchp_1.2__art_1.2__para_2">
                               <LidNummer>2.</LidNummer>
                               <Inhoud>
-                                 <Lijst eId="chp_1__subchp_1.2__art_1.2__para_2__list_o_1" wId="pv27_1__chp_1__subchp_1.2__art_1.2__para_2__list_o_1" type="expliciet">
+                                 <Lijst eId="chp_1__subchp_1.2__art_1.2__para_2__list_o_1"
+                                        wId="pv27_1__chp_1__subchp_1.2__art_1.2__para_2__list_o_1"
+                                        type="expliciet">
                                     <Lijstaanhef>Het verbod bedoeld in het eerste lid geldt niet als sprake is van vervanging van een of meer met vergunning gebouwde windturbines:</Lijstaanhef>
-                                    <Li eId="chp_1__subchp_1.2__art_1.2__para_2__list_o_1__item_a" wId="pv27_1__chp_1__subchp_1.2__art_1.2__para_2__list_o_1__item_a">
+                                    <Li eId="chp_1__subchp_1.2__art_1.2__para_2__list_o_1__item_a"
+                                        wId="pv27_1__chp_1__subchp_1.2__art_1.2__para_2__list_o_1__item_a">
                                        <LiNummer>a.</LiNummer>
                                        <Al>door eenzelfde aantal of minder windturbines met eenzelfde, vergelijkbare of geringere ashoogte, rotordiameter en verschijningsvorm; en</Al>
                                     </Li>
-                                    <Li eId="chp_1__subchp_1.2__art_1.2__para_2__list_o_1__item_b" wId="pv27_1__chp_1__subchp_1.2__art_1.2__para_2__list_o_1__item_b">
+                                    <Li eId="chp_1__subchp_1.2__art_1.2__para_2__list_o_1__item_b"
+                                        wId="pv27_1__chp_1__subchp_1.2__art_1.2__para_2__list_o_1__item_b">
                                        <LiNummer>b.</LiNummer>
                                        <Al>op locaties waarop op de bouw van een of meer windturbines volgens een omgevingsplan is toegestaan.</Al>
                                     </Li>
                                  </Lijst>
                               </Inhoud>
                            </Lid>
-                           <Lid eId="chp_1__subchp_1.2__art_1.2__para_3" wId="pv27_1__chp_1__subchp_1.2__art_1.2__para_3">
+                           <Lid eId="chp_1__subchp_1.2__art_1.2__para_3"
+                                wId="pv27_1__chp_1__subchp_1.2__art_1.2__para_3">
                               <LidNummer>3.</LidNummer>
                               <Inhoud>
                                  <Al>Het verbod bedoeld in het eerste lid is niet van toepassing op een door Gedeputeerde Staten aangewezen windenergiegebied als bedoeld artikel 6.27 van de Omgevingsverordening NH2022.</Al>
@@ -684,69 +799,89 @@
                            <Nummer>1.3</Nummer>
                            <Opschrift>Provinciale monumenten</Opschrift>
                         </Kop>
-                        <Artikel eId="chp_1__subchp_1.3__art_1.3" wId="pv27_1__chp_1__subchp_1.3__art_1.3">
+                        <Artikel eId="chp_1__subchp_1.3__art_1.3"
+                                 wId="pv27_1__chp_1__subchp_1.3__art_1.3">
                            <Kop>
                               <Label>Artikel</Label>
                               <Nummer>1.3</Nummer>
                               <Opschrift>Verbod beschadiging, vernieling en onthouden onderhoud</Opschrift>
                            </Kop>
                            <Inhoud>
-                              <Lijst eId="chp_1__subchp_1.3__art_1.3__list_o_1" wId="pv27_1__chp_1__subchp_1.3__art_1.3__list_o_1" type="expliciet">
-                                 <Lijstaanhef>Op de locatie ‘<IntIoRef eId="chp_1__subchp_1.3__art_1.3__list_o_1__ref_o_1" wId="pv27_1__chp_1__subchp_1.3__art_1.3__list_o_1__ref_o_1" ref="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1">voorbeschermd provinciaal monument</IntIoRef>’ is het verboden:</Lijstaanhef>
-                                 <Li eId="chp_1__subchp_1.3__art_1.3__list_o_1__item_a" wId="pv27_1__chp_1__subchp_1.3__art_1.3__list_o_1__item_a">
+                              <Lijst eId="chp_1__subchp_1.3__art_1.3__list_o_1"
+                                     wId="pv27_1__chp_1__subchp_1.3__art_1.3__list_o_1"
+                                     type="expliciet">
+                                 <Lijstaanhef>Op de locatie ‘<IntIoRef eId="chp_1__subchp_1.3__art_1.3__list_o_1__ref_o_1"
+                                              wId="pv27_1__chp_1__subchp_1.3__art_1.3__list_o_1__ref_o_1"
+                                              ref="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1">voorbeschermd provinciaal monument</IntIoRef>’ is het verboden:</Lijstaanhef>
+                                 <Li eId="chp_1__subchp_1.3__art_1.3__list_o_1__item_a"
+                                     wId="pv27_1__chp_1__subchp_1.3__art_1.3__list_o_1__item_a">
                                     <LiNummer>a.</LiNummer>
                                     <Al>het daar aanwezige monument, zoals omschreven in de bijlage, te beschadigen of te vernielen; of</Al>
                                  </Li>
-                                 <Li eId="chp_1__subchp_1.3__art_1.3__list_o_1__item_b" wId="pv27_1__chp_1__subchp_1.3__art_1.3__list_o_1__item_b">
+                                 <Li eId="chp_1__subchp_1.3__art_1.3__list_o_1__item_b"
+                                     wId="pv27_1__chp_1__subchp_1.3__art_1.3__list_o_1__item_b">
                                     <LiNummer>b.</LiNummer>
                                     <Al>aan het daar aanwezige monument, zoals omschreven in de bijlage, onderhoud te onthouden dat voor de instandhouding daarvan noodzakelijk is.</Al>
                                  </Li>
                               </Lijst>
                            </Inhoud>
                         </Artikel>
-                        <Artikel eId="chp_1__subchp_1.3__art_1.4" wId="pv27_1__chp_1__subchp_1.3__art_1.4">
+                        <Artikel eId="chp_1__subchp_1.3__art_1.4"
+                                 wId="pv27_1__chp_1__subchp_1.3__art_1.4">
                            <Kop>
                               <Label>Artikel</Label>
                               <Nummer>1.4</Nummer>
                               <Opschrift>Vergunningplicht</Opschrift>
                            </Kop>
                            <Inhoud>
-                              <Al>Op de locatie ‘<IntIoRef eId="chp_1__subchp_1.3__art_1.4__ref_o_1" wId="pv27_1__chp_1__subchp_1.3__art_1.4__ref_o_1" ref="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1">voorbeschermd provinciaal monument</IntIoRef>’ is het verboden zonder omgevingsvergunning het daar aanwezige monument, zoals omschreven in de bijlage, te slopen, te verstoren, te verplaatsen of te wijzigen, of te herstellen of te gebruiken waardoor het wordt ontsierd of in gevaar
-                                 gebracht.</Al>
+                              <Al>Op de locatie ‘<IntIoRef eId="chp_1__subchp_1.3__art_1.4__ref_o_1"
+                                           wId="pv27_1__chp_1__subchp_1.3__art_1.4__ref_o_1"
+                                           ref="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1">voorbeschermd provinciaal monument</IntIoRef>’ is het verboden zonder omgevingsvergunning het daar aanwezige monument, zoals omschreven in de bijlage, te slopen, te verstoren, te verplaatsen of te wijzigen, of te herstellen of te gebruiken waardoor het wordt ontsierd of in gevaar gebracht.</Al>
                            </Inhoud>
                         </Artikel>
-                        <Artikel eId="chp_1__subchp_1.3__art_1.5" wId="pv27_1__chp_1__subchp_1.3__art_1.5">
+                        <Artikel eId="chp_1__subchp_1.3__art_1.5"
+                                 wId="pv27_1__chp_1__subchp_1.3__art_1.5">
                            <Kop>
                               <Label>Artikel</Label>
                               <Nummer>1.5</Nummer>
                               <Opschrift>Aanwijzing vergunningvrije gevallen</Opschrift>
                            </Kop>
-                           <Lid eId="chp_1__subchp_1.3__art_1.5__para_1" wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_1">
+                           <Lid eId="chp_1__subchp_1.3__art_1.5__para_1"
+                                wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_1">
                               <LidNummer>1.</LidNummer>
                               <Inhoud>
-                                 <Lijst eId="chp_1__subchp_1.3__art_1.5__para_1__list_o_1" wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_1__list_o_1" type="expliciet">
+                                 <Lijst eId="chp_1__subchp_1.3__art_1.5__para_1__list_o_1"
+                                        wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_1__list_o_1"
+                                        type="expliciet">
                                     <Lijstaanhef>Het verbod, bedoeld in artikel 1.4, geldt niet voor een activiteit met betrekking tot een monument, voor zover het gaat om:</Lijstaanhef>
-                                    <Li eId="chp_1__subchp_1.3__art_1.5__para_1__list_o_1__item_a" wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_1__list_o_1__item_a">
+                                    <Li eId="chp_1__subchp_1.3__art_1.5__para_1__list_o_1__item_a"
+                                        wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_1__list_o_1__item_a">
                                        <LiNummer>a.</LiNummer>
                                        <Al>noodzakelijke reguliere werkzaamheden die zijn gericht op het behoud van de monumentale waarden, als detaillering, profilering, vormgeving, materiaalsoort en kleur niet worden gewijzigd; of</Al>
                                     </Li>
-                                    <Li eId="chp_1__subchp_1.3__art_1.5__para_1__list_o_1__item_b" wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_1__list_o_1__item_b">
+                                    <Li eId="chp_1__subchp_1.3__art_1.5__para_1__list_o_1__item_b"
+                                        wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_1__list_o_1__item_b">
                                        <LiNummer>b.</LiNummer>
                                        <Al>alleen inpandige wijzigingen van een onderdeel van het monument dat uit het oogpunt van monumentenzorg geen waarde heeft.</Al>
                                     </Li>
                                  </Lijst>
                               </Inhoud>
                            </Lid>
-                           <Lid eId="chp_1__subchp_1.3__art_1.5__para_2" wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_2">
+                           <Lid eId="chp_1__subchp_1.3__art_1.5__para_2"
+                                wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_2">
                               <LidNummer>2.</LidNummer>
                               <Inhoud>
-                                 <Lijst eId="chp_1__subchp_1.3__art_1.5__para_2__list_o_1" wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_2__list_o_1" type="expliciet">
+                                 <Lijst eId="chp_1__subchp_1.3__art_1.5__para_2__list_o_1"
+                                        wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_2__list_o_1"
+                                        type="expliciet">
                                     <Lijstaanhef>Het verbod, bedoeld in artikel 1.4, geldt niet voor een activiteit met betrekking tot een monument waarvan met name de archeologische waarden redengevend zijn, voor zover het gaat om:</Lijstaanhef>
-                                    <Li eId="chp_1__subchp_1.3__art_1.5__para_2__list_o_1__item_a" wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_2__list_o_1__item_a">
+                                    <Li eId="chp_1__subchp_1.3__art_1.5__para_2__list_o_1__item_a"
+                                        wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_2__list_o_1__item_a">
                                        <LiNummer>a.</LiNummer>
                                        <Al>een sondering of grondboring met een boordiameter van niet meer dan 10 cm; of</Al>
                                     </Li>
-                                    <Li eId="chp_1__subchp_1.3__art_1.5__para_2__list_o_1__item_b" wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_2__list_o_1__item_b">
+                                    <Li eId="chp_1__subchp_1.3__art_1.5__para_2__list_o_1__item_b"
+                                        wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_2__list_o_1__item_b">
                                        <LiNummer>b.</LiNummer>
                                        <Al>het dichten van een recent verstoringsgat van niet meer dan 1 m<sup>3</sup>.</Al>
                                     </Li>
@@ -754,7 +889,8 @@
                               </Inhoud>
                            </Lid>
                         </Artikel>
-                        <Artikel eId="chp_1__subchp_1.3__art_1.6" wId="pv27_1__chp_1__subchp_1.3__art_1.6">
+                        <Artikel eId="chp_1__subchp_1.3__art_1.6"
+                                 wId="pv27_1__chp_1__subchp_1.3__art_1.6">
                            <Kop>
                               <Label>Artikel</Label>
                               <Nummer>1.6</Nummer>
@@ -764,36 +900,45 @@
                               <Al>De artikelen 22.287 tot en met 22.294 van de bruidsschat omgevingsplan (aanvraagvereisten) zijn van overeenkomstige toepassing op een aanvraag om een omgevingsvergunning voor een activiteit als bedoeld in artikel 1.4.</Al>
                            </Inhoud>
                         </Artikel>
-                        <Artikel eId="chp_1__subchp_1.3__art_1.7" wId="pv27_1__chp_1__subchp_1.3__art_1.7">
+                        <Artikel eId="chp_1__subchp_1.3__art_1.7"
+                                 wId="pv27_1__chp_1__subchp_1.3__art_1.7">
                            <Kop>
                               <Label>Artikel</Label>
                               <Nummer>1.7</Nummer>
                               <Opschrift>Beoordelingsregel</Opschrift>
                            </Kop>
-                           <Lid eId="chp_1__subchp_1.3__art_1.7__para_1" wId="pv27_1__chp_1__subchp_1.3__art_1.7__para_1">
+                           <Lid eId="chp_1__subchp_1.3__art_1.7__para_1"
+                                wId="pv27_1__chp_1__subchp_1.3__art_1.7__para_1">
                               <LidNummer>1.</LidNummer>
                               <Inhoud>
                                  <Al>De omgevingsvergunning wordt alleen verleend als de activiteit in overeenstemming is met het belang van de monumentenzorg.</Al>
                               </Inhoud>
                            </Lid>
-                           <Lid eId="chp_1__subchp_1.3__art_1.7__para_2" wId="pv27_1__chp_1__subchp_1.3__art_1.7__para_2">
+                           <Lid eId="chp_1__subchp_1.3__art_1.7__para_2"
+                                wId="pv27_1__chp_1__subchp_1.3__art_1.7__para_2">
                               <LidNummer>2.</LidNummer>
                               <Inhoud>
-                                 <Lijst eId="chp_1__subchp_1.3__art_1.7__para_2__list_o_1" wId="pv27_1__chp_1__subchp_1.3__art_1.7__para_2__list_o_1" type="expliciet">
+                                 <Lijst eId="chp_1__subchp_1.3__art_1.7__para_2__list_o_1"
+                                        wId="pv27_1__chp_1__subchp_1.3__art_1.7__para_2__list_o_1"
+                                        type="expliciet">
                                     <Lijstaanhef>Bij de beslissing op de aanvraag wordt rekening gehouden met de volgende beginselen:</Lijstaanhef>
-                                    <Li eId="chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_a" wId="pv27_1__chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_a">
+                                    <Li eId="chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_a"
+                                        wId="pv27_1__chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_a">
                                        <LiNummer>a.</LiNummer>
                                        <Al>het voorkomen van ontsiering, beschadiging of sloop van monumenten;</Al>
                                     </Li>
-                                    <Li eId="chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_b" wId="pv27_1__chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_b">
+                                    <Li eId="chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_b"
+                                        wId="pv27_1__chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_b">
                                        <LiNummer>b.</LiNummer>
                                        <Al>het voorkomen van verplaatsing van monumenten of een deel daarvan, tenzij dit dringend vereist is voor het behoud van die monumenten;</Al>
                                     </Li>
-                                    <Li eId="chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_c" wId="pv27_1__chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_c">
+                                    <Li eId="chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_c"
+                                        wId="pv27_1__chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_c">
                                        <LiNummer>c.</LiNummer>
                                        <Al>het bevorderen van het gebruik van monumenten, zo nodig door wijziging van die monumenten, rekening houdend met de monumentale waarden; en</Al>
                                     </Li>
-                                    <Li eId="chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_d" wId="pv27_1__chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_d">
+                                    <Li eId="chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_d"
+                                        wId="pv27_1__chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_d">
                                        <LiNummer>d.</LiNummer>
                                        <Al>het conserveren en in stand houden van monumenten waarvan met name de archeologische waarden redengevend zijn, bij voorkeur in situ.</Al>
                                     </Li>
@@ -801,67 +946,83 @@
                               </Inhoud>
                            </Lid>
                         </Artikel>
-                        <Artikel eId="chp_1__subchp_1.3__art_1.8" wId="pv27_1__chp_1__subchp_1.3__art_1.8">
+                        <Artikel eId="chp_1__subchp_1.3__art_1.8"
+                                 wId="pv27_1__chp_1__subchp_1.3__art_1.8">
                            <Kop>
                               <Label>Artikel</Label>
                               <Nummer>1.8</Nummer>
                               <Opschrift>Voorschriften</Opschrift>
                            </Kop>
                            <Inhoud>
-                              <Lijst eId="chp_1__subchp_1.3__art_1.8__list_o_1" wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1" type="expliciet">
+                              <Lijst eId="chp_1__subchp_1.3__art_1.8__list_o_1"
+                                     wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1"
+                                     type="expliciet">
                                  <Lijstaanhef>Aan een omgevingsvergunning voor een activiteit als bedoeld in artikel 1.4 worden de voorschriften verbonden die nodig zijn voor de regel, bedoeld in artikel 1.7. Daarbij geldt dat:</Lijstaanhef>
-                                 <Li eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_a" wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_a">
+                                 <Li eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_a"
+                                     wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_a">
                                     <LiNummer>a.</LiNummer>
                                     <Al>als het gaat om een omgevingsvergunning die een gedeeltelijke of volledige verplaatsing inhoudt van een monument dat een bouwwerk is, in ieder geval voorschriften aan de omgevingsvergunning worden verbonden over het treffen van voorzorgsmaatregelen voor het demonteren, het overbrengen en de herbouw van dat bouwwerk op de nieuwe locatie;</Al>
                                  </Li>
-                                 <Li eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_b" wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_b">
+                                 <Li eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_b"
+                                     wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_b">
                                     <LiNummer>b.</LiNummer>
-                                    <Lijst eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1" wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1" type="expliciet">
+                                    <Lijst eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1"
+                                           wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1"
+                                           type="expliciet">
                                        <Lijstaanhef>als het gaat om een omgevingsvergunning die betrekking heeft op een monument waarvan met name de archeologische waarden redengevend zijn, in het belang van de archeologische monumentenzorg in ieder geval voorschriften aan de omgevingsvergunning kunnen worden verbonden die inhouden een plicht tot:</Lijstaanhef>
-                                       <Li eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_1" wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_1">
+                                       <Li eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_1"
+                                           wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_1">
                                           <LiNummer>1°.</LiNummer>
                                           <Al>het treffen van technische maatregelen waardoor monumenten in situ kunnen worden behouden;</Al>
                                        </Li>
-                                       <Li eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_2" wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_2">
+                                       <Li eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_2"
+                                           wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_2">
                                           <LiNummer>2°.</LiNummer>
                                           <Al>het verrichten van opgravingen als bedoeld in artikel 1.1 van de Erfgoedwet;</Al>
                                        </Li>
-                                       <Li eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_3" wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_3">
+                                       <Li eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_3"
+                                           wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_3">
                                           <LiNummer>3°.</LiNummer>
                                           <Al>het laten begeleiden van een activiteit die tot bodemverstoring leidt door een deskundige op het terrein van de archeologische monumentenzorg die voldoet aan bij die voorschriften te stellen kwalificaties; en</Al>
                                        </Li>
-                                       <Li eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_4" wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_4">
+                                       <Li eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_4"
+                                           wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_4">
                                           <LiNummer>4°.</LiNummer>
                                           <Al>het verrichten van een opgraving of een archeologische begeleiding op een bepaalde wijze, als die wijze in overeenstemming is met artikel 5.4, eerste en tweede lid, van de Erfgoedwet;</Al>
                                        </Li>
                                     </Lijst>
                                  </Li>
-                                 <Li eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_c" wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_c">
+                                 <Li eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_c"
+                                     wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_c">
                                     <LiNummer>c.</LiNummer>
                                     <Al>als het gaat om een omgevingsvergunning die betrekking heeft op de fundering of riolering van een monument, in ieder geval het voorschrift aan de omgevingsvergunning kan worden verbonden dat voorafgaand aan de werkzaamheden archeologisch onderzoek wordt verricht.</Al>
                                  </Li>
                               </Lijst>
                            </Inhoud>
                         </Artikel>
-                        <Artikel eId="chp_1__subchp_1.3__art_1.9" wId="pv27_1__chp_1__subchp_1.3__art_1.9">
+                        <Artikel eId="chp_1__subchp_1.3__art_1.9"
+                                 wId="pv27_1__chp_1__subchp_1.3__art_1.9">
                            <Kop>
                               <Label>Artikel</Label>
                               <Nummer>1.9</Nummer>
                               <Opschrift>Aanwijzing adviseurs</Opschrift>
                            </Kop>
-                           <Lid eId="chp_1__subchp_1.3__art_1.9__para_1" wId="pv27_1__chp_1__subchp_1.3__art_1.9__para_1">
+                           <Lid eId="chp_1__subchp_1.3__art_1.9__para_1"
+                                wId="pv27_1__chp_1__subchp_1.3__art_1.9__para_1">
                               <LidNummer>1.</LidNummer>
                               <Inhoud>
                                  <Al>Gedeputeerde staten zijn adviseur voor een aanvraag om een omgevingsvergunning voor zover de aanvraag betrekking heeft op een activiteit als bedoeld in artikel 1.4.</Al>
                               </Inhoud>
                            </Lid>
-                           <Lid eId="chp_1__subchp_1.3__art_1.9__para_2" wId="pv27_1__chp_1__subchp_1.3__art_1.9__para_2">
+                           <Lid eId="chp_1__subchp_1.3__art_1.9__para_2"
+                                wId="pv27_1__chp_1__subchp_1.3__art_1.9__para_2">
                               <LidNummer>2.</LidNummer>
                               <Inhoud>
                                  <Al>De commissie, bedoeld in artikel 17.9 van de Omgevingswet, is adviseur voor een aanvraag om een omgevingsvergunning voor zover de aanvraag betrekking heeft op een activiteit als bedoeld in artikel 1.4 en het college van burgemeester en wethouders voor die aanvraag bevoegd gezag is.</Al>
                               </Inhoud>
                            </Lid>
-                           <Lid eId="chp_1__subchp_1.3__art_1.9__para_3" wId="pv27_1__chp_1__subchp_1.3__art_1.9__para_3">
+                           <Lid eId="chp_1__subchp_1.3__art_1.9__para_3"
+                                wId="pv27_1__chp_1__subchp_1.3__art_1.9__para_3">
                               <LidNummer>3.</LidNummer>
                               <Inhoud>
                                  <Al>Als het college van burgemeester en wethouders geen bevoegd gezag is voor de aanvraag om een omgevingsvergunning voor een activiteit als bedoeld in het eerste lid, maar adviseur, is de commissie ook adviseur en richt het advies van de commissie zich tot het college van burgemeester en wethouders in plaats van tot het bevoegd gezag.</Al>
@@ -871,20 +1032,26 @@
                      </Afdeling>
                   </Hoofdstuk>
                </Lichaam>
-               <Bijlage xmlns:dso="https://www.dso.nl/" eId="cmp_o_1" wId="pv27_1__cmp_o_1" dso:niveau="1">
+               <Bijlage xmlns:dso="https://www.dso.nl/"
+                        eId="cmp_o_1"
+                        wId="pv27_1__cmp_o_1"
+                        dso:niveau="1">
                   <Kop>
                      <Opschrift>Begrippenlijst</Opschrift>
                   </Kop>
                   <Divisietekst eId="cmp_o_1__content_o_1" wId="pv27_1__cmp_o_1__content_o_1">
                      <Inhoud>
-                        <Begrippenlijst eId="cmp_o_1__content_o_1__list_o_1" wId="pv27_1__cmp_o_1__content_o_1__list_o_1">
-                           <Begrip eId="cmp_o_1__content_o_1__list_o_1__item_o_1" wId="pv27_1__cmp_o_1__content_o_1__list_o_1__item_o_1">
+                        <Begrippenlijst eId="cmp_o_1__content_o_1__list_o_1"
+                                        wId="pv27_1__cmp_o_1__content_o_1__list_o_1">
+                           <Begrip eId="cmp_o_1__content_o_1__list_o_1__item_o_1"
+                                   wId="pv27_1__cmp_o_1__content_o_1__list_o_1__item_o_1">
                               <Term>Geitenhouderij</Term>
                               <Definitie>
                                  <Al>Een bedrijf of een onderdeel daarvan waar geiten worden gehouden.</Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_o_1__content_o_1__list_o_1__item_o_2" wId="pv27_1__cmp_o_1__content_o_1__list_o_1__item_o_2">
+                           <Begrip eId="cmp_o_1__content_o_1__list_o_1__item_o_2"
+                                   wId="pv27_1__cmp_o_1__content_o_1__list_o_1__item_o_2">
                               <Term>Windturbine</Term>
                               <Definitie>
                                  <Al>Een door wind aangedreven bouwwerk waarmee energie wordt opgewekt, inclusief de bij dit bouwwerk behorende infrastructurele voorzieningen, met uitzonderingen van traditionele windmolens of replica’s hiervan.</Al>
@@ -894,11 +1061,16 @@
                      </Inhoud>
                   </Divisietekst>
                </Bijlage>
-               <Bijlage xmlns:dso="https://www.dso.nl/" eId="cmp_o_2" wId="pv27_1__cmp_o_2" dso:niveau="1">
+               <Bijlage xmlns:dso="https://www.dso.nl/"
+                        eId="cmp_o_2"
+                        wId="pv27_1__cmp_o_2"
+                        dso:niveau="1">
                   <Kop>
                      <Opschrift>Toelichting</Opschrift>
                   </Kop>
-                  <Divisietekst eId="cmp_o_2__content_o_1" wId="pv27_1__cmp_o_2__content_o_1" dso:niveau="2">
+                  <Divisietekst eId="cmp_o_2__content_o_1"
+                                wId="pv27_1__cmp_o_2__content_o_1"
+                                dso:niveau="2">
                      <Kop>
                         <Opschrift>Geitenhouderij</Opschrift>
                      </Kop>
@@ -908,19 +1080,19 @@
                         <Al>Het is niet toegestaan om nieuwvestiging, uitbreiding van geitenhouderijen of (gedeeltelijke) omschakeling van een agrarisch bedrijf naar een geitenhouderij te realiseren. Hierin wordt specifiek verwezen naar uitbreiding als ‘uitbreiding van het aantal dieren’. Vernieuwen of toevoegen van stallen, bijvoorbeeld gericht op het verbeteren van dierenwelzijn, wordt niet door dit verbod geraakt zolang het aantal dieren daarbij niet wordt uitgebreid.</Al>
                      </Inhoud>
                   </Divisietekst>
-                  <Divisietekst eId="cmp_o_2__content_o_2" wId="pv27_1__cmp_o_2__content_o_2" dso:niveau="2">
+                  <Divisietekst eId="cmp_o_2__content_o_2"
+                                wId="pv27_1__cmp_o_2__content_o_2"
+                                dso:niveau="2">
                      <Kop>
                         <Opschrift>Windturbines</Opschrift>
                      </Kop>
                      <Inhoud>
-                        <Al>De Omgevingsverordening NH2022 bevat een instructieregel die ertoe strekt dat in het omgevingsplan een bouw c.q. opschalingsverbod voor windturbines wordt opgenomen. Voor de periode die gemeenten nodig hebben om deze instructieregels uit te voeren, gelden deze voorbeschermingsregels, die een direct werkend verbod op het bouwen van windturbines behelzen. Vervanging van een of meer vergunde en gebouwde windturbines is mogelijk, mits sprake is van vervanging door
-                           eenzelfde aantal of minder windturbines met eenzelfde of vergelijkbare ashoogte, rotordiameter en verschijningsvorm. De rotordiameter ziet op de afstand vanaf het hart van de as tot de tip van het rotorblad. De ashoogte betreft de afstand vanaf maaiveldhoogte ter plaatse tot het hart van de rotor-as. De verschijningsvorm betreft het uiterlijk van de windturbine zoals dat wordt bepaald door de vorm van de mast, het samenstel van de rotorbladen en de vorm van de gondel.
-                           Met vergelijkbare ashoogte wordt bedoeld: de huidige ashoogte met een maximale afwijking van 10%. Met vergelijkbare rotordiameter wordt bedoeld: de huidige rotordiameter met een maximale afwijking van 10%. Ook moet worden voldaan aan het vereiste zoals geformuleerd in artikel 6.27 lid 2 sub e (gulden snede) (vlak voor vaststelling nog checken of verwijzing klopt). Vervanging van windturbines heeft vaak ook een beperkte mate van opschaling tot gevolg omdat innovatievere
-                           windturbines doorgaans een groter vermogen hebben. Daarom dient in het kader van het belang van een goede fysieke leefomgeving bij een iets grotere ashoogte of rotordiameter (van maximaal 10%) te worden aangetoond dat het woon-en leefklimaat van omwonenden niet verslechtert. Bijvoorbeeld op basis van akoestisch onderzoek en overig relevant onderzoek. Voorts zou –indien mogelijk- aan de omgevingsvergunning (onderdeel milieu) een voorschrift verbonden kunnen worden
-                           inhoudende dat ten minste de voor de inrichting in aanmerking komende best beschikbare technieken worden toegepast.</Al>
+                        <Al>De Omgevingsverordening NH2022 bevat een instructieregel die ertoe strekt dat in het omgevingsplan een bouw c.q. opschalingsverbod voor windturbines wordt opgenomen. Voor de periode die gemeenten nodig hebben om deze instructieregels uit te voeren, gelden deze voorbeschermingsregels, die een direct werkend verbod op het bouwen van windturbines behelzen. Vervanging van een of meer vergunde en gebouwde windturbines is mogelijk, mits sprake is van vervanging door eenzelfde aantal of minder windturbines met eenzelfde of vergelijkbare ashoogte, rotordiameter en verschijningsvorm. De rotordiameter ziet op de afstand vanaf het hart van de as tot de tip van het rotorblad. De ashoogte betreft de afstand vanaf maaiveldhoogte ter plaatse tot het hart van de rotor-as. De verschijningsvorm betreft het uiterlijk van de windturbine zoals dat wordt bepaald door de vorm van de mast, het samenstel van de rotorbladen en de vorm van de gondel. Met vergelijkbare ashoogte wordt bedoeld: de huidige ashoogte met een maximale afwijking van 10%. Met vergelijkbare rotordiameter wordt bedoeld: de huidige rotordiameter met een maximale afwijking van 10%. Ook moet worden voldaan aan het vereiste zoals geformuleerd in artikel 6.27 lid 2 sub e (gulden snede) (vlak voor vaststelling nog checken of verwijzing klopt). Vervanging van windturbines heeft vaak ook een beperkte mate van opschaling tot gevolg omdat innovatievere windturbines doorgaans een groter vermogen hebben. Daarom dient in het kader van het belang van een goede fysieke leefomgeving bij een iets grotere ashoogte of rotordiameter (van maximaal 10%) te worden aangetoond dat het woon-en leefklimaat van omwonenden niet verslechtert. Bijvoorbeeld op basis van akoestisch onderzoek en overig relevant onderzoek. Voorts zou –indien mogelijk- aan de omgevingsvergunning (onderdeel milieu) een voorschrift verbonden kunnen worden inhoudende dat ten minste de voor de inrichting in aanmerking komende best beschikbare technieken worden toegepast.</Al>
                      </Inhoud>
                   </Divisietekst>
-                  <Divisietekst eId="cmp_o_2__content_o_3" wId="pv27_1__cmp_o_2__content_o_3" dso:niveau="2">
+                  <Divisietekst eId="cmp_o_2__content_o_3"
+                                wId="pv27_1__cmp_o_2__content_o_3"
+                                dso:niveau="2">
                      <Kop>
                         <Opschrift>Provinciale monumenten</Opschrift>
                      </Kop>
@@ -930,18 +1102,25 @@
                      </Inhoud>
                   </Divisietekst>
                </Bijlage>
-               <Bijlage xmlns:dso="https://www.dso.nl/" eId="cmp_o_3" wId="pv27_1__cmp_o_3" dso:niveau="1">
+               <Bijlage xmlns:dso="https://www.dso.nl/"
+                        eId="cmp_o_3"
+                        wId="pv27_1__cmp_o_3"
+                        dso:niveau="1">
                   <Kop>
                      <Opschrift>Overzicht informatieobjecten</Opschrift>
                   </Kop>
                   <Divisietekst eId="cmp_o_3__content_o_1" wId="pv27_1__cmp_o_3__content_o_1">
                      <Inhoud>
-                        <Begrippenlijst eId="cmp_o_3__content_o_1__list_o_1" wId="pv27_1__cmp_o_3__content_o_1__list_o_1">
-                           <Begrip eId="cmp_o_3__content_o_1__list_o_1__item_o_1" wId="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1">
+                        <Begrippenlijst eId="cmp_o_3__content_o_1__list_o_1"
+                                        wId="pv27_1__cmp_o_3__content_o_1__list_o_1">
+                           <Begrip eId="cmp_o_3__content_o_1__list_o_1__item_o_1"
+                                   wId="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1">
                               <Term>voorbeschermd provinciaal monument</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1" wId="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1" ref="/join/id/regdata/pv27/2021/voorbeschermd_provinciaal_monument_gm0441/nld@2021-06-21;1">/join/id/regdata/pv27/2021/voorbeschermd_provinciaal_monument_gm0441/nld@2021-06-21;1</ExtIoRef>
+                                    <ExtIoRef eId="cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                              wId="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                              ref="/join/id/regdata/pv27/2021/voorbeschermd_provinciaal_monument_gm0441/nld@2021-06-21;1">/join/id/regdata/pv27/2021/voorbeschermd_provinciaal_monument_gm0441/nld@2021-06-21;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
@@ -957,7 +1136,8 @@
                <Nummer>III</Nummer>
                <Opschrift>Voorbeschermingsregels omgevingsplan Enkhuizen</Opschrift>
             </Kop>
-            <RegelingTijdelijkdeel componentnaam="initieel_enkhuizen" wordt="/akn/nl/act/pv27/2021/OVNH2022_gm0388/nld@2021-06-21;1">
+            <RegelingTijdelijkdeel componentnaam="initieel_enkhuizen"
+                                   wordt="/akn/nl/act/pv27/2021/OVNH2022_gm0388/nld@2021-06-21;1">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
                   <Al>Voorbereidingsbesluit OVNH2022 - gemeente Enkhuizen</Al>
                </RegelingOpschrift>
@@ -984,42 +1164,54 @@
                            <Nummer>1.1</Nummer>
                            <Opschrift>Geitenhouderij</Opschrift>
                         </Kop>
-                        <Artikel eId="chp_1__subchp_1.1__art_1.1" wId="pv27_1__chp_1__subchp_1.1__art_1.1">
+                        <Artikel eId="chp_1__subchp_1.1__art_1.1"
+                                 wId="pv27_1__chp_1__subchp_1.1__art_1.1">
                            <Kop>
                               <Label>Artikel</Label>
                               <Nummer>1.1</Nummer>
                               <Opschrift>Verbod geitenhouderij</Opschrift>
                            </Kop>
-                           <Lid eId="chp_1__subchp_1.1__art_1.1__para_1" wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_1">
+                           <Lid eId="chp_1__subchp_1.1__art_1.1__para_1"
+                                wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_1">
                               <LidNummer>1.</LidNummer>
                               <Inhoud>
-                                 <Lijst eId="chp_1__subchp_1.1__art_1.1__para_1__list_o_1" wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_1__list_o_1" type="expliciet">
+                                 <Lijst eId="chp_1__subchp_1.1__art_1.1__para_1__list_o_1"
+                                        wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_1__list_o_1"
+                                        type="expliciet">
                                     <Lijstaanhef>Het is verboden om:</Lijstaanhef>
-                                    <Li eId="chp_1__subchp_1.1__art_1.1__para_1__list_o_1__item_a" wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_1__list_o_1__item_a">
+                                    <Li eId="chp_1__subchp_1.1__art_1.1__para_1__list_o_1__item_a"
+                                        wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_1__list_o_1__item_a">
                                        <LiNummer>a.</LiNummer>
                                        <Al>een geitenhouderij, al dan niet als neventak, nieuw te vestigen;</Al>
                                     </Li>
-                                    <Li eId="chp_1__subchp_1.1__art_1.1__para_1__list_o_1__item_b" wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_1__list_o_1__item_b">
+                                    <Li eId="chp_1__subchp_1.1__art_1.1__para_1__list_o_1__item_b"
+                                        wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_1__list_o_1__item_b">
                                        <LiNummer>b.</LiNummer>
                                        <Al>een agrarisch bedrijf geheel of gedeeltelijk te wijzigen naar geitenhouderij, of;</Al>
                                     </Li>
-                                    <Li eId="chp_1__subchp_1.1__art_1.1__para_1__list_o_1__item_c" wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_1__list_o_1__item_c">
+                                    <Li eId="chp_1__subchp_1.1__art_1.1__para_1__list_o_1__item_c"
+                                        wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_1__list_o_1__item_c">
                                        <LiNummer>c.</LiNummer>
                                        <Al>een geitenhouderij uit te breiden door het aantal geiten dat wordt gehouden te vergroten.</Al>
                                     </Li>
                                  </Lijst>
                               </Inhoud>
                            </Lid>
-                           <Lid eId="chp_1__subchp_1.1__art_1.1__para_2" wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_2">
+                           <Lid eId="chp_1__subchp_1.1__art_1.1__para_2"
+                                wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_2">
                               <LidNummer>2.</LidNummer>
                               <Inhoud>
-                                 <Lijst eId="chp_1__subchp_1.1__art_1.1__para_2__list_o_1" wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_2__list_o_1" type="expliciet">
+                                 <Lijst eId="chp_1__subchp_1.1__art_1.1__para_2__list_o_1"
+                                        wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_2__list_o_1"
+                                        type="expliciet">
                                     <Lijstaanhef>Het verbod is niet van toepassing voor zover voor een van de genoemde activiteiten vóór 12 december 2018:</Lijstaanhef>
-                                    <Li eId="chp_1__subchp_1.1__art_1.1__para_2__list_o_1__item_a" wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_2__list_o_1__item_a">
+                                    <Li eId="chp_1__subchp_1.1__art_1.1__para_2__list_o_1__item_a"
+                                        wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_2__list_o_1__item_a">
                                        <LiNummer>a.</LiNummer>
                                        <Al>een melding voor een milieubelastende activiteit bij het bevoegd gezag is ingediend, of;</Al>
                                     </Li>
-                                    <Li eId="chp_1__subchp_1.1__art_1.1__para_2__list_o_1__item_b" wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_2__list_o_1__item_b">
+                                    <Li eId="chp_1__subchp_1.1__art_1.1__para_2__list_o_1__item_b"
+                                        wId="pv27_1__chp_1__subchp_1.1__art_1.1__para_2__list_o_1__item_b">
                                        <LiNummer>b.</LiNummer>
                                        <Al>een aanvraag voor een omgevingsvergunning bij het bevoegd gezag is ingediend, tenzij de aanvraag ziet op of wordt aangemerkt als een omgevingsvergunning voor een buitenplanse omgevingsplanactiviteit.</Al>
                                     </Li>
@@ -1034,35 +1226,43 @@
                            <Nummer>1.2</Nummer>
                            <Opschrift>Windturbines</Opschrift>
                         </Kop>
-                        <Artikel eId="chp_1__subchp_1.2__art_1.2" wId="pv27_1__chp_1__subchp_1.2__art_1.2">
+                        <Artikel eId="chp_1__subchp_1.2__art_1.2"
+                                 wId="pv27_1__chp_1__subchp_1.2__art_1.2">
                            <Kop>
                               <Label>Artikel</Label>
                               <Nummer>1.2</Nummer>
                               <Opschrift>Bouwverbod windturbines</Opschrift>
                            </Kop>
-                           <Lid eId="chp_1__subchp_1.2__art_1.2__para_1" wId="pv27_1__chp_1__subchp_1.2__art_1.2__para_1">
+                           <Lid eId="chp_1__subchp_1.2__art_1.2__para_1"
+                                wId="pv27_1__chp_1__subchp_1.2__art_1.2__para_1">
                               <LidNummer>1.</LidNummer>
                               <Inhoud>
                                  <Al>Het is verboden om een of meer windturbines met een rotordiameter van meer dan 5 meter of een ashoogte van meer dan 7 meter te bouwen of op te schalen.</Al>
                               </Inhoud>
                            </Lid>
-                           <Lid eId="chp_1__subchp_1.2__art_1.2__para_2" wId="pv27_1__chp_1__subchp_1.2__art_1.2__para_2">
+                           <Lid eId="chp_1__subchp_1.2__art_1.2__para_2"
+                                wId="pv27_1__chp_1__subchp_1.2__art_1.2__para_2">
                               <LidNummer>2.</LidNummer>
                               <Inhoud>
-                                 <Lijst eId="chp_1__subchp_1.2__art_1.2__para_2__list_o_1" wId="pv27_1__chp_1__subchp_1.2__art_1.2__para_2__list_o_1" type="expliciet">
+                                 <Lijst eId="chp_1__subchp_1.2__art_1.2__para_2__list_o_1"
+                                        wId="pv27_1__chp_1__subchp_1.2__art_1.2__para_2__list_o_1"
+                                        type="expliciet">
                                     <Lijstaanhef>Het verbod bedoeld in het eerste lid geldt niet als sprake is van vervanging van een of meer met vergunning gebouwde windturbines:</Lijstaanhef>
-                                    <Li eId="chp_1__subchp_1.2__art_1.2__para_2__list_o_1__item_a" wId="pv27_1__chp_1__subchp_1.2__art_1.2__para_2__list_o_1__item_a">
+                                    <Li eId="chp_1__subchp_1.2__art_1.2__para_2__list_o_1__item_a"
+                                        wId="pv27_1__chp_1__subchp_1.2__art_1.2__para_2__list_o_1__item_a">
                                        <LiNummer>a.</LiNummer>
                                        <Al>door eenzelfde aantal of minder windturbines met eenzelfde, vergelijkbare of geringere ashoogte, rotordiameter en verschijningsvorm; en</Al>
                                     </Li>
-                                    <Li eId="chp_1__subchp_1.2__art_1.2__para_2__list_o_1__item_b" wId="pv27_1__chp_1__subchp_1.2__art_1.2__para_2__list_o_1__item_b">
+                                    <Li eId="chp_1__subchp_1.2__art_1.2__para_2__list_o_1__item_b"
+                                        wId="pv27_1__chp_1__subchp_1.2__art_1.2__para_2__list_o_1__item_b">
                                        <LiNummer>b.</LiNummer>
                                        <Al>op locaties waarop op de bouw van een of meer windturbines volgens een omgevingsplan is toegestaan.</Al>
                                     </Li>
                                  </Lijst>
                               </Inhoud>
                            </Lid>
-                           <Lid eId="chp_1__subchp_1.2__art_1.2__para_3" wId="pv27_1__chp_1__subchp_1.2__art_1.2__para_3">
+                           <Lid eId="chp_1__subchp_1.2__art_1.2__para_3"
+                                wId="pv27_1__chp_1__subchp_1.2__art_1.2__para_3">
                               <LidNummer>3.</LidNummer>
                               <Inhoud>
                                  <Al>Het verbod bedoeld in het eerste lid is niet van toepassing op een door Gedeputeerde Staten aangewezen windenergiegebied als bedoeld artikel 6.27 van de Omgevingsverordening NH2022.</Al>
@@ -1076,69 +1276,89 @@
                            <Nummer>1.3</Nummer>
                            <Opschrift>Provinciale monumenten</Opschrift>
                         </Kop>
-                        <Artikel eId="chp_1__subchp_1.3__art_1.3" wId="pv27_1__chp_1__subchp_1.3__art_1.3">
+                        <Artikel eId="chp_1__subchp_1.3__art_1.3"
+                                 wId="pv27_1__chp_1__subchp_1.3__art_1.3">
                            <Kop>
                               <Label>Artikel</Label>
                               <Nummer>1.3</Nummer>
                               <Opschrift>Verbod beschadiging, vernieling en onthouden onderhoud</Opschrift>
                            </Kop>
                            <Inhoud>
-                              <Lijst eId="chp_1__subchp_1.3__art_1.3__list_o_1" wId="pv27_1__chp_1__subchp_1.3__art_1.3__list_o_1" type="expliciet">
-                                 <Lijstaanhef>Op de locatie ‘<IntIoRef eId="chp_1__subchp_1.3__art_1.3__list_o_1__ref_o_1" wId="pv27_1__chp_1__subchp_1.3__art_1.3__list_o_1__ref_o_1" ref="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1">voorbeschermd provinciaal monument</IntIoRef>’ is het verboden:</Lijstaanhef>
-                                 <Li eId="chp_1__subchp_1.3__art_1.3__list_o_1__item_a" wId="pv27_1__chp_1__subchp_1.3__art_1.3__list_o_1__item_a">
+                              <Lijst eId="chp_1__subchp_1.3__art_1.3__list_o_1"
+                                     wId="pv27_1__chp_1__subchp_1.3__art_1.3__list_o_1"
+                                     type="expliciet">
+                                 <Lijstaanhef>Op de locatie ‘<IntIoRef eId="chp_1__subchp_1.3__art_1.3__list_o_1__ref_o_1"
+                                              wId="pv27_1__chp_1__subchp_1.3__art_1.3__list_o_1__ref_o_1"
+                                              ref="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1">voorbeschermd provinciaal monument</IntIoRef>’ is het verboden:</Lijstaanhef>
+                                 <Li eId="chp_1__subchp_1.3__art_1.3__list_o_1__item_a"
+                                     wId="pv27_1__chp_1__subchp_1.3__art_1.3__list_o_1__item_a">
                                     <LiNummer>a.</LiNummer>
                                     <Al>het daar aanwezige monument, zoals omschreven in de bijlage, te beschadigen of te vernielen; of</Al>
                                  </Li>
-                                 <Li eId="chp_1__subchp_1.3__art_1.3__list_o_1__item_b" wId="pv27_1__chp_1__subchp_1.3__art_1.3__list_o_1__item_b">
+                                 <Li eId="chp_1__subchp_1.3__art_1.3__list_o_1__item_b"
+                                     wId="pv27_1__chp_1__subchp_1.3__art_1.3__list_o_1__item_b">
                                     <LiNummer>b.</LiNummer>
                                     <Al>aan het daar aanwezige monument, zoals omschreven in de bijlage, onderhoud te onthouden dat voor de instandhouding daarvan noodzakelijk is.</Al>
                                  </Li>
                               </Lijst>
                            </Inhoud>
                         </Artikel>
-                        <Artikel eId="chp_1__subchp_1.3__art_1.4" wId="pv27_1__chp_1__subchp_1.3__art_1.4">
+                        <Artikel eId="chp_1__subchp_1.3__art_1.4"
+                                 wId="pv27_1__chp_1__subchp_1.3__art_1.4">
                            <Kop>
                               <Label>Artikel</Label>
                               <Nummer>1.4</Nummer>
                               <Opschrift>Vergunningplicht</Opschrift>
                            </Kop>
                            <Inhoud>
-                              <Al>Op de locatie ‘<IntIoRef eId="chp_1__subchp_1.3__art_1.4__ref_o_1" wId="pv27_1__chp_1__subchp_1.3__art_1.4__ref_o_1" ref="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1">voorbeschermd provinciaal monument</IntIoRef>’ is het verboden zonder omgevingsvergunning het daar aanwezige monument, zoals omschreven in de bijlage, te slopen, te verstoren, te verplaatsen of te wijzigen, of te herstellen of te gebruiken waardoor het wordt ontsierd of in gevaar
-                                 gebracht.</Al>
+                              <Al>Op de locatie ‘<IntIoRef eId="chp_1__subchp_1.3__art_1.4__ref_o_1"
+                                           wId="pv27_1__chp_1__subchp_1.3__art_1.4__ref_o_1"
+                                           ref="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1">voorbeschermd provinciaal monument</IntIoRef>’ is het verboden zonder omgevingsvergunning het daar aanwezige monument, zoals omschreven in de bijlage, te slopen, te verstoren, te verplaatsen of te wijzigen, of te herstellen of te gebruiken waardoor het wordt ontsierd of in gevaar gebracht.</Al>
                            </Inhoud>
                         </Artikel>
-                        <Artikel eId="chp_1__subchp_1.3__art_1.5" wId="pv27_1__chp_1__subchp_1.3__art_1.5">
+                        <Artikel eId="chp_1__subchp_1.3__art_1.5"
+                                 wId="pv27_1__chp_1__subchp_1.3__art_1.5">
                            <Kop>
                               <Label>Artikel</Label>
                               <Nummer>1.5</Nummer>
                               <Opschrift>Aanwijzing vergunningvrije gevallen</Opschrift>
                            </Kop>
-                           <Lid eId="chp_1__subchp_1.3__art_1.5__para_1" wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_1">
+                           <Lid eId="chp_1__subchp_1.3__art_1.5__para_1"
+                                wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_1">
                               <LidNummer>1.</LidNummer>
                               <Inhoud>
-                                 <Lijst eId="chp_1__subchp_1.3__art_1.5__para_1__list_o_1" wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_1__list_o_1" type="expliciet">
+                                 <Lijst eId="chp_1__subchp_1.3__art_1.5__para_1__list_o_1"
+                                        wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_1__list_o_1"
+                                        type="expliciet">
                                     <Lijstaanhef>Het verbod, bedoeld in artikel 1.4, geldt niet voor een activiteit met betrekking tot een monument, voor zover het gaat om:</Lijstaanhef>
-                                    <Li eId="chp_1__subchp_1.3__art_1.5__para_1__list_o_1__item_a" wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_1__list_o_1__item_a">
+                                    <Li eId="chp_1__subchp_1.3__art_1.5__para_1__list_o_1__item_a"
+                                        wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_1__list_o_1__item_a">
                                        <LiNummer>a.</LiNummer>
                                        <Al>noodzakelijke reguliere werkzaamheden die zijn gericht op het behoud van de monumentale waarden, als detaillering, profilering, vormgeving, materiaalsoort en kleur niet worden gewijzigd; of</Al>
                                     </Li>
-                                    <Li eId="chp_1__subchp_1.3__art_1.5__para_1__list_o_1__item_b" wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_1__list_o_1__item_b">
+                                    <Li eId="chp_1__subchp_1.3__art_1.5__para_1__list_o_1__item_b"
+                                        wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_1__list_o_1__item_b">
                                        <LiNummer>b.</LiNummer>
                                        <Al>alleen inpandige wijzigingen van een onderdeel van het monument dat uit het oogpunt van monumentenzorg geen waarde heeft.</Al>
                                     </Li>
                                  </Lijst>
                               </Inhoud>
                            </Lid>
-                           <Lid eId="chp_1__subchp_1.3__art_1.5__para_2" wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_2">
+                           <Lid eId="chp_1__subchp_1.3__art_1.5__para_2"
+                                wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_2">
                               <LidNummer>2.</LidNummer>
                               <Inhoud>
-                                 <Lijst eId="chp_1__subchp_1.3__art_1.5__para_2__list_o_1" wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_2__list_o_1" type="expliciet">
+                                 <Lijst eId="chp_1__subchp_1.3__art_1.5__para_2__list_o_1"
+                                        wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_2__list_o_1"
+                                        type="expliciet">
                                     <Lijstaanhef>Het verbod, bedoeld in artikel 1.4, geldt niet voor een activiteit met betrekking tot een monument waarvan met name de archeologische waarden redengevend zijn, voor zover het gaat om:</Lijstaanhef>
-                                    <Li eId="chp_1__subchp_1.3__art_1.5__para_2__list_o_1__item_a" wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_2__list_o_1__item_a">
+                                    <Li eId="chp_1__subchp_1.3__art_1.5__para_2__list_o_1__item_a"
+                                        wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_2__list_o_1__item_a">
                                        <LiNummer>a.</LiNummer>
                                        <Al>een sondering of grondboring met een boordiameter van niet meer dan 10 cm; of</Al>
                                     </Li>
-                                    <Li eId="chp_1__subchp_1.3__art_1.5__para_2__list_o_1__item_b" wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_2__list_o_1__item_b">
+                                    <Li eId="chp_1__subchp_1.3__art_1.5__para_2__list_o_1__item_b"
+                                        wId="pv27_1__chp_1__subchp_1.3__art_1.5__para_2__list_o_1__item_b">
                                        <LiNummer>b.</LiNummer>
                                        <Al>het dichten van een recent verstoringsgat van niet meer dan 1 m<sup>3</sup>.</Al>
                                     </Li>
@@ -1146,7 +1366,8 @@
                               </Inhoud>
                            </Lid>
                         </Artikel>
-                        <Artikel eId="chp_1__subchp_1.3__art_1.6" wId="pv27_1__chp_1__subchp_1.3__art_1.6">
+                        <Artikel eId="chp_1__subchp_1.3__art_1.6"
+                                 wId="pv27_1__chp_1__subchp_1.3__art_1.6">
                            <Kop>
                               <Label>Artikel</Label>
                               <Nummer>1.6</Nummer>
@@ -1156,36 +1377,45 @@
                               <Al>De artikelen 22.287 tot en met 22.294 van de bruidsschat omgevingsplan (aanvraagvereisten) zijn van overeenkomstige toepassing op een aanvraag om een omgevingsvergunning voor een activiteit als bedoeld in artikel 1.4.</Al>
                            </Inhoud>
                         </Artikel>
-                        <Artikel eId="chp_1__subchp_1.3__art_1.7" wId="pv27_1__chp_1__subchp_1.3__art_1.7">
+                        <Artikel eId="chp_1__subchp_1.3__art_1.7"
+                                 wId="pv27_1__chp_1__subchp_1.3__art_1.7">
                            <Kop>
                               <Label>Artikel</Label>
                               <Nummer>1.7</Nummer>
                               <Opschrift>Beoordelingsregel</Opschrift>
                            </Kop>
-                           <Lid eId="chp_1__subchp_1.3__art_1.7__para_1" wId="pv27_1__chp_1__subchp_1.3__art_1.7__para_1">
+                           <Lid eId="chp_1__subchp_1.3__art_1.7__para_1"
+                                wId="pv27_1__chp_1__subchp_1.3__art_1.7__para_1">
                               <LidNummer>1.</LidNummer>
                               <Inhoud>
                                  <Al>De omgevingsvergunning wordt alleen verleend als de activiteit in overeenstemming is met het belang van de monumentenzorg.</Al>
                               </Inhoud>
                            </Lid>
-                           <Lid eId="chp_1__subchp_1.3__art_1.7__para_2" wId="pv27_1__chp_1__subchp_1.3__art_1.7__para_2">
+                           <Lid eId="chp_1__subchp_1.3__art_1.7__para_2"
+                                wId="pv27_1__chp_1__subchp_1.3__art_1.7__para_2">
                               <LidNummer>2.</LidNummer>
                               <Inhoud>
-                                 <Lijst eId="chp_1__subchp_1.3__art_1.7__para_2__list_o_1" wId="pv27_1__chp_1__subchp_1.3__art_1.7__para_2__list_o_1" type="expliciet">
+                                 <Lijst eId="chp_1__subchp_1.3__art_1.7__para_2__list_o_1"
+                                        wId="pv27_1__chp_1__subchp_1.3__art_1.7__para_2__list_o_1"
+                                        type="expliciet">
                                     <Lijstaanhef>Bij de beslissing op de aanvraag wordt rekening gehouden met de volgende beginselen:</Lijstaanhef>
-                                    <Li eId="chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_a" wId="pv27_1__chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_a">
+                                    <Li eId="chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_a"
+                                        wId="pv27_1__chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_a">
                                        <LiNummer>a.</LiNummer>
                                        <Al>het voorkomen van ontsiering, beschadiging of sloop van monumenten;</Al>
                                     </Li>
-                                    <Li eId="chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_b" wId="pv27_1__chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_b">
+                                    <Li eId="chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_b"
+                                        wId="pv27_1__chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_b">
                                        <LiNummer>b.</LiNummer>
                                        <Al>het voorkomen van verplaatsing van monumenten of een deel daarvan, tenzij dit dringend vereist is voor het behoud van die monumenten;</Al>
                                     </Li>
-                                    <Li eId="chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_c" wId="pv27_1__chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_c">
+                                    <Li eId="chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_c"
+                                        wId="pv27_1__chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_c">
                                        <LiNummer>c.</LiNummer>
                                        <Al>het bevorderen van het gebruik van monumenten, zo nodig door wijziging van die monumenten, rekening houdend met de monumentale waarden; en</Al>
                                     </Li>
-                                    <Li eId="chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_d" wId="pv27_1__chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_d">
+                                    <Li eId="chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_d"
+                                        wId="pv27_1__chp_1__subchp_1.3__art_1.7__para_2__list_o_1__item_d">
                                        <LiNummer>d.</LiNummer>
                                        <Al>het conserveren en in stand houden van monumenten waarvan met name de archeologische waarden redengevend zijn, bij voorkeur in situ.</Al>
                                     </Li>
@@ -1193,67 +1423,83 @@
                               </Inhoud>
                            </Lid>
                         </Artikel>
-                        <Artikel eId="chp_1__subchp_1.3__art_1.8" wId="pv27_1__chp_1__subchp_1.3__art_1.8">
+                        <Artikel eId="chp_1__subchp_1.3__art_1.8"
+                                 wId="pv27_1__chp_1__subchp_1.3__art_1.8">
                            <Kop>
                               <Label>Artikel</Label>
                               <Nummer>1.8</Nummer>
                               <Opschrift>Voorschriften</Opschrift>
                            </Kop>
                            <Inhoud>
-                              <Lijst eId="chp_1__subchp_1.3__art_1.8__list_o_1" wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1" type="expliciet">
+                              <Lijst eId="chp_1__subchp_1.3__art_1.8__list_o_1"
+                                     wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1"
+                                     type="expliciet">
                                  <Lijstaanhef>Aan een omgevingsvergunning voor een activiteit als bedoeld in artikel 1.4 worden de voorschriften verbonden die nodig zijn voor de regel, bedoeld in artikel 1.7. Daarbij geldt dat:</Lijstaanhef>
-                                 <Li eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_a" wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_a">
+                                 <Li eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_a"
+                                     wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_a">
                                     <LiNummer>a.</LiNummer>
                                     <Al>als het gaat om een omgevingsvergunning die een gedeeltelijke of volledige verplaatsing inhoudt van een monument dat een bouwwerk is, in ieder geval voorschriften aan de omgevingsvergunning worden verbonden over het treffen van voorzorgsmaatregelen voor het demonteren, het overbrengen en de herbouw van dat bouwwerk op de nieuwe locatie;</Al>
                                  </Li>
-                                 <Li eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_b" wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_b">
+                                 <Li eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_b"
+                                     wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_b">
                                     <LiNummer>b.</LiNummer>
-                                    <Lijst eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1" wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1" type="expliciet">
+                                    <Lijst eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1"
+                                           wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1"
+                                           type="expliciet">
                                        <Lijstaanhef>als het gaat om een omgevingsvergunning die betrekking heeft op een monument waarvan met name de archeologische waarden redengevend zijn, in het belang van de archeologische monumentenzorg in ieder geval voorschriften aan de omgevingsvergunning kunnen worden verbonden die inhouden een plicht tot:</Lijstaanhef>
-                                       <Li eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_1" wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_1">
+                                       <Li eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_1"
+                                           wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_1">
                                           <LiNummer>1°.</LiNummer>
                                           <Al>het treffen van technische maatregelen waardoor monumenten in situ kunnen worden behouden;</Al>
                                        </Li>
-                                       <Li eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_2" wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_2">
+                                       <Li eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_2"
+                                           wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_2">
                                           <LiNummer>2°.</LiNummer>
                                           <Al>het verrichten van opgravingen als bedoeld in artikel 1.1 van de Erfgoedwet;</Al>
                                        </Li>
-                                       <Li eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_3" wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_3">
+                                       <Li eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_3"
+                                           wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_3">
                                           <LiNummer>3°.</LiNummer>
                                           <Al>het laten begeleiden van een activiteit die tot bodemverstoring leidt door een deskundige op het terrein van de archeologische monumentenzorg die voldoet aan bij die voorschriften te stellen kwalificaties; en</Al>
                                        </Li>
-                                       <Li eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_4" wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_4">
+                                       <Li eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_4"
+                                           wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_b__list_o_1__item_4">
                                           <LiNummer>4°.</LiNummer>
                                           <Al>het verrichten van een opgraving of een archeologische begeleiding op een bepaalde wijze, als die wijze in overeenstemming is met artikel 5.4, eerste en tweede lid, van de Erfgoedwet;</Al>
                                        </Li>
                                     </Lijst>
                                  </Li>
-                                 <Li eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_c" wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_c">
+                                 <Li eId="chp_1__subchp_1.3__art_1.8__list_o_1__item_c"
+                                     wId="pv27_1__chp_1__subchp_1.3__art_1.8__list_o_1__item_c">
                                     <LiNummer>c.</LiNummer>
                                     <Al>als het gaat om een omgevingsvergunning die betrekking heeft op de fundering of riolering van een monument, in ieder geval het voorschrift aan de omgevingsvergunning kan worden verbonden dat voorafgaand aan de werkzaamheden archeologisch onderzoek wordt verricht.</Al>
                                  </Li>
                               </Lijst>
                            </Inhoud>
                         </Artikel>
-                        <Artikel eId="chp_1__subchp_1.3__art_1.9" wId="pv27_1__chp_1__subchp_1.3__art_1.9">
+                        <Artikel eId="chp_1__subchp_1.3__art_1.9"
+                                 wId="pv27_1__chp_1__subchp_1.3__art_1.9">
                            <Kop>
                               <Label>Artikel</Label>
                               <Nummer>1.9</Nummer>
                               <Opschrift>Aanwijzing adviseurs</Opschrift>
                            </Kop>
-                           <Lid eId="chp_1__subchp_1.3__art_1.9__para_1" wId="pv27_1__chp_1__subchp_1.3__art_1.9__para_1">
+                           <Lid eId="chp_1__subchp_1.3__art_1.9__para_1"
+                                wId="pv27_1__chp_1__subchp_1.3__art_1.9__para_1">
                               <LidNummer>1.</LidNummer>
                               <Inhoud>
                                  <Al>Gedeputeerde staten zijn adviseur voor een aanvraag om een omgevingsvergunning voor zover de aanvraag betrekking heeft op een activiteit als bedoeld in artikel 1.4.</Al>
                               </Inhoud>
                            </Lid>
-                           <Lid eId="chp_1__subchp_1.3__art_1.9__para_2" wId="pv27_1__chp_1__subchp_1.3__art_1.9__para_2">
+                           <Lid eId="chp_1__subchp_1.3__art_1.9__para_2"
+                                wId="pv27_1__chp_1__subchp_1.3__art_1.9__para_2">
                               <LidNummer>2.</LidNummer>
                               <Inhoud>
                                  <Al>De commissie, bedoeld in artikel 17.9 van de Omgevingswet, is adviseur voor een aanvraag om een omgevingsvergunning voor zover de aanvraag betrekking heeft op een activiteit als bedoeld in artikel 1.4 en het college van burgemeester en wethouders voor die aanvraag bevoegd gezag is.</Al>
                               </Inhoud>
                            </Lid>
-                           <Lid eId="chp_1__subchp_1.3__art_1.9__para_3" wId="pv27_1__chp_1__subchp_1.3__art_1.9__para_3">
+                           <Lid eId="chp_1__subchp_1.3__art_1.9__para_3"
+                                wId="pv27_1__chp_1__subchp_1.3__art_1.9__para_3">
                               <LidNummer>3.</LidNummer>
                               <Inhoud>
                                  <Al>Als het college van burgemeester en wethouders geen bevoegd gezag is voor de aanvraag om een omgevingsvergunning voor een activiteit als bedoeld in het eerste lid, maar adviseur, is de commissie ook adviseur en richt het advies van de commissie zich tot het college van burgemeester en wethouders in plaats van tot het bevoegd gezag.</Al>
@@ -1263,20 +1509,26 @@
                      </Afdeling>
                   </Hoofdstuk>
                </Lichaam>
-               <Bijlage xmlns:dso="https://www.dso.nl/" eId="cmp_o_1" wId="pv27_1__cmp_o_1" dso:niveau="1">
+               <Bijlage xmlns:dso="https://www.dso.nl/"
+                        eId="cmp_o_1"
+                        wId="pv27_1__cmp_o_1"
+                        dso:niveau="1">
                   <Kop>
                      <Opschrift>Begrippenlijst</Opschrift>
                   </Kop>
                   <Divisietekst eId="cmp_o_1__content_o_1" wId="pv27_1__cmp_o_1__content_o_1">
                      <Inhoud>
-                        <Begrippenlijst eId="cmp_o_1__content_o_1__list_o_1" wId="pv27_1__cmp_o_1__content_o_1__list_o_1">
-                           <Begrip eId="cmp_o_1__content_o_1__list_o_1__item_o_1" wId="pv27_1__cmp_o_1__content_o_1__list_o_1__item_o_1">
+                        <Begrippenlijst eId="cmp_o_1__content_o_1__list_o_1"
+                                        wId="pv27_1__cmp_o_1__content_o_1__list_o_1">
+                           <Begrip eId="cmp_o_1__content_o_1__list_o_1__item_o_1"
+                                   wId="pv27_1__cmp_o_1__content_o_1__list_o_1__item_o_1">
                               <Term>Geitenhouderij</Term>
                               <Definitie>
                                  <Al>Een bedrijf of een onderdeel daarvan waar geiten worden gehouden.</Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_o_1__content_o_1__list_o_1__item_o_2" wId="pv27_1__cmp_o_1__content_o_1__list_o_1__item_o_2">
+                           <Begrip eId="cmp_o_1__content_o_1__list_o_1__item_o_2"
+                                   wId="pv27_1__cmp_o_1__content_o_1__list_o_1__item_o_2">
                               <Term>Windturbine</Term>
                               <Definitie>
                                  <Al>Een door wind aangedreven bouwwerk waarmee energie wordt opgewekt, inclusief de bij dit bouwwerk behorende infrastructurele voorzieningen, met uitzonderingen van traditionele windmolens of replica’s hiervan.</Al>
@@ -1286,11 +1538,16 @@
                      </Inhoud>
                   </Divisietekst>
                </Bijlage>
-               <Bijlage xmlns:dso="https://www.dso.nl/" eId="cmp_o_2" wId="pv27_1__cmp_o_2" dso:niveau="1">
+               <Bijlage xmlns:dso="https://www.dso.nl/"
+                        eId="cmp_o_2"
+                        wId="pv27_1__cmp_o_2"
+                        dso:niveau="1">
                   <Kop>
                      <Opschrift>Toelichting</Opschrift>
                   </Kop>
-                  <Divisietekst eId="cmp_o_2__content_o_1" wId="pv27_1__cmp_o_2__content_o_1" dso:niveau="2">
+                  <Divisietekst eId="cmp_o_2__content_o_1"
+                                wId="pv27_1__cmp_o_2__content_o_1"
+                                dso:niveau="2">
                      <Kop>
                         <Opschrift>Geitenhouderij</Opschrift>
                      </Kop>
@@ -1300,19 +1557,19 @@
                         <Al>Het is niet toegestaan om nieuwvestiging, uitbreiding van geitenhouderijen of (gedeeltelijke) omschakeling van een agrarisch bedrijf naar een geitenhouderij te realiseren. Hierin wordt specifiek verwezen naar uitbreiding als ‘uitbreiding van het aantal dieren’. Vernieuwen of toevoegen van stallen, bijvoorbeeld gericht op het verbeteren van dierenwelzijn, wordt niet door dit verbod geraakt zolang het aantal dieren daarbij niet wordt uitgebreid.</Al>
                      </Inhoud>
                   </Divisietekst>
-                  <Divisietekst eId="cmp_o_2__content_o_2" wId="pv27_1__cmp_o_2__content_o_2" dso:niveau="2">
+                  <Divisietekst eId="cmp_o_2__content_o_2"
+                                wId="pv27_1__cmp_o_2__content_o_2"
+                                dso:niveau="2">
                      <Kop>
                         <Opschrift>Windturbines</Opschrift>
                      </Kop>
                      <Inhoud>
-                        <Al>De Omgevingsverordening NH2022 bevat een instructieregel die ertoe strekt dat in het omgevingsplan een bouw c.q. opschalingsverbod voor windturbines wordt opgenomen. Voor de periode die gemeenten nodig hebben om deze instructieregels uit te voeren, gelden deze voorbeschermingsregels, die een direct werkend verbod op het bouwen van windturbines behelzen. Vervanging van een of meer vergunde en gebouwde windturbines is mogelijk, mits sprake is van vervanging door
-                           eenzelfde aantal of minder windturbines met eenzelfde of vergelijkbare ashoogte, rotordiameter en verschijningsvorm. De rotordiameter ziet op de afstand vanaf het hart van de as tot de tip van het rotorblad. De ashoogte betreft de afstand vanaf maaiveldhoogte ter plaatse tot het hart van de rotor-as. De verschijningsvorm betreft het uiterlijk van de windturbine zoals dat wordt bepaald door de vorm van de mast, het samenstel van de rotorbladen en de vorm van de gondel.
-                           Met vergelijkbare ashoogte wordt bedoeld: de huidige ashoogte met een maximale afwijking van 10%. Met vergelijkbare rotordiameter wordt bedoeld: de huidige rotordiameter met een maximale afwijking van 10%. Ook moet worden voldaan aan het vereiste zoals geformuleerd in artikel 6.27 lid 2 sub e (gulden snede) (vlak voor vaststelling nog checken of verwijzing klopt). Vervanging van windturbines heeft vaak ook een beperkte mate van opschaling tot gevolg omdat innovatievere
-                           windturbines doorgaans een groter vermogen hebben. Daarom dient in het kader van het belang van een goede fysieke leefomgeving bij een iets grotere ashoogte of rotordiameter (van maximaal 10%) te worden aangetoond dat het woon-en leefklimaat van omwonenden niet verslechtert. Bijvoorbeeld op basis van akoestisch onderzoek en overig relevant onderzoek. Voorts zou –indien mogelijk- aan de omgevingsvergunning (onderdeel milieu) een voorschrift verbonden kunnen worden
-                           inhoudende dat ten minste de voor de inrichting in aanmerking komende best beschikbare technieken worden toegepast.</Al>
+                        <Al>De Omgevingsverordening NH2022 bevat een instructieregel die ertoe strekt dat in het omgevingsplan een bouw c.q. opschalingsverbod voor windturbines wordt opgenomen. Voor de periode die gemeenten nodig hebben om deze instructieregels uit te voeren, gelden deze voorbeschermingsregels, die een direct werkend verbod op het bouwen van windturbines behelzen. Vervanging van een of meer vergunde en gebouwde windturbines is mogelijk, mits sprake is van vervanging door eenzelfde aantal of minder windturbines met eenzelfde of vergelijkbare ashoogte, rotordiameter en verschijningsvorm. De rotordiameter ziet op de afstand vanaf het hart van de as tot de tip van het rotorblad. De ashoogte betreft de afstand vanaf maaiveldhoogte ter plaatse tot het hart van de rotor-as. De verschijningsvorm betreft het uiterlijk van de windturbine zoals dat wordt bepaald door de vorm van de mast, het samenstel van de rotorbladen en de vorm van de gondel. Met vergelijkbare ashoogte wordt bedoeld: de huidige ashoogte met een maximale afwijking van 10%. Met vergelijkbare rotordiameter wordt bedoeld: de huidige rotordiameter met een maximale afwijking van 10%. Ook moet worden voldaan aan het vereiste zoals geformuleerd in artikel 6.27 lid 2 sub e (gulden snede) (vlak voor vaststelling nog checken of verwijzing klopt). Vervanging van windturbines heeft vaak ook een beperkte mate van opschaling tot gevolg omdat innovatievere windturbines doorgaans een groter vermogen hebben. Daarom dient in het kader van het belang van een goede fysieke leefomgeving bij een iets grotere ashoogte of rotordiameter (van maximaal 10%) te worden aangetoond dat het woon-en leefklimaat van omwonenden niet verslechtert. Bijvoorbeeld op basis van akoestisch onderzoek en overig relevant onderzoek. Voorts zou –indien mogelijk- aan de omgevingsvergunning (onderdeel milieu) een voorschrift verbonden kunnen worden inhoudende dat ten minste de voor de inrichting in aanmerking komende best beschikbare technieken worden toegepast.</Al>
                      </Inhoud>
                   </Divisietekst>
-                  <Divisietekst eId="cmp_o_2__content_o_3" wId="pv27_1__cmp_o_2__content_o_3" dso:niveau="2">
+                  <Divisietekst eId="cmp_o_2__content_o_3"
+                                wId="pv27_1__cmp_o_2__content_o_3"
+                                dso:niveau="2">
                      <Kop>
                         <Opschrift>Provinciale monumenten</Opschrift>
                      </Kop>
@@ -1322,18 +1579,25 @@
                      </Inhoud>
                   </Divisietekst>
                </Bijlage>
-               <Bijlage xmlns:dso="https://www.dso.nl/" eId="cmp_o_3" wId="pv27_1__cmp_o_3" dso:niveau="1">
+               <Bijlage xmlns:dso="https://www.dso.nl/"
+                        eId="cmp_o_3"
+                        wId="pv27_1__cmp_o_3"
+                        dso:niveau="1">
                   <Kop>
                      <Opschrift>Overzicht informatieobjecten</Opschrift>
                   </Kop>
                   <Divisietekst eId="cmp_o_3__content_o_1" wId="pv27_1__cmp_o_3__content_o_1">
                      <Inhoud>
-                        <Begrippenlijst eId="cmp_o_3__content_o_1__list_o_1" wId="pv27_1__cmp_o_3__content_o_1__list_o_1">
-                           <Begrip eId="cmp_o_3__content_o_1__list_o_1__item_o_1" wId="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1">
+                        <Begrippenlijst eId="cmp_o_3__content_o_1__list_o_1"
+                                        wId="pv27_1__cmp_o_3__content_o_1__list_o_1">
+                           <Begrip eId="cmp_o_3__content_o_1__list_o_1__item_o_1"
+                                   wId="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1">
                               <Term>voorbeschermd provinciaal monument</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1" wId="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1" ref="/join/id/regdata/pv27/2021/voorbeschermd_provinciaal_monument_gm0388/nld@2021-06-21;1">/join/id/regdata/pv27/2021/voorbeschermd_provinciaal_monument_gm0388/nld@2021-06-21;1</ExtIoRef>
+                                    <ExtIoRef eId="cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                              wId="pv27_1__cmp_o_3__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                              ref="/join/id/regdata/pv27/2021/voorbeschermd_provinciaal_monument_gm0388/nld@2021-06-21;1">/join/id/regdata/pv27/2021/voorbeschermd_provinciaal_monument_gm0388/nld@2021-06-21;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
@@ -1352,7 +1616,7 @@
          <soortWork>/join/id/stop/work_021</soortWork>
          <isTijdelijkDeelVan>
             <WorkIdentificatie>
-               <FRBRWork>/akn/nl/act/gm0373/2020/omgevingsplan</FRBRWork>
+               <FRBRWork>/akn/nl/act/gm0373/2021/omgevingsplanBergen</FRBRWork>
                <soortWork>/join/id/stop/work_019</soortWork>
             </WorkIdentificatie>
          </isTijdelijkDeelVan>
@@ -1428,7 +1692,7 @@
          <soortWork>/join/id/stop/work_021</soortWork>
          <isTijdelijkDeelVan>
             <WorkIdentificatie>
-               <FRBRWork>/akn/nl/act/gm0388/2020/omgevingsplan</FRBRWork>
+               <FRBRWork>/akn/nl/act/gm0388/2021/omgevingsplan3Enkhuizen</FRBRWork>
                <soortWork>/join/id/stop/work_019</soortWork>
             </WorkIdentificatie>
          </isTijdelijkDeelVan>

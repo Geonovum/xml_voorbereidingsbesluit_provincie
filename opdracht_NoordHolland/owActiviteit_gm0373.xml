@@ -23,11 +23,10 @@
             <sl:objectType>Activiteit</sl:objectType>
          </sl:objectTypen>
       </sl:inhoud>
-      <!-- vaststellen op topactiviteit nl.imow-mnre1034.activiteit.ActInOmgevingsplan klopt -->
       <sl:stand>
          <ow-dc:owObject>
             <rol:Activiteit>
-               <rol:identificatie>nl.imow-pv27.activiteit.20210622000001</rol:identificatie>
+               <rol:identificatie>nl.imow-pv27.activiteit.037320210622000001</rol:identificatie>
                <rol:naam>Het houden van geiten</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/AgrarischeActiviteit</rol:groep>
                <rol:bovenliggendeActiviteit>
@@ -39,7 +38,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <rol:Activiteit>
-               <rol:identificatie>nl.imow-pv27.activiteit.20210622000002</rol:identificatie>
+               <rol:identificatie>nl.imow-pv27.activiteit.037320210622000002</rol:identificatie>
                <rol:naam>Bouwen windturbine</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/BouwactiviteitRuimtelijk</rol:groep>
                <rol:bovenliggendeActiviteit>
@@ -51,7 +50,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <rol:Activiteit>
-               <rol:identificatie>nl.imow-pv27.activiteit.20210622000003</rol:identificatie>
+               <rol:identificatie>nl.imow-pv27.activiteit.037320210622000003</rol:identificatie>
                <rol:naam>Beschadigen,vernielen provinciaal monument</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/CultureelErfgoedactiviteit</rol:groep>
                <rol:bovenliggendeActiviteit>
@@ -63,7 +62,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <rol:Activiteit>
-               <rol:identificatie>nl.imow-pv27.activiteit.20210622000004</rol:identificatie>
+               <rol:identificatie>nl.imow-pv27.activiteit.037320210622000004</rol:identificatie>
                <rol:naam>Ontsieren en/of ingevaar brengen monument</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/CultureelErfgoedactiviteit</rol:groep>
                <rol:bovenliggendeActiviteit>
@@ -75,7 +74,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <rol:Activiteit>
-               <rol:identificatie>nl.imow-pv27.activiteit.20210622000005</rol:identificatie>
+               <rol:identificatie>nl.imow-pv27.activiteit.037320210622000005</rol:identificatie>
                <rol:naam>Noodzakelijke werkzaamheden provinciaal monument</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/CultureelErfgoedactiviteit</rol:groep>
                <rol:bovenliggendeActiviteit>
@@ -87,7 +86,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <rol:Activiteit>
-               <rol:identificatie>nl.imow-pv27.activiteit.20210622000006</rol:identificatie>
+               <rol:identificatie>nl.imow-pv27.activiteit.037320210622000006</rol:identificatie>
                <rol:naam>Inpandige wijzigingen aan provinciaal monument</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/CultureelErfgoedactiviteit</rol:groep>
                <rol:bovenliggendeActiviteit>
@@ -99,7 +98,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <rol:Activiteit>
-               <rol:identificatie>nl.imow-pv27.activiteit.20210622000007</rol:identificatie>
+               <rol:identificatie>nl.imow-pv27.activiteit.037320210622000007</rol:identificatie>
                <rol:naam>activiteit mbt monument met redengevende archeologische waarden</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/CultureelErfgoedactiviteit</rol:groep>
                <rol:bovenliggendeActiviteit>

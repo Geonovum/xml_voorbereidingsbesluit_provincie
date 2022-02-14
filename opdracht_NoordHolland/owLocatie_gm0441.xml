@@ -27,11 +27,11 @@
       <sl:stand>
          <ow-dc:owObject>
             <l:Ambtsgebied>
-               <l:identificatie>nl.imow-pv27.ambtsgebied.00000001001003124000</l:identificatie>
-               <l:noemer>Provincie Noord-Holland</l:noemer>
+               <l:identificatie>nl.imow-pv27.ambtsgebied.044100000001001003124000</l:identificatie>
+               <l:noemer>Gemeente Schagen</l:noemer>
                <l:bestuurlijkeGrenzenVerwijzing>
                   <l:BestuurlijkeGrenzenVerwijzing>
-                     <l:bestuurlijkeGrenzenID>PV27</l:bestuurlijkeGrenzenID>
+                     <l:bestuurlijkeGrenzenID>GM0441</l:bestuurlijkeGrenzenID>
                      <l:domein>NL.BI.BestuurlijkGebied</l:domein>
                      <l:geldigOp>2021-01-01</l:geldigOp>
                   </l:BestuurlijkeGrenzenVerwijzing>
@@ -42,7 +42,7 @@
       <sl:stand>
          <ow-dc:owObject><!--Provinciale monumenten.gml-->
             <l:Gebied>
-               <l:identificatie>nl.imow-pv27.gebied.20210622000001</l:identificatie>
+               <l:identificatie>nl.imow-pv27.gebied.044120210622000001</l:identificatie>
                <l:noemer>voorbeschermd provinciaal monument</l:noemer>
                <l:geometrie>
                   <l:GeometrieRef xlink:href="89d1df69-2804-4fb1-867f-e8c9db358c5b"/>

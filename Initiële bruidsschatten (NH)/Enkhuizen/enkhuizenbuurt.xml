@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="1.2.0" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
+<AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="1.1.0" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
   <InformatieObjectVersie>
     <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
       <FRBRWork>/join/id/regdata/gm0388/2021/Enkhuizenbuurt3</FRBRWork>
@@ -12,7 +12,7 @@
         <heeftBestand>
           <Bestand>
             <bestandsnaam>enkhuizenbuurt.gml</bestandsnaam>
-             <hash>3c1fc70206112e238dd52b6ff29038d1d13d45c65c909dc11c74d9d781ac897e9bc361cae56d9fa6a85b5803567806e91caa6b62bcacbd6dbca8ce115f1e2f5a</hash>
+             <hash>cd1c5118438fcd99860fae80773251df1d7154406c51c3ac70e525254dd00544df38f98477b0e4550e251fb1e9154e270d05473f58b72e7b235b2e1bfaba5b06</hash>
           </Bestand>
         </heeftBestand>
       </heeftBestanden>

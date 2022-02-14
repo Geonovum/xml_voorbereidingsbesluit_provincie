@@ -11,7 +11,7 @@
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <heeftGeboorteregeling>/akn/nl/act/pv27/2021/OVNH2022_gm0441/nld@2021-06-21;1</heeftGeboorteregeling>
+         <heeftGeboorteregeling>/akn/nl/act/pv27/2021/OVNH2022_gm0441</heeftGeboorteregeling>
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
