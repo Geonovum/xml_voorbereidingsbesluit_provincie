@@ -20,25 +20,9 @@
          <sl:gebied>Provincie Noord-Holland</sl:gebied>
          <sl:leveringsId>OVNH2022-001</sl:leveringsId>
          <sl:objectTypen>
-            <sl:objectType>Ambtsgebied</sl:objectType>
             <sl:objectType>Gebied</sl:objectType>
          </sl:objectTypen>
       </sl:inhoud>
-      <sl:stand>
-         <ow-dc:owObject>
-            <l:Ambtsgebied>
-               <l:identificatie>nl.imow-pv27.ambtsgebied.038800000001001003124000</l:identificatie>
-               <l:noemer>Gemeente Enkhuizen</l:noemer>
-               <l:bestuurlijkeGrenzenVerwijzing>
-                  <l:BestuurlijkeGrenzenVerwijzing>
-                     <l:bestuurlijkeGrenzenID>GM0388</l:bestuurlijkeGrenzenID>
-                     <l:domein>NL.BI.BestuurlijkGebied</l:domein>
-                     <l:geldigOp>2021-01-01</l:geldigOp>
-                  </l:BestuurlijkeGrenzenVerwijzing>
-               </l:bestuurlijkeGrenzenVerwijzing>
-            </l:Ambtsgebied>
-         </ow-dc:owObject>
-      </sl:stand>
       <sl:stand>
          <ow-dc:owObject><!--Provinciale monumenten.gml-->
             <l:Gebied>

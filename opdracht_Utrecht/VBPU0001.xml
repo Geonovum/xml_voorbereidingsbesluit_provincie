@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                    schemaversie="1.1.0"
-                    xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                    schemaversie="1.2.0"
+                    xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <BesluitVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/akn/nl/bill/pv26/2021/VBPU0001</FRBRWork>
@@ -61,14 +61,14 @@
                   <doel>/join/id/proces/pv26/2021/Instelling_gemeente</doel>
                </doelen>
                <instrumentVersie>/akn/nl/act/pv26/2021/VBPU0001_gm0307/nld@2021-04-19;1</instrumentVersie>
-               <eId>art_III</eId>
+               <eId>art_II</eId>
             </BeoogdeRegeling>
             <BeoogdeRegeling>
                <doelen>
                   <doel>/join/id/proces/pv26/2021/Instelling_gemeente</doel>
                </doelen>
                <instrumentVersie>/akn/nl/act/pv26/2021/VBPU0001_gm0356/nld@2021-04-19;1</instrumentVersie>
-               <eId>art_IV</eId>
+               <eId>art_II</eId>
             </BeoogdeRegeling>
             <BeoogdInformatieobject>
                <doelen>
@@ -356,60 +356,56 @@
                      <Nummer>1</Nummer>
                      <Opschrift>Artikelsgewijze toelichting Voorbeschermingsregels</Opschrift>
                   </Kop>
-                  <Divisie eId="cmp_1__div_1.1" wId="pv26_1__cmp_1__div_1.1" dso:niveau="2">
+                  <Divisietekst eId="cmp_1__content_1.1"
+                                wId="pv26_1__cmp_1__content_1.1"
+                                dso:niveau="2">
                      <Kop>
                         <Label>Artikel</Label>
                         <Nummer>1.1</Nummer>
                         <Opschrift>Verbod geitenhouderijen</Opschrift>
                      </Kop>
-                     <Divisietekst eId="cmp_1__div_1.1__content_o_1"
-                                   wId="pv26_1__cmp_1__div_1.1__content_o_1">
-                        <Inhoud>
-                           <Al>In dit artikel is de zogeheten “geitenstop” opgenomen. De geitenstop is in 2018 ingevoerd omdat er zorgen zijn over de gevolgen van het houden van grote aantallen geiten voor de gezondheid. Daarom is het verboden om nieuwe geitenhouderijen te starten of bij bestaande veehouderijen geiten te gaan houden of het aantal geiten uit te breiden.</Al>
-                           <Al>Het verbod geldt volgens het tweede lid niet voor minder dan 25 geiten in totaal. Dat is de grens die in artikel 3.200 van het Besluit activiteiten leefomgeving is opgenomen voor overige landbouwhuisdieren. Boven die grens zijn de regels van dat besluit van toepassing (waaronder meldplichten). Het verbod geldt ook niet voor geiten die direct voorafgaand aan het voorbereidingsbesluit van 2018 legaal werden gehouden. Het aantal geiten dat destijds mocht worden gehouden op basis van een melding of vergunning is als het ware bevroren.</Al>
-                        </Inhoud>
-                     </Divisietekst>
-                  </Divisie>
-                  <Divisie eId="cmp_1__div_1.2" wId="pv26_1__cmp_1__div_1.2" dso:niveau="2">
+                     <Inhoud>
+                        <Al>In dit artikel is de zogeheten “geitenstop” opgenomen. De geitenstop is in 2018 ingevoerd omdat er zorgen zijn over de gevolgen van het houden van grote aantallen geiten voor de gezondheid. Daarom is het verboden om nieuwe geitenhouderijen te starten of bij bestaande veehouderijen geiten te gaan houden of het aantal geiten uit te breiden.</Al>
+                        <Al>Het verbod geldt volgens het tweede lid niet voor minder dan 25 geiten in totaal. Dat is de grens die in artikel 3.200 van het Besluit activiteiten leefomgeving is opgenomen voor overige landbouwhuisdieren. Boven die grens zijn de regels van dat besluit van toepassing (waaronder meldplichten). Het verbod geldt ook niet voor geiten die direct voorafgaand aan het voorbereidingsbesluit van 2018 legaal werden gehouden. Het aantal geiten dat destijds mocht worden gehouden op basis van een melding of vergunning is als het ware bevroren.</Al>
+                     </Inhoud>
+                  </Divisietekst>
+                  <Divisietekst eId="cmp_1__content_1.2"
+                                wId="pv26_1__cmp_1__content_1.2"
+                                dso:niveau="2">
                      <Kop>
                         <Label>Artikel</Label>
                         <Nummer>1.2</Nummer>
                         <Opschrift>Verbod toepassen andere saneringstechnieken dan verwijderen in waterwingebieden en grondwaterbeschermingsgebieden</Opschrift>
                      </Kop>
-                     <Divisietekst eId="cmp_1__div_1.2__content_o_1"
-                                   wId="pv26_1__cmp_1__div_1.2__content_o_1">
-                        <Inhoud>
-                           <Al>De milieubelastende activiteit bodemsanering kent in het Besluit activiteiten leefomgeving twee standaardaanpakken waarmee de bodemkwaliteit geschikt gemaakt kan worden voor de toekomstige functie. Gekozen kan worden uit de standaardaanpak waarbij de verontreiniging wordt verwijderd (artikel 4.1242 Besluit activiteiten leefomgeving) en de standaardaanpak waarbij de verontreiniging wordt afgeschermd door een afdeklaag of een aaneengesloten verhardingslaag (artikel 4.1241 Besluit activiteiten leefomgeving). In gebieden die van belang zijn voor de drinkwaterwinning is het niet aanvaardbaar dat een sanering wordt uitgevoerd met toepassing van artikel 4.1241 Besluit activiteiten leefomgeving. Door het afdekken van de verontreiniging wordt verspreiding in de meeste gevallen niet voorkomen. Daarom bevat het eerste lid een verbod om een andere aanpak te hanteren dan verwijderen.</Al>
-                           <Al>In grondwaterbeschermingsgebieden is een sanering volgens de afdekvariant allen toelaatbaar als op de locatie geen sprake is van een grondwaterverontreiniging boven de tussenwaarde. De tussenwaarde is het rekenkundig gemiddelde van de streefwaarde en de interventiewaarde van een verontreinigende stof in het grondwater. De streefwaarden grondwater worden niet meer op rijksniveau vastgesteld, maar blijven beschikbaar in het normenzoeksysteem op de website van het RIVM. De interventiewaarden grondwater zijn te vinden in bijlage VC bij artikel 4.12a van het Besluit kwaliteit leefomgeving (signaleringsparameters beoordeling grondwatersanering). Wanneer de in de bodem aanwezige verontreinigende stoffen zich tot boven de tussenwaarde hebben verspreid naar het grondwater wordt gesproken van een mobiele verontreinigingssituatie. Een andere aanpak van de sanering in grondwaterbeschermingsgebieden dan verwijderen is dan verboden.</Al>
-                        </Inhoud>
-                     </Divisietekst>
-                  </Divisie>
-                  <Divisie eId="cmp_1__div_1.3" wId="pv26_1__cmp_1__div_1.3" dso:niveau="2">
+                     <Inhoud>
+                        <Al>De milieubelastende activiteit bodemsanering kent in het Besluit activiteiten leefomgeving twee standaardaanpakken waarmee de bodemkwaliteit geschikt gemaakt kan worden voor de toekomstige functie. Gekozen kan worden uit de standaardaanpak waarbij de verontreiniging wordt verwijderd (artikel 4.1242 Besluit activiteiten leefomgeving) en de standaardaanpak waarbij de verontreiniging wordt afgeschermd door een afdeklaag of een aaneengesloten verhardingslaag (artikel 4.1241 Besluit activiteiten leefomgeving). In gebieden die van belang zijn voor de drinkwaterwinning is het niet aanvaardbaar dat een sanering wordt uitgevoerd met toepassing van artikel 4.1241 Besluit activiteiten leefomgeving. Door het afdekken van de verontreiniging wordt verspreiding in de meeste gevallen niet voorkomen. Daarom bevat het eerste lid een verbod om een andere aanpak te hanteren dan verwijderen.</Al>
+                        <Al>In grondwaterbeschermingsgebieden is een sanering volgens de afdekvariant allen toelaatbaar als op de locatie geen sprake is van een grondwaterverontreiniging boven de tussenwaarde. De tussenwaarde is het rekenkundig gemiddelde van de streefwaarde en de interventiewaarde van een verontreinigende stof in het grondwater. De streefwaarden grondwater worden niet meer op rijksniveau vastgesteld, maar blijven beschikbaar in het normenzoeksysteem op de website van het RIVM. De interventiewaarden grondwater zijn te vinden in bijlage VC bij artikel 4.12a van het Besluit kwaliteit leefomgeving (signaleringsparameters beoordeling grondwatersanering). Wanneer de in de bodem aanwezige verontreinigende stoffen zich tot boven de tussenwaarde hebben verspreid naar het grondwater wordt gesproken van een mobiele verontreinigingssituatie. Een andere aanpak van de sanering in grondwaterbeschermingsgebieden dan verwijderen is dan verboden.</Al>
+                     </Inhoud>
+                  </Divisietekst>
+                  <Divisietekst eId="cmp_1__content_1.3"
+                                wId="pv26_1__cmp_1__content_1.3"
+                                dso:niveau="2">
                      <Kop>
                         <Label>Artikel</Label>
                         <Nummer>1.3</Nummer>
                         <Opschrift>Verbod bouwen langs provinciale wegen</Opschrift>
                      </Kop>
-                     <Divisietekst eId="cmp_1__div_1.3__content_o_1"
-                                   wId="pv26_1__cmp_1__div_1.3__content_o_1">
-                        <Inhoud>
-                           <Al>Het beperkingengebied bouwwerken provinciale wegen omvat een zone langs de provinciale wegen waarin het bouwen van een bouwwerk (inclusief het veranderen van bestaande bouwwerken) het veilige en doelmatige gebruik van de provinciale weg kan aantasten. In dit artikel is een verbod opgenomen om in dat beperkingengebied te bouwen. Als een initiatiefnemer toch wil bouwen, is een buitenplanse omgevingsvergunning voor een omgevingsplanactiviteit vereist. Deze vergunning wordt alleen verleend als de provincie ontheffing verleent van de instructieregel van artikel 4.6 van de Omgevingsverordening provincie Utrecht.</Al>
-                        </Inhoud>
-                     </Divisietekst>
-                  </Divisie>
-                  <Divisie eId="cmp_1__div_1.4" wId="pv26_1__cmp_1__div_1.4" dso:niveau="2">
+                     <Inhoud>
+                        <Al>Het beperkingengebied bouwwerken provinciale wegen omvat een zone langs de provinciale wegen waarin het bouwen van een bouwwerk (inclusief het veranderen van bestaande bouwwerken) het veilige en doelmatige gebruik van de provinciale weg kan aantasten. In dit artikel is een verbod opgenomen om in dat beperkingengebied te bouwen. Als een initiatiefnemer toch wil bouwen, is een buitenplanse omgevingsvergunning voor een omgevingsplanactiviteit vereist. Deze vergunning wordt alleen verleend als de provincie ontheffing verleent van de instructieregel van artikel 4.6 van de Omgevingsverordening provincie Utrecht.</Al>
+                     </Inhoud>
+                  </Divisietekst>
+                  <Divisietekst eId="cmp_1__content_1.4"
+                                wId="pv26_1__cmp_1__content_1.4"
+                                dso:niveau="2">
                      <Kop>
                         <Label>Artikel</Label>
                         <Nummer>1.4</Nummer>
                         <Opschrift>Verbod gebouwen en functiewijziging langs lokale spoorwegen</Opschrift>
                      </Kop>
-                     <Divisietekst eId="cmp_1__div_1.4__content_o_1"
-                                   wId="pv26_1__cmp_1__div_1.4__content_o_1">
-                        <Inhoud>
-                           <Al>Bewoners of gebruikers van gebouwen langs lokale spoorwegen kunnen hinder ondervinden door het gebruik van de spoorweg, in de vorm van geluid, trillingen, elektromagnetische straling of emissies van koper- of ijzerslijpsel. In het belang van bewoners en gebruikers, maar ook in het belang van de doelmatigheid van het lokale vervoer, mag de ervaren hinder niet toenemen. In dit artikel is daarom een verbod opgenomen om nieuwe gebouwen te bouwen. Ook mogen geen wijzigingen van de functie van een bestaand gebouw plaatsvinden, die tot verergering van de hinder leiden. Daarbij kan gedacht worden aan het omzetten van een kantoorfunctie naar een woonfunctie.</Al>
-                        </Inhoud>
-                     </Divisietekst>
-                  </Divisie>
+                     <Inhoud>
+                        <Al>Bewoners of gebruikers van gebouwen langs lokale spoorwegen kunnen hinder ondervinden door het gebruik van de spoorweg, in de vorm van geluid, trillingen, elektromagnetische straling of emissies van koper- of ijzerslijpsel. In het belang van bewoners en gebruikers, maar ook in het belang van de doelmatigheid van het lokale vervoer, mag de ervaren hinder niet toenemen. In dit artikel is daarom een verbod opgenomen om nieuwe gebouwen te bouwen. Ook mogen geen wijzigingen van de functie van een bestaand gebouw plaatsvinden, die tot verergering van de hinder leiden. Daarbij kan gedacht worden aan het omzetten van een kantoorfunctie naar een woonfunctie.</Al>
+                     </Inhoud>
+                  </Divisietekst>
                </Bijlage>
                <Bijlage eId="cmp_2" wId="pv26_1__cmp_2">
                   <Kop>
@@ -628,60 +624,56 @@
                      <Nummer>1</Nummer>
                      <Opschrift>Artikelsgewijze toelichting Voorbeschermingsregels</Opschrift>
                   </Kop>
-                  <Divisie eId="cmp_1__div_1.1" wId="pv26_1__cmp_1__div_1.1" dso:niveau="2">
+                  <Divisietekst eId="cmp_1__content_1.1"
+                                wId="pv26_1__cmp_1__content_1.1"
+                                dso:niveau="2">
                      <Kop>
                         <Label>Artikel</Label>
                         <Nummer>1.1</Nummer>
                         <Opschrift>Verbod geitenhouderijen</Opschrift>
                      </Kop>
-                     <Divisietekst eId="cmp_1__div_1.1__content_o_1"
-                                   wId="pv26_1__cmp_1__div_1.1__content_o_1">
-                        <Inhoud>
-                           <Al>In dit artikel is de zogeheten “geitenstop” opgenomen. De geitenstop is in 2018 ingevoerd omdat er zorgen zijn over de gevolgen van het houden van grote aantallen geiten voor de gezondheid. Daarom is het verboden om nieuwe geitenhouderijen te starten of bij bestaande veehouderijen geiten te gaan houden of het aantal geiten uit te breiden.</Al>
-                           <Al>Het verbod geldt volgens het tweede lid niet voor minder dan 25 geiten in totaal. Dat is de grens die in artikel 3.200 van het Besluit activiteiten leefomgeving is opgenomen voor overige landbouwhuisdieren. Boven die grens zijn de regels van dat besluit van toepassing (waaronder meldplichten). Het verbod geldt ook niet voor geiten die direct voorafgaand aan het voorbereidingsbesluit van 2018 legaal werden gehouden. Het aantal geiten dat destijds mocht worden gehouden op basis van een melding of vergunning is als het ware bevroren.</Al>
-                        </Inhoud>
-                     </Divisietekst>
-                  </Divisie>
-                  <Divisie eId="cmp_1__div_1.2" wId="pv26_1__cmp_1__div_1.2" dso:niveau="2">
+                     <Inhoud>
+                        <Al>In dit artikel is de zogeheten “geitenstop” opgenomen. De geitenstop is in 2018 ingevoerd omdat er zorgen zijn over de gevolgen van het houden van grote aantallen geiten voor de gezondheid. Daarom is het verboden om nieuwe geitenhouderijen te starten of bij bestaande veehouderijen geiten te gaan houden of het aantal geiten uit te breiden.</Al>
+                        <Al>Het verbod geldt volgens het tweede lid niet voor minder dan 25 geiten in totaal. Dat is de grens die in artikel 3.200 van het Besluit activiteiten leefomgeving is opgenomen voor overige landbouwhuisdieren. Boven die grens zijn de regels van dat besluit van toepassing (waaronder meldplichten). Het verbod geldt ook niet voor geiten die direct voorafgaand aan het voorbereidingsbesluit van 2018 legaal werden gehouden. Het aantal geiten dat destijds mocht worden gehouden op basis van een melding of vergunning is als het ware bevroren.</Al>
+                     </Inhoud>
+                  </Divisietekst>
+                  <Divisietekst eId="cmp_1__content_1.2"
+                                wId="pv26_1__cmp_1__content_1.2"
+                                dso:niveau="2">
                      <Kop>
                         <Label>Artikel</Label>
                         <Nummer>1.2</Nummer>
                         <Opschrift>Verbod toepassen andere saneringstechnieken dan verwijderen in waterwingebieden en grondwaterbeschermingsgebieden</Opschrift>
                      </Kop>
-                     <Divisietekst eId="cmp_1__div_1.2__content_o_1"
-                                   wId="pv26_1__cmp_1__div_1.2__content_o_1">
-                        <Inhoud>
-                           <Al>De milieubelastende activiteit bodemsanering kent in het Besluit activiteiten leefomgeving twee standaardaanpakken waarmee de bodemkwaliteit geschikt gemaakt kan worden voor de toekomstige functie. Gekozen kan worden uit de standaardaanpak waarbij de verontreiniging wordt verwijderd (artikel 4.1242 Besluit activiteiten leefomgeving) en de standaardaanpak waarbij de verontreiniging wordt afgeschermd door een afdeklaag of een aaneengesloten verhardingslaag (artikel 4.1241 Besluit activiteiten leefomgeving). In gebieden die van belang zijn voor de drinkwaterwinning is het niet aanvaardbaar dat een sanering wordt uitgevoerd met toepassing van artikel 4.1241 Besluit activiteiten leefomgeving. Door het afdekken van de verontreiniging wordt verspreiding in de meeste gevallen niet voorkomen. Daarom bevat het eerste lid een verbod om een andere aanpak te hanteren dan verwijderen.</Al>
-                           <Al>In grondwaterbeschermingsgebieden is een sanering volgens de afdekvariant allen toelaatbaar als op de locatie geen sprake is van een grondwaterverontreiniging boven de tussenwaarde. De tussenwaarde is het rekenkundig gemiddelde van de streefwaarde en de interventiewaarde van een verontreinigende stof in het grondwater. De streefwaarden grondwater worden niet meer op rijksniveau vastgesteld, maar blijven beschikbaar in het normenzoeksysteem op de website van het RIVM. De interventiewaarden grondwater zijn te vinden in bijlage VC bij artikel 4.12a van het Besluit kwaliteit leefomgeving (signaleringsparameters beoordeling grondwatersanering). Wanneer de in de bodem aanwezige verontreinigende stoffen zich tot boven de tussenwaarde hebben verspreid naar het grondwater wordt gesproken van een mobiele verontreinigingssituatie. Een andere aanpak van de sanering in grondwaterbeschermingsgebieden dan verwijderen is dan verboden.</Al>
-                        </Inhoud>
-                     </Divisietekst>
-                  </Divisie>
-                  <Divisie eId="cmp_1__div_1.3" wId="pv26_1__cmp_1__div_1.3" dso:niveau="2">
+                     <Inhoud>
+                        <Al>De milieubelastende activiteit bodemsanering kent in het Besluit activiteiten leefomgeving twee standaardaanpakken waarmee de bodemkwaliteit geschikt gemaakt kan worden voor de toekomstige functie. Gekozen kan worden uit de standaardaanpak waarbij de verontreiniging wordt verwijderd (artikel 4.1242 Besluit activiteiten leefomgeving) en de standaardaanpak waarbij de verontreiniging wordt afgeschermd door een afdeklaag of een aaneengesloten verhardingslaag (artikel 4.1241 Besluit activiteiten leefomgeving). In gebieden die van belang zijn voor de drinkwaterwinning is het niet aanvaardbaar dat een sanering wordt uitgevoerd met toepassing van artikel 4.1241 Besluit activiteiten leefomgeving. Door het afdekken van de verontreiniging wordt verspreiding in de meeste gevallen niet voorkomen. Daarom bevat het eerste lid een verbod om een andere aanpak te hanteren dan verwijderen.</Al>
+                        <Al>In grondwaterbeschermingsgebieden is een sanering volgens de afdekvariant allen toelaatbaar als op de locatie geen sprake is van een grondwaterverontreiniging boven de tussenwaarde. De tussenwaarde is het rekenkundig gemiddelde van de streefwaarde en de interventiewaarde van een verontreinigende stof in het grondwater. De streefwaarden grondwater worden niet meer op rijksniveau vastgesteld, maar blijven beschikbaar in het normenzoeksysteem op de website van het RIVM. De interventiewaarden grondwater zijn te vinden in bijlage VC bij artikel 4.12a van het Besluit kwaliteit leefomgeving (signaleringsparameters beoordeling grondwatersanering). Wanneer de in de bodem aanwezige verontreinigende stoffen zich tot boven de tussenwaarde hebben verspreid naar het grondwater wordt gesproken van een mobiele verontreinigingssituatie. Een andere aanpak van de sanering in grondwaterbeschermingsgebieden dan verwijderen is dan verboden.</Al>
+                     </Inhoud>
+                  </Divisietekst>
+                  <Divisietekst eId="cmp_1__content_1.3"
+                                wId="pv26_1__cmp_1__content_1.3"
+                                dso:niveau="2">
                      <Kop>
                         <Label>Artikel</Label>
                         <Nummer>1.3</Nummer>
                         <Opschrift>Verbod bouwen langs provinciale wegen</Opschrift>
                      </Kop>
-                     <Divisietekst eId="cmp_1__div_1.3__content_o_1"
-                                   wId="pv26_1__cmp_1__div_1.3__content_o_1">
-                        <Inhoud>
-                           <Al>Het beperkingengebied bouwwerken provinciale wegen omvat een zone langs de provinciale wegen waarin het bouwen van een bouwwerk (inclusief het veranderen van bestaande bouwwerken) het veilige en doelmatige gebruik van de provinciale weg kan aantasten. In dit artikel is een verbod opgenomen om in dat beperkingengebied te bouwen. Als een initiatiefnemer toch wil bouwen, is een buitenplanse omgevingsvergunning voor een omgevingsplanactiviteit vereist. Deze vergunning wordt alleen verleend als de provincie ontheffing verleent van de instructieregel van artikel 4.6 van de Omgevingsverordening provincie Utrecht.</Al>
-                        </Inhoud>
-                     </Divisietekst>
-                  </Divisie>
-                  <Divisie eId="cmp_1__div_1.4" wId="pv26_1__cmp_1__div_1.4" dso:niveau="2">
+                     <Inhoud>
+                        <Al>Het beperkingengebied bouwwerken provinciale wegen omvat een zone langs de provinciale wegen waarin het bouwen van een bouwwerk (inclusief het veranderen van bestaande bouwwerken) het veilige en doelmatige gebruik van de provinciale weg kan aantasten. In dit artikel is een verbod opgenomen om in dat beperkingengebied te bouwen. Als een initiatiefnemer toch wil bouwen, is een buitenplanse omgevingsvergunning voor een omgevingsplanactiviteit vereist. Deze vergunning wordt alleen verleend als de provincie ontheffing verleent van de instructieregel van artikel 4.6 van de Omgevingsverordening provincie Utrecht.</Al>
+                     </Inhoud>
+                  </Divisietekst>
+                  <Divisietekst eId="cmp_1__content_1.4"
+                                wId="pv26_1__cmp_1__content_1.4"
+                                dso:niveau="2">
                      <Kop>
                         <Label>Artikel</Label>
                         <Nummer>1.4</Nummer>
                         <Opschrift>Verbod gebouwen en functiewijziging langs lokale spoorwegen</Opschrift>
                      </Kop>
-                     <Divisietekst eId="cmp_1__div_1.4__content_o_1"
-                                   wId="pv26_1__cmp_1__div_1.4__content_o_1">
-                        <Inhoud>
-                           <Al>Bewoners of gebruikers van gebouwen langs lokale spoorwegen kunnen hinder ondervinden door het gebruik van de spoorweg, in de vorm van geluid, trillingen, elektromagnetische straling of emissies van koper- of ijzerslijpsel. In het belang van bewoners en gebruikers, maar ook in het belang van de doelmatigheid van het lokale vervoer, mag de ervaren hinder niet toenemen. In dit artikel is daarom een verbod opgenomen om nieuwe gebouwen te bouwen. Ook mogen geen wijzigingen van de functie van een bestaand gebouw plaatsvinden, die tot verergering van de hinder leiden. Daarbij kan gedacht worden aan het omzetten van een kantoorfunctie naar een woonfunctie.</Al>
-                        </Inhoud>
-                     </Divisietekst>
-                  </Divisie>
+                     <Inhoud>
+                        <Al>Bewoners of gebruikers van gebouwen langs lokale spoorwegen kunnen hinder ondervinden door het gebruik van de spoorweg, in de vorm van geluid, trillingen, elektromagnetische straling of emissies van koper- of ijzerslijpsel. In het belang van bewoners en gebruikers, maar ook in het belang van de doelmatigheid van het lokale vervoer, mag de ervaren hinder niet toenemen. In dit artikel is daarom een verbod opgenomen om nieuwe gebouwen te bouwen. Ook mogen geen wijzigingen van de functie van een bestaand gebouw plaatsvinden, die tot verergering van de hinder leiden. Daarbij kan gedacht worden aan het omzetten van een kantoorfunctie naar een woonfunctie.</Al>
+                     </Inhoud>
+                  </Divisietekst>
                </Bijlage>
             </RegelingTijdelijkdeel>
          </WijzigBijlage>
@@ -853,60 +845,56 @@
                      <Nummer>1</Nummer>
                      <Opschrift>Artikelsgewijze toelichting Voorbeschermingsregels</Opschrift>
                   </Kop>
-                  <Divisie eId="cmp_1__div_1.1" wId="pv26_1__cmp_1__div_1.1" dso:niveau="2">
+                  <Divisietekst eId="cmp_1__content_1.1"
+                                wId="pv26_1__cmp_1__content_1.1"
+                                dso:niveau="2">
                      <Kop>
                         <Label>Artikel</Label>
                         <Nummer>1.1</Nummer>
                         <Opschrift>Verbod geitenhouderijen</Opschrift>
                      </Kop>
-                     <Divisietekst eId="cmp_1__div_1.1__content_o_1"
-                                   wId="pv26_1__cmp_1__div_1.1__content_o_1">
-                        <Inhoud>
-                           <Al>In dit artikel is de zogeheten “geitenstop” opgenomen. De geitenstop is in 2018 ingevoerd omdat er zorgen zijn over de gevolgen van het houden van grote aantallen geiten voor de gezondheid. Daarom is het verboden om nieuwe geitenhouderijen te starten of bij bestaande veehouderijen geiten te gaan houden of het aantal geiten uit te breiden.</Al>
-                           <Al>Het verbod geldt volgens het tweede lid niet voor minder dan 25 geiten in totaal. Dat is de grens die in artikel 3.200 van het Besluit activiteiten leefomgeving is opgenomen voor overige landbouwhuisdieren. Boven die grens zijn de regels van dat besluit van toepassing (waaronder meldplichten). Het verbod geldt ook niet voor geiten die direct voorafgaand aan het voorbereidingsbesluit van 2018 legaal werden gehouden. Het aantal geiten dat destijds mocht worden gehouden op basis van een melding of vergunning is als het ware bevroren.</Al>
-                        </Inhoud>
-                     </Divisietekst>
-                  </Divisie>
-                  <Divisie eId="cmp_1__div_1.2" wId="pv26_1__cmp_1__div_1.2" dso:niveau="2">
+                     <Inhoud>
+                        <Al>In dit artikel is de zogeheten “geitenstop” opgenomen. De geitenstop is in 2018 ingevoerd omdat er zorgen zijn over de gevolgen van het houden van grote aantallen geiten voor de gezondheid. Daarom is het verboden om nieuwe geitenhouderijen te starten of bij bestaande veehouderijen geiten te gaan houden of het aantal geiten uit te breiden.</Al>
+                        <Al>Het verbod geldt volgens het tweede lid niet voor minder dan 25 geiten in totaal. Dat is de grens die in artikel 3.200 van het Besluit activiteiten leefomgeving is opgenomen voor overige landbouwhuisdieren. Boven die grens zijn de regels van dat besluit van toepassing (waaronder meldplichten). Het verbod geldt ook niet voor geiten die direct voorafgaand aan het voorbereidingsbesluit van 2018 legaal werden gehouden. Het aantal geiten dat destijds mocht worden gehouden op basis van een melding of vergunning is als het ware bevroren.</Al>
+                     </Inhoud>
+                  </Divisietekst>
+                  <Divisietekst eId="cmp_1__content_1.2"
+                                wId="pv26_1__cmp_1__content_1.2"
+                                dso:niveau="2">
                      <Kop>
                         <Label>Artikel</Label>
                         <Nummer>1.2</Nummer>
                         <Opschrift>Verbod toepassen andere saneringstechnieken dan verwijderen in waterwingebieden en grondwaterbeschermingsgebieden</Opschrift>
                      </Kop>
-                     <Divisietekst eId="cmp_1__div_1.2__content_o_1"
-                                   wId="pv26_1__cmp_1__div_1.2__content_o_1">
-                        <Inhoud>
-                           <Al>De milieubelastende activiteit bodemsanering kent in het Besluit activiteiten leefomgeving twee standaardaanpakken waarmee de bodemkwaliteit geschikt gemaakt kan worden voor de toekomstige functie. Gekozen kan worden uit de standaardaanpak waarbij de verontreiniging wordt verwijderd (artikel 4.1242 Besluit activiteiten leefomgeving) en de standaardaanpak waarbij de verontreiniging wordt afgeschermd door een afdeklaag of een aaneengesloten verhardingslaag (artikel 4.1241 Besluit activiteiten leefomgeving). In gebieden die van belang zijn voor de drinkwaterwinning is het niet aanvaardbaar dat een sanering wordt uitgevoerd met toepassing van artikel 4.1241 Besluit activiteiten leefomgeving. Door het afdekken van de verontreiniging wordt verspreiding in de meeste gevallen niet voorkomen. Daarom bevat het eerste lid een verbod om een andere aanpak te hanteren dan verwijderen.</Al>
-                           <Al>In grondwaterbeschermingsgebieden is een sanering volgens de afdekvariant allen toelaatbaar als op de locatie geen sprake is van een grondwaterverontreiniging boven de tussenwaarde. De tussenwaarde is het rekenkundig gemiddelde van de streefwaarde en de interventiewaarde van een verontreinigende stof in het grondwater. De streefwaarden grondwater worden niet meer op rijksniveau vastgesteld, maar blijven beschikbaar in het normenzoeksysteem op de website van het RIVM. De interventiewaarden grondwater zijn te vinden in bijlage VC bij artikel 4.12a van het Besluit kwaliteit leefomgeving (signaleringsparameters beoordeling grondwatersanering). Wanneer de in de bodem aanwezige verontreinigende stoffen zich tot boven de tussenwaarde hebben verspreid naar het grondwater wordt gesproken van een mobiele verontreinigingssituatie. Een andere aanpak van de sanering in grondwaterbeschermingsgebieden dan verwijderen is dan verboden.</Al>
-                        </Inhoud>
-                     </Divisietekst>
-                  </Divisie>
-                  <Divisie eId="cmp_1__div_1.3" wId="pv26_1__cmp_1__div_1.3" dso:niveau="2">
+                     <Inhoud>
+                        <Al>De milieubelastende activiteit bodemsanering kent in het Besluit activiteiten leefomgeving twee standaardaanpakken waarmee de bodemkwaliteit geschikt gemaakt kan worden voor de toekomstige functie. Gekozen kan worden uit de standaardaanpak waarbij de verontreiniging wordt verwijderd (artikel 4.1242 Besluit activiteiten leefomgeving) en de standaardaanpak waarbij de verontreiniging wordt afgeschermd door een afdeklaag of een aaneengesloten verhardingslaag (artikel 4.1241 Besluit activiteiten leefomgeving). In gebieden die van belang zijn voor de drinkwaterwinning is het niet aanvaardbaar dat een sanering wordt uitgevoerd met toepassing van artikel 4.1241 Besluit activiteiten leefomgeving. Door het afdekken van de verontreiniging wordt verspreiding in de meeste gevallen niet voorkomen. Daarom bevat het eerste lid een verbod om een andere aanpak te hanteren dan verwijderen.</Al>
+                        <Al>In grondwaterbeschermingsgebieden is een sanering volgens de afdekvariant allen toelaatbaar als op de locatie geen sprake is van een grondwaterverontreiniging boven de tussenwaarde. De tussenwaarde is het rekenkundig gemiddelde van de streefwaarde en de interventiewaarde van een verontreinigende stof in het grondwater. De streefwaarden grondwater worden niet meer op rijksniveau vastgesteld, maar blijven beschikbaar in het normenzoeksysteem op de website van het RIVM. De interventiewaarden grondwater zijn te vinden in bijlage VC bij artikel 4.12a van het Besluit kwaliteit leefomgeving (signaleringsparameters beoordeling grondwatersanering). Wanneer de in de bodem aanwezige verontreinigende stoffen zich tot boven de tussenwaarde hebben verspreid naar het grondwater wordt gesproken van een mobiele verontreinigingssituatie. Een andere aanpak van de sanering in grondwaterbeschermingsgebieden dan verwijderen is dan verboden.</Al>
+                     </Inhoud>
+                  </Divisietekst>
+                  <Divisietekst eId="cmp_1__content_1.3"
+                                wId="pv26_1__cmp_1__content_1.3"
+                                dso:niveau="2">
                      <Kop>
                         <Label>Artikel</Label>
                         <Nummer>1.3</Nummer>
                         <Opschrift>Verbod bouwen langs provinciale wegen</Opschrift>
                      </Kop>
-                     <Divisietekst eId="cmp_1__div_1.3__content_o_1"
-                                   wId="pv26_1__cmp_1__div_1.3__content_o_1">
-                        <Inhoud>
-                           <Al>Het beperkingengebied bouwwerken provinciale wegen omvat een zone langs de provinciale wegen waarin het bouwen van een bouwwerk (inclusief het veranderen van bestaande bouwwerken) het veilige en doelmatige gebruik van de provinciale weg kan aantasten. In dit artikel is een verbod opgenomen om in dat beperkingengebied te bouwen. Als een initiatiefnemer toch wil bouwen, is een buitenplanse omgevingsvergunning voor een omgevingsplanactiviteit vereist. Deze vergunning wordt alleen verleend als de provincie ontheffing verleent van de instructieregel van artikel 4.6 van de Omgevingsverordening provincie Utrecht.</Al>
-                        </Inhoud>
-                     </Divisietekst>
-                  </Divisie>
-                  <Divisie eId="cmp_1__div_1.4" wId="pv26_1__cmp_1__div_1.4" dso:niveau="2">
+                     <Inhoud>
+                        <Al>Het beperkingengebied bouwwerken provinciale wegen omvat een zone langs de provinciale wegen waarin het bouwen van een bouwwerk (inclusief het veranderen van bestaande bouwwerken) het veilige en doelmatige gebruik van de provinciale weg kan aantasten. In dit artikel is een verbod opgenomen om in dat beperkingengebied te bouwen. Als een initiatiefnemer toch wil bouwen, is een buitenplanse omgevingsvergunning voor een omgevingsplanactiviteit vereist. Deze vergunning wordt alleen verleend als de provincie ontheffing verleent van de instructieregel van artikel 4.6 van de Omgevingsverordening provincie Utrecht.</Al>
+                     </Inhoud>
+                  </Divisietekst>
+                  <Divisietekst eId="cmp_1__content_1.4"
+                                wId="pv26_1__cmp_1__content_1.4"
+                                dso:niveau="2">
                      <Kop>
                         <Label>Artikel</Label>
                         <Nummer>1.4</Nummer>
                         <Opschrift>Verbod gebouwen en functiewijziging langs lokale spoorwegen</Opschrift>
                      </Kop>
-                     <Divisietekst eId="cmp_1__div_1.4__content_o_1"
-                                   wId="pv26_1__cmp_1__div_1.4__content_o_1">
-                        <Inhoud>
-                           <Al>Bewoners of gebruikers van gebouwen langs lokale spoorwegen kunnen hinder ondervinden door het gebruik van de spoorweg, in de vorm van geluid, trillingen, elektromagnetische straling of emissies van koper- of ijzerslijpsel. In het belang van bewoners en gebruikers, maar ook in het belang van de doelmatigheid van het lokale vervoer, mag de ervaren hinder niet toenemen. In dit artikel is daarom een verbod opgenomen om nieuwe gebouwen te bouwen. Ook mogen geen wijzigingen van de functie van een bestaand gebouw plaatsvinden, die tot verergering van de hinder leiden. Daarbij kan gedacht worden aan het omzetten van een kantoorfunctie naar een woonfunctie.</Al>
-                        </Inhoud>
-                     </Divisietekst>
-                  </Divisie>
+                     <Inhoud>
+                        <Al>Bewoners of gebruikers van gebouwen langs lokale spoorwegen kunnen hinder ondervinden door het gebruik van de spoorweg, in de vorm van geluid, trillingen, elektromagnetische straling of emissies van koper- of ijzerslijpsel. In het belang van bewoners en gebruikers, maar ook in het belang van de doelmatigheid van het lokale vervoer, mag de ervaren hinder niet toenemen. In dit artikel is daarom een verbod opgenomen om nieuwe gebouwen te bouwen. Ook mogen geen wijzigingen van de functie van een bestaand gebouw plaatsvinden, die tot verergering van de hinder leiden. Daarbij kan gedacht worden aan het omzetten van een kantoorfunctie naar een woonfunctie.</Al>
+                     </Inhoud>
+                  </Divisietekst>
                </Bijlage>
             </RegelingTijdelijkdeel>
          </WijzigBijlage>
@@ -970,7 +958,7 @@
          <eindverantwoordelijke>/tooi/id/provincie/pv26</eindverantwoordelijke>
          <maker>/tooi/id/provincie/pv26</maker>
          <soortBestuursorgaan>/tooi/def/thes/kern/c_61676cbc</soortBestuursorgaan>
-         <officieleTitel>Voorbereidingsbesluit Provincie Utrecht - gemeente Amersfoort</officieleTitel>
+         <officieleTitel>Voorbereidingsbesluit Provincie Utrecht - gemeente Utrecht</officieleTitel>
          <heeftCiteertitelInformatie>
             <CiteertitelInformatie>
                <citeertitel>Voorbereidingsbesluit Provincie Utrecht - gemeente Amersfoort</citeertitel>
@@ -1008,7 +996,7 @@
          <eindverantwoordelijke>/tooi/id/provincie/pv26</eindverantwoordelijke>
          <maker>/tooi/id/provincie/pv26</maker>
          <soortBestuursorgaan>/tooi/def/thes/kern/c_61676cbc</soortBestuursorgaan>
-         <officieleTitel>Voorbereidingsbesluit Provincie Utrecht - gemeente Nieuwegein</officieleTitel>
+         <officieleTitel>Voorbereidingsbesluit Provincie Utrecht - gemeente Utrecht</officieleTitel>
          <heeftCiteertitelInformatie>
             <CiteertitelInformatie>
                <citeertitel>Voorbereidingsbesluit Provincie Utrecht - gemeente Nieuwegein</citeertitel>

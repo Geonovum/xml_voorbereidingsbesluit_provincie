@@ -2,8 +2,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv27/2021/voorbeschermd_provinciaal_monument_gm0441</FRBRWork>
@@ -16,7 +16,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>provinciale_monumenten_gm0441.gml</bestandsnaam>
-                  <hash>49f01b4443921881e949acf565b0373d19802e4640a17119badd218b2b7c3d2a690f8d1b2859752963073aad426d2ce7a53d1eda41ae7999efa51be0f838736a</hash>
+                  <hash>418fc2ff5e8b385f50c98bd401601dd078cd0911b420b5df1701957f895a74ae34796fef59446cdd829676903254650c89940ae8a0cbfe05eb9749a61100ee4b</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

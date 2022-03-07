@@ -1,36 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
-  xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  schemaversie="1.1.0"
-  xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
-  <InformatieObjectVersie>
-    <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <FRBRWork>/join/id/regdata/pv26/2021/grondwater_gm0344</FRBRWork>
-      <FRBRExpression>/join/id/regdata/pv26/2021/grondwater_gm0344/nld@2021-04-19;1</FRBRExpression>
-      <soortWork>/join/id/stop/work_010</soortWork>
-    </ExpressionIdentificatie>
-    <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <heeftGeboorteregeling>/akn/nl/act/pv26/2021/VBPU0001_gm0344</heeftGeboorteregeling>
-      <heeftBestanden>
-        <heeftBestand>
-          <Bestand>
-            <bestandsnaam>001_grondwater.gml</bestandsnaam>
-            <hash>c5a03d25df4ff11feab519b90bbb05d376c8b35286311458db36730ffbd28ac026cdab3023bfdb51f1c6d38b074997fad7916336b9b794fce7d955adcf661111</hash>
-          </Bestand>
-        </heeftBestand>
-      </heeftBestanden>
-    </InformatieObjectVersieMetadata>
-    <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <eindverantwoordelijke>/tooi/id/provincie/pv26</eindverantwoordelijke>
-      <maker>/tooi/id/provincie/pv26</maker>
-      <alternatieveTitels>
-        <alternatieveTitel>grondwaterbeschermingsgebied</alternatieveTitel>
-      </alternatieveTitels>
-      <officieleTitel>/join/id/regdata/pv26/2021/grondwater_gm0344</officieleTitel>
-      <publicatieinstructie>TeConsolideren</publicatieinstructie>
-      <naamInformatieObject>grondwaterbeschermingsgebied</naamInformatieObject>
-      <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
-    </InformatieObjectMetadata>
-  </InformatieObjectVersie>
+                             xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
+                             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
+   <InformatieObjectVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/join/id/regdata/pv26/2021/grondwater_gm0344</FRBRWork>
+         <FRBRExpression>/join/id/regdata/pv26/2021/grondwater_gm0344/nld@2021-04-19;1</FRBRExpression>
+         <soortWork>/join/id/stop/work_010</soortWork>
+      </ExpressionIdentificatie>
+      <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <heeftGeboorteregeling>/akn/nl/act/pv26/2021/VBPU0001_gm0344</heeftGeboorteregeling>
+         <heeftBestanden>
+            <heeftBestand>
+               <Bestand>
+                  <bestandsnaam>001_grondwater.gml</bestandsnaam>
+                  <hash>469f33bdf0fa3ecd0504aec572adeba6bb91face55527955bf3bf21e2b3fa31e5cd1d96ef1fc3e0869e8a74e84cd01bdeab5fd663c636660a941a4ed2099e2eb</hash>
+               </Bestand>
+            </heeftBestand>
+         </heeftBestanden>
+      </InformatieObjectVersieMetadata>
+      <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/provincie/pv26</eindverantwoordelijke>
+         <maker>/tooi/id/provincie/pv26</maker>
+         <alternatieveTitels>
+            <alternatieveTitel>grondwaterbeschermingsgebied</alternatieveTitel>
+         </alternatieveTitels>
+         <officieleTitel>/join/id/regdata/pv26/2021/grondwater_gm0344</officieleTitel>
+         <publicatieinstructie>TeConsolideren</publicatieinstructie>
+         <naamInformatieObject>grondwaterbeschermingsgebied</naamInformatieObject>
+         <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+      </InformatieObjectMetadata>
+   </InformatieObjectVersie>
 </AanleveringInformatieObject>
