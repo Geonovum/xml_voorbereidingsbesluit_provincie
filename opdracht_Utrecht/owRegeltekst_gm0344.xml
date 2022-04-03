@@ -39,7 +39,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-pv26.regeltekst.utrcht0001"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.GM0344"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
@@ -60,7 +60,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-pv26.regeltekst.utrcht0002"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.GM0344"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
@@ -81,7 +81,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-pv26.regeltekst.utrcht0003"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.GM0344"/>
                </r:locatieaanduiding>
                <r:gebiedsaanwijzing>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.utrcht0001"/>
@@ -105,7 +105,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-pv26.regeltekst.utrcht0004"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.GM0344"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
@@ -126,7 +126,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-pv26.regeltekst.utrcht0005"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.GM0344"/>
                </r:locatieaanduiding>
                <r:gebiedsaanwijzing>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.utrcht0002"/>
@@ -150,7 +150,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-pv26.regeltekst.utrcht0006"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.GM0344"/>
                </r:locatieaanduiding>
                <r:gebiedsaanwijzing>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.utrcht0003"/>
@@ -174,7 +174,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-pv26.regeltekst.utrcht0007"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.GM0344"/>
                </r:locatieaanduiding>
                <r:gebiedsaanwijzing>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.utrcht0003"/>

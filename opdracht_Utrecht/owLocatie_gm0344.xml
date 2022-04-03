@@ -27,11 +27,11 @@
       <sl:stand>
          <ow-dc:owObject>
             <l:Ambtsgebied>
-               <l:identificatie>nl.imow-pv26.ambtsgebied.00000001001797864000</l:identificatie>
+               <l:identificatie>nl.imow-pv26.ambtsgebied.GM0344</l:identificatie>
                <l:noemer>Provincie Utrecht</l:noemer>
                <l:bestuurlijkeGrenzenVerwijzing>
                   <l:BestuurlijkeGrenzenVerwijzing>
-                     <l:bestuurlijkeGrenzenID>PV26</l:bestuurlijkeGrenzenID>
+                     <l:bestuurlijkeGrenzenID>GM0344</l:bestuurlijkeGrenzenID>
                      <l:domein>NL.BI.BestuurlijkGebied</l:domein>
                      <l:geldigOp>2021-01-01</l:geldigOp>
                   </l:BestuurlijkeGrenzenVerwijzing>

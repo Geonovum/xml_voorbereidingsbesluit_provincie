@@ -28,7 +28,7 @@
             <rg:Regelingsgebied>
                <rg:identificatie>nl.imow-gm0307.regelingsgebied.202106020001</rg:identificatie>
                <rg:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.GM0307"/>
                </rg:locatieaanduiding>
             </rg:Regelingsgebied>
          </ow-dc:owObject>
