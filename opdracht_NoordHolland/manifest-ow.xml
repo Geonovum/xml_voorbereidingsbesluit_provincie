@@ -18,6 +18,7 @@
       <Bestand>
          <naam>owLocatie_gm0373.xml</naam>
          <objecttype>Gebied</objecttype>
+         <objecttype>Ambtsgebied</objecttype>
       </Bestand>
       <Bestand>
          <naam>owActiviteit_gm0373.xml</naam>
@@ -39,6 +40,7 @@
       <Bestand>
          <naam>owLocatie_gm0441.xml</naam>
          <objecttype>Gebied</objecttype>
+         <objecttype>Ambtsgebied</objecttype>
       </Bestand>
       <Bestand>
          <naam>owActiviteit_gm0441.xml</naam>
@@ -60,6 +62,7 @@
       <Bestand>
          <naam>owLocatie_gm0388.xml</naam>
          <objecttype>Gebied</objecttype>
+         <objecttype>Ambtsgebied</objecttype>
       </Bestand>
       <Bestand>
          <naam>owActiviteit_gm0388.xml</naam>

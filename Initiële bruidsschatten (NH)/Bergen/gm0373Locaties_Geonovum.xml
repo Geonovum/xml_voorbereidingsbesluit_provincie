@@ -19,6 +19,7 @@
          <sl:gebied>gm0373</sl:gebied>
          <sl:leveringsId>gm0373_2021-03-23</sl:leveringsId>
          <sl:objectTypen>
+            <sl:objectType>Ambtsgebied</sl:objectType>
             <sl:objectType>Gebiedengroep</sl:objectType>
             <sl:objectType>Gebied</sl:objectType>
          </sl:objectTypen>
@@ -41,6 +42,20 @@
                   <l:GeometrieRef xlink:href="6515ab7f-add5-4241-977b-a51710cb7c56"/>
                </l:geometrie>
             </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Ambtsgebied>
+               <l:identificatie>nl.imow-gm0373.ambtsgebied.Bergen</l:identificatie>
+               <l:bestuurlijkeGrenzenVerwijzing>
+                  <l:BestuurlijkeGrenzenVerwijzing>
+                     <l:bestuurlijkeGrenzenID>GM0373</l:bestuurlijkeGrenzenID>
+                     <l:domein>NL.BI.BestuurlijkGebied</l:domein>
+                     <l:geldigOp>2021-01-01</l:geldigOp>
+                  </l:BestuurlijkeGrenzenVerwijzing>
+               </l:bestuurlijkeGrenzenVerwijzing>
+            </l:Ambtsgebied>
          </ow-dc:owObject>
       </sl:stand>
    </sl:standBestand>
