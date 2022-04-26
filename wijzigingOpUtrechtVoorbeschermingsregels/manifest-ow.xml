@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Aanleveringen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xmlns="http://www.geostandaarden.nl/bestanden-ow/manifest-ow"
+               xsi:schemaLocation="http://www.geostandaarden.nl/bestanden-ow/manifest-ow https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/generiek/manifest-ow.xsd">
+   <domein>omgevingswet</domein>
+   <Aanlevering>
+      <WorkIDRegeling>/akn/nl/act/pv26/2021/VBPU0001_gm0344</WorkIDRegeling>
+      <DoelID>/join/id/proces/pv26/2021/vervangRegeling</DoelID>
+      <Bestand>
+         <naam>owRegeltekst_gm0344.xml</naam>
+         <objecttype>RegelVoorIedereen</objecttype>
+      </Bestand>
+   </Aanlevering>
+   <Aanlevering>
+      <WorkIDRegeling>/akn/nl/act/pv26/2021/VBPU0001_gm0356</WorkIDRegeling>
+      <DoelID>/join/id/proces/pv26/2021/vervangRegeling</DoelID>
+      <Bestand>
+         <naam>owRegeltekst_gm0356.xml</naam>
+         <objecttype>RegelVoorIedereen</objecttype>
+      </Bestand>
+   </Aanlevering>
+</Aanleveringen>
